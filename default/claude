@@ -1,5 +1,11 @@
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,intercom
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,api.anthropic.com
+DOMAIN-SUFFIX,claude-api.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.run
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,status.anthropic.com
