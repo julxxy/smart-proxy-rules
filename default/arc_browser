@@ -1,0 +1,5 @@
+PROCESS-NAME,Arc,PROXY
+DOMAIN-SUFFIX,arc.net,PROXY
+DOMAIN-SUFFIX,thebrowser.company,PROXY
+DOMAIN-SUFFIX,browser.company,PROXY
+DOMAIN,api.arc.net,PROXY
