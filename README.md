@@ -19,7 +19,18 @@
 ### Shadowrocket
 
 1. 打开 **配置 → 规则集 → 添加规则集**
-2. 输入链接，例如：
-```text
-https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/default/ClaudeAI
+2. 输入链接，例如：https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/default/claude
+3. 保存并应用
+
+### Clash
+
+1. 在配置文件中添加：
+
+```yaml
+rule-providers:
+  claude:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/default/claude
+    interval: 86400
 ```
