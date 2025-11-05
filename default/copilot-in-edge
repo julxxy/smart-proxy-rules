@@ -7,7 +7,6 @@ PROCESS-NAME,microsoft edge,DIRECT
 # 关键词/主域名
 DOMAIN-KEYWORD,copilot,PROXY
 DOMAIN,sydney.bing.com,PROXY
-DOMAIN,copilot.microsoft.com,PROXY
 
 # Edge Copilot/Bing AI 及 Microsoft AI 相关域名
 PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,bing.com
