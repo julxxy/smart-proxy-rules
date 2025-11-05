@@ -1,0 +1,16 @@
+# Arc 浏览器自动更新代理规则
+DOMAIN,arc.net,PROXY
+DOMAIN,arc-browser.com,PROXY
+DOMAIN,arc-cdn.net,PROXY
+DOMAIN,arc-updates.arc.net,PROXY
+
+# Dia 浏览器自动更新代理规则
+DOMAIN,diabrowser.com,PROXY
+DOMAIN,updates.diabrowser.com,PROXY
+DOMAIN,download.diabrowser.com,PROXY
+
+# 补充 CDN/通用自动更新仓库域名
+DOMAIN,amazonaws.com,PROXY
+DOMAIN,githubusercontent.com,PROXY
+DOMAIN,github.com,PROXY
+DOMAIN,fastly.net,PROXY
