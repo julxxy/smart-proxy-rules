@@ -1,0 +1,24 @@
+# 只代理 Edge 浏览器中的 Copilot & AI 流量，其余 Edge 流量直连
+# ——— Edge 进程默认直连
+PROCESS-NAME,msedge,DIRECT
+PROCESS-NAME,microsoft edge,DIRECT
+
+# ——— Copilot & AI 相关流量代理（PROXY 为你的代理组名）
+# 关键词/主域名
+DOMAIN-KEYWORD,copilot,PROXY
+DOMAIN,sydney.bing.com,PROXY
+
+# Edge Copilot/Bing AI 及 Microsoft AI 相关域名
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,bing.com
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,edgeservices.bing.com
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,copilot.microsoft.com
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,edge.microsoft.com
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,chatgpt.microsoft.com
+PROCESS-NAME,msedge,PROXY,DOMAIN-SUFFIX,ai.microsoft.com
+
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,bing.com
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,edgeservices.bing.com
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,copilot.microsoft.com
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,edge.microsoft.com
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,chatgpt.microsoft.com
+PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,ai.microsoft.com
