@@ -1,3 +1,4 @@
+PROCESS-NAME,Claude,PROXY
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,intercom
@@ -9,3 +10,5 @@ DOMAIN-SUFFIX,claude.run
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,status.anthropic.com
+DOMAIN-SUFFIX,statsig.anthropic.com
+DOMAIN-SUFFIX,sentry.io
