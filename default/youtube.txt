@@ -1,0 +1,28 @@
+# YouTube Ad Blocking Rules for Shadowrocket
+# Last Modified: 2025-11-11
+
+[Rule]
+# 广告域名（保留）
+DOMAIN-KEYWORD,googleads,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,googleadservices.com,REJECT
+DOMAIN,www.googleadservices.com,REJECT
+DOMAIN,pagead2.googlesyndication.com,REJECT
+DOMAIN,tpc.googlesyndication.com,REJECT
+DOMAIN,ad.doubleclick.net,REJECT
+DOMAIN,static.doubleclick.net,REJECT
+DOMAIN,adservice.google.com,REJECT
+
+# YouTube 广告与追踪端点（URL 级精准拦截）
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/pagead/,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/api/stats/(ads|qoe|watchtime)\\b,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/ptracking\\b,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/youtubei/v1/player/ad_break\\b,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/get_midroll_info\\b,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?googlevideo\\.com/pcs/activeview\\b,REJECT
+URL-REGEX,^https?://([a-z0-9-]+\\.)?youtube\\.com/premium_upsell,REJECT
+
+# 分析与测量
+DOMAIN-SUFFIX,google-analytics.com,REJECT
+DOMAIN,ssl.google-analytics.com,REJECT
