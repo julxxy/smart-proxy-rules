@@ -1,0 +1,29 @@
+# YouTube Ad Blocking Rules for Shadowrocket
+# Last Modified: 2025-11-11
+
+[Rule]
+# YouTube 广告服务器
+DOMAIN-SUFFIX,googlevideo.com,REJECT
+DOMAIN-KEYWORD,googleads,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,googleadservices.com,REJECT
+
+# YouTube 广告相关域名
+DOMAIN,www.googleadservices.com,REJECT
+DOMAIN,pagead2.googlesyndication.com,REJECT
+DOMAIN,tpc.googlesyndication.com,REJECT
+DOMAIN,ad.doubleclick.net,REJECT
+DOMAIN,static.doubleclick.net,REJECT
+DOMAIN,adservice.google.com,REJECT
+
+# YouTube 追踪和遥测
+URL-REGEX,^https?://.+\.youtube\.com/api/stats/ads,REJECT
+URL-REGEX,^https?://.+\.youtube\.com/pagead/,REJECT
+URL-REGEX,^https?://.+\.youtube\.com/ptracking,REJECT
+URL-REGEX,^https?://.+\.youtube\.com/api/stats/atr,REJECT
+URL-REGEX,^https?://.+\.googlevideo\.com/pcs/activeview,REJECT
+
+# 分析追踪
+DOMAIN-SUFFIX,google-analytics.com,REJECT
+DOMAIN,ssl.google-analytics.com,REJECT
