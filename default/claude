@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,api.anthropic.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,downloads.claude.ai, PROXY
+DOMAIN-SUFFIX,downloads.claude.ai,PROXY
 DOMAIN-SUFFIX,claude.run,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 DOMAIN-SUFFIX,intercom.io,PROXY
