@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,dia
 # Arc 浏览器自动更新代理规则
 DOMAIN-SUFFIX,arc.net,PROXY
 DOMAIN-SUFFIX,arc-browser.com,PROXY

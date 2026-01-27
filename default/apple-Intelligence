@@ -1,15 +1,12 @@
 DOMAIN,guzzoni.apple.com,PROXY
-
 # Search services (Siri, Spotlight, etc.)
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
-
 # Private Cloud Compute
 DOMAIN,apple-relay.cloudflare.com,PROXY
 DOMAIN,apple-relay.fastly-edge.com,PROXY
 DOMAIN,apple-relay.akamaized.net,PROXY
 DOMAIN,apple-relay.mask.apple-dns.net,PROXY
 DOMAIN,cp4.cloudflare.com,PROXY
-
 # Apple Intelligence Extension
 DOMAIN,apple-relay.apple.com,PROXY
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
