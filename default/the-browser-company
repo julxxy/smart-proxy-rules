@@ -13,8 +13,3 @@ DOMAIN-SUFFIX,download.diabrowser.com,PROXY
 DOMAIN-SUFFIX,diabrowser.engineering,PROXY
 DOMAIN-SUFFIX,notion.site.engineering,PROXY
 
-# 补充 CDN/通用自动更新仓库域名
-DOMAIN-SUFFIX,amazonaws.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,fastly.net,PROXY
