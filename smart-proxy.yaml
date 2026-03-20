@@ -89,6 +89,7 @@ payload:
   - 'DOMAIN-SUFFIX,perplexity.com,PROXY'
   - 'DOMAIN-SUFFIX,pplx.ai,PROXY'
   - 'DOMAIN-SUFFIX,cloudflare.com,PROXY'
+  - 'DOMAIN-SUFFIX,cloudflareaccess.com,PROXY'
   - 'DOMAIN-SUFFIX,amazon.com,PROXY'
   - 'DOMAIN-SUFFIX,amazonaws.com,PROXY'
   - 'DOMAIN-SUFFIX,chatgpt.com,PROXY'
