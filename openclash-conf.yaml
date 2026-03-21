@@ -1,0 +1,73 @@
+mixin:
+  prepend-rules:
+    # 1. 优先拦截广告/追踪，避免浪费代理流量
+    - RULE-SET,reject,REJECT
+    # 2. 本地/私有流量立即直连，避免走代理
+    - RULE-SET,private,DIRECT
+    - RULE-SET,lancidr,DIRECT,no-resolve
+    # 3. 精确代理规则（specificity 高 → 低）
+    - RULE-SET,smart-proxy,PROXY
+    - RULE-SET,copilot-proxy,PROXY
+    - RULE-SET,google,PROXY
+    - RULE-SET,telegramcidr,PROXY,no-resolve
+    # 4. 已知被墙域名
+    - RULE-SET,gfw,PROXY
+    # 5. 兜底：非 .cn 顶级域名全走代理（最宽泛，放最后）
+    - RULE-SET,tld-not-cn,PROXY
+  rule-providers:
+    smart-proxy:
+      type: http
+      behavior: classical
+      format: yaml
+      url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/smart-proxy.yaml"
+      path: /etc/openclash/rule_provider/smart-proxy.yaml
+      interval: 86400
+    copilot-proxy:
+      type: http
+      behavior: classical
+      format: yaml
+      url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.yaml"
+      path: /etc/openclash/rule_provider/copilot-proxy.yaml
+      interval: 86400
+    reject:
+      type: http
+      behavior: domain
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+      path: ./ruleset/reject.yaml
+      interval: 86400
+    google:
+      type: http
+      behavior: domain
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+      path: ./ruleset/google.yaml
+      interval: 86400
+    private:
+      type: http
+      behavior: domain
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+      path: ./ruleset/private.yaml
+      interval: 86400
+    gfw:
+      type: http
+      behavior: domain
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
+      path: ./ruleset/gfw.yaml
+      interval: 86400
+    tld-not-cn:
+      type: http
+      behavior: domain
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
+      path: ./ruleset/tld-not-cn.yaml
+      interval: 86400
+    telegramcidr:
+      type: http
+      behavior: ipcidr
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+      path: ./ruleset/telegramcidr.yaml
+      interval: 86400
+    lancidr:
+      type: http
+      behavior: ipcidr
+      url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+      path: ./ruleset/lancidr.yaml
+      interval: 86400
