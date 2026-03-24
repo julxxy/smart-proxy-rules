@@ -9,6 +9,7 @@ mixin:
     - RULE-SET,smart-proxy,PROXY
     - RULE-SET,copilot-proxy,PROXY
     - RULE-SET,google,PROXY
+    - RULE-SET,microsoft-bing,PROXY
     - RULE-SET,telegramcidr,PROXY,no-resolve
     # 4. 已知被墙域名
     - RULE-SET,gfw,PROXY
@@ -40,6 +41,12 @@ mixin:
       behavior: domain
       url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
       path: ./ruleset/google.yaml
+      interval: 86400
+    microsoft-bing:
+      type: http
+      behavior: domain
+      url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
+      path: ./ruleset/microsoft-bing.yaml
       interval: 86400
     private:
       type: http
