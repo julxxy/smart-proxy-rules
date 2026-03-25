@@ -149,6 +149,7 @@ payload:
   - 'DOMAIN,telemetry.appewa.com,DIRECT'
   - 'DOMAIN-SUFFIX,appewa.com,PROXY'
   - 'DOMAIN-SUFFIX,qytaff.pro,PROXY'
+  - 'DOMAIN-SUFFIX,qytsub03.pro,PROXY'
   - 'DOMAIN-SUFFIX,qingyunti.cc,PROXY'
   - 'DOMAIN-SUFFIX,qytsublink.com,PROXY'
   - 'DOMAIN-KEYWORD,dogess,PROXY'
