@@ -33,16 +33,6 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
       interval: 300
 
-  paopao:
-    type: http
-    path: ./proxy_providers/paopao.yaml
-    url: "待填写"    # ← 填写 泡泡Dog 订阅链接
-    interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
-
 # ============================================================
 # 2. 策略组 (Proxy Groups)
 # ============================================================
@@ -52,35 +42,32 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 150    # 延迟差 >150ms 才切换，避免频繁切IP影响境外账号风控
+    tolerance: 100    # 延迟差 > 100ms 才切换，避免频繁切IP影响境外账号风控
     filter: "台湾|TW|Taiwan"
     use:
       - dogess
       - danta
-      - paopao
 
   # --- 备用/其他地区组 ---
   - name: 日本组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 50
+    tolerance: 150
     filter: "日本|JP|Japan"
     use:
       - dogess
       - danta
-      - paopao
 
   - name: 美国组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 50
+    tolerance: 200
     filter: "美国|US|United States"
     use:
       - dogess
       - danta
-      - paopao
 
 # ============================================================
 # 3. 规则集定义 (Rule Providers) - 继承自你维护的配置
