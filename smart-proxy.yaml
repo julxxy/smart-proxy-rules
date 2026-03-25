@@ -146,6 +146,7 @@ payload:
   - 'DOMAIN-SUFFIX,ghcr.io,PROXY'
   - 'DOMAIN-SUFFIX,oaiusercontent.com,PROXY'
   - 'DOMAIN-SUFFIX,eppo.cloud,PROXY'
+  - 'DOMAIN-SUFFIX,unpkg.com,PROXY'
 
   # Source: the-browser-company
   - 'DOMAIN-KEYWORD,dia,PROXY'
