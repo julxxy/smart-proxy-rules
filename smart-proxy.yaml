@@ -127,6 +127,7 @@ payload:
   - 'DOMAIN-SUFFIX,firefox.com,PROXY'
   - 'DOMAIN-SUFFIX,mozilla.org,PROXY'
   - 'DOMAIN-SUFFIX,mozilla.net,PROXY'
+  - 'DOMAIN-SUFFIX,mozilla.com,PROXY'
   - 'DOMAIN-SUFFIX,firefoxusercontent.com,PROXY'
   - 'DOMAIN-SUFFIX,stripe.com,PROXY'
   - 'DOMAIN-SUFFIX,stripecdn.com,PROXY'
