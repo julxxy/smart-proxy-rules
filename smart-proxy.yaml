@@ -144,6 +144,8 @@ payload:
   - 'DOMAIN-KEYWORD,dogess,PROXY'
   - 'DOMAIN-SUFFIX,brew.sh,PROXY'
   - 'DOMAIN-SUFFIX,ghcr.io,PROXY'
+  - 'DOMAIN,telemetry.appewa.com,DIRECT'
+  - 'DOMAIN-SUFFIX,appewa.com,PROXY'
   - 'DOMAIN-SUFFIX,oaiusercontent.com,PROXY'
   - 'DOMAIN-SUFFIX,eppo.cloud,PROXY'
   - 'DOMAIN-SUFFIX,unpkg.com,PROXY'
