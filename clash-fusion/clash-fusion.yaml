@@ -1,0 +1,186 @@
+# ============================================================
+# OpenClash 最小化配置
+# DNS / 端口 / allow-lan 等由 OpenClash 插件界面管理，此处不写
+# 设计目标：多机场整合 + 智能延迟切换 + 极简按需分流
+# ============================================================
+
+mode: rule
+
+profile:
+  store-selected: true  # 重启路由器后记住节点状态
+
+# ============================================================
+# 1. 机场订阅源 (Proxy Providers)
+# ============================================================
+proxy-providers:
+  dogess:
+    type: http
+    path: ./proxy_providers/dogess.yaml
+    url: "待填写"    # ← 填写 Dogess 订阅链接
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  danta:
+    type: http
+    path: ./proxy_providers/danta.yaml
+    url: "待填写"    # ← 填写 蛋挞 订阅链接
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+  paopao:
+    type: http
+    path: ./proxy_providers/paopao.yaml
+    url: "待填写"    # ← 填写 泡泡Dog 订阅链接
+    interval: 86400
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 300
+
+# ============================================================
+# 2. 策略组 (Proxy Groups)
+# ============================================================
+proxy-groups:
+  # --- 核心主出口：台湾组 ---
+  - name: 台湾组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 150    # 延迟差 >150ms 才切换，避免频繁切IP影响境外账号风控
+    filter: "台湾|TW|Taiwan"
+    use:
+      - dogess
+      - danta
+      - paopao
+
+  # --- 备用/其他地区组 ---
+  - name: 日本组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    filter: "日本|JP|Japan"
+    use:
+      - dogess
+      - danta
+      - paopao
+
+  - name: 美国组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    filter: "美国|US|United States"
+    use:
+      - dogess
+      - danta
+      - paopao
+
+# ============================================================
+# 3. 规则集定义 (Rule Providers) - 继承自你维护的配置
+# ============================================================
+rule-providers:
+  smart-proxy:
+    type: http
+    behavior: classical
+    format: yaml
+    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/smart-proxy.yaml"
+    path: /etc/openclash/rule_provider/smart-proxy.yaml
+    interval: 86400
+
+  copilot-proxy:
+    type: http
+    behavior: classical
+    format: yaml
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.yaml"
+    path: /etc/openclash/rule_provider/copilot-proxy.yaml
+    interval: 86400
+
+  reject:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/reject.yaml
+    interval: 86400
+
+  private:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
+    path: ./ruleset/private.yaml
+    interval: 86400
+
+  google:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+    path: ./ruleset/google.yaml
+    interval: 86400
+
+  microsoft-bing:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
+    path: ./ruleset/microsoft-bing.yaml
+    interval: 86400
+
+  gfw:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
+    path: ./ruleset/gfw.yaml
+    interval: 86400
+
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
+    path: ./ruleset/tld-not-cn.yaml
+    interval: 86400
+
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+
+# ============================================================
+# 4. 路由规则 (Rules) - 全部指向“台湾组”
+# ============================================================
+rules:
+  # 1. 优先拦截广告/追踪，避免浪费代理流量
+  - RULE-SET,reject,REJECT
+
+  # 2. 本地/私有流量立即直连，避免走代理
+  - RULE-SET,private,DIRECT
+  - RULE-SET,lancidr,DIRECT,no-resolve
+
+  # 3. 精确代理规则（优先级：高 → 低）
+  - RULE-SET,smart-proxy,台湾组
+  - RULE-SET,copilot-proxy,台湾组
+  - RULE-SET,google,台湾组
+  - RULE-SET,microsoft-bing,台湾组
+  - RULE-SET,telegramcidr,台湾组,no-resolve
+
+  # 4. 已知被墙域名
+  - RULE-SET,gfw,台湾组
+
+  # 5. 兜底：非 .cn 顶级域名全走代理（最宽泛，放最后）
+  - RULE-SET,tld-not-cn,台湾组
+
+  # 6. 最终全局兜底（保护机制：未匹配的默认国内直连）
+  - MATCH,DIRECT
