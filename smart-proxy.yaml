@@ -133,6 +133,7 @@ payload:
   - 'DOMAIN-SUFFIX,cloudinary.com,PROXY'
   - 'DOMAIN-SUFFIX,githubusercontent.com,PROXY'
   - 'DOMAIN-SUFFIX,github.com,PROXY'
+  - 'DOMAIN-SUFFIX,github.io,PROXY'
   - 'DOMAIN-SUFFIX,fastly.net,PROXY'
   - 'DOMAIN-SUFFIX,fast.com,PROXY'
   - 'DOMAIN-SUFFIX,auth0.com,PROXY'
@@ -141,6 +142,8 @@ payload:
   - 'DOMAIN-SUFFIX,qingyunti.cc,PROXY'
   - 'DOMAIN-SUFFIX,qytsublink.com,PROXY'
   - 'DOMAIN-KEYWORD,dogess,PROXY'
+  - 'DOMAIN-SUFFIX,brew.sh,PROXY'
+  - 'DOMAIN-SUFFIX,ghcr.io,PROXY'
   - 'DOMAIN-SUFFIX,oaiusercontent.com,PROXY'
   - 'DOMAIN-SUFFIX,eppo.cloud,PROXY'
 
