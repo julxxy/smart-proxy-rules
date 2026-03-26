@@ -7,7 +7,7 @@
 mode: rule
 
 profile:
-  store-selected: true  # 重启路由器后记住节点状态
+  store-selected: true # 重启路由器后记住节点状态
 
 # ============================================================
 # 1. 机场订阅源 (Proxy Providers)
@@ -16,7 +16,7 @@ proxy-providers:
   dogess:
     type: http
     path: ./proxy_providers/dogess.yaml
-    url: "待填写"    # ← 填写 Dogess 订阅链接
+    url: "待填写" # ← 填写 Dogess 订阅链接
     interval: 86400
     health-check:
       enable: true
@@ -26,7 +26,7 @@ proxy-providers:
   danta:
     type: http
     path: ./proxy_providers/danta.yaml
-    url: "待填写"    # ← 填写 蛋挞 订阅链接
+    url: "待填写" # ← 填写 蛋挞 订阅链接
     interval: 86400
     health-check:
       enable: true
@@ -42,7 +42,7 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 150    # 延迟差 > 150ms 才切换，避免频繁切IP影响境外账号风控
+    tolerance: 150 # 延迟差 > 150ms 才切换，避免频繁切IP影响境外账号风控
     filter: "台湾|TW|Taiwan"
     use:
       - dogess
@@ -91,6 +91,7 @@ rule-providers:
 
   reject:
     type: http
+    format: yaml
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
@@ -98,6 +99,7 @@ rule-providers:
 
   private:
     type: http
+    format: yaml
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
     path: ./ruleset/private.yaml
@@ -105,6 +107,7 @@ rule-providers:
 
   google:
     type: http
+    format: yaml
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
     path: ./ruleset/google.yaml
@@ -112,6 +115,7 @@ rule-providers:
 
   microsoft-bing:
     type: http
+    format: text
     behavior: domain
     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
     path: ./ruleset/microsoft-bing.yaml
@@ -119,6 +123,7 @@ rule-providers:
 
   gfw:
     type: http
+    format: yaml
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
     path: ./ruleset/gfw.yaml
@@ -126,6 +131,7 @@ rule-providers:
 
   tld-not-cn:
     type: http
+    format: yaml
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
@@ -133,6 +139,7 @@ rule-providers:
 
   telegramcidr:
     type: http
+    format: yaml
     behavior: ipcidr
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
@@ -140,6 +147,7 @@ rule-providers:
 
   lancidr:
     type: http
+    format: yaml
     behavior: ipcidr
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
     path: ./ruleset/lancidr.yaml
