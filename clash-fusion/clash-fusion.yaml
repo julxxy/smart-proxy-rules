@@ -37,16 +37,22 @@ proxy-providers:
 # 2. 策略组 (Proxy Groups)
 # ============================================================
 proxy-groups:
+  - name: 🌍代理出口
+    type: select
+    proxies:
+      - 台湾组
+      - 日本组
+      - 美国组
+      - DIRECT
+
   # --- 核心主出口：台湾组 ---
   - name: 台湾组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150 # 延迟差 > 150ms 才切换，避免频繁切IP影响境外账号风控
-    filter: "台湾|TW|Taiwan"
-    use:
-      - dogess
-      - danta
+    filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
+    use: [dogess, danta]
 
   # --- 备用/其他地区组 ---
   - name: 日本组
@@ -54,20 +60,16 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
-    filter: "日本|JP|Japan"
-    use:
-      - dogess
-      - danta
+    filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)"
+    use: [dogess, danta]
 
   - name: 美国组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 200
-    filter: "美国|US|United States"
-    use:
-      - dogess
-      - danta
+    filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
+    use: [dogess, danta]
 
 # ============================================================
 # 3. 规则集定义 (Rule Providers) - 继承自你维护的配置
