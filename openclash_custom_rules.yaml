@@ -47,6 +47,7 @@ mixin:
       interval: 86400
     microsoft-bing:
       type: http
+      format: text
       behavior: domain
       url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
       path: ./ruleset/microsoft-bing.yaml
