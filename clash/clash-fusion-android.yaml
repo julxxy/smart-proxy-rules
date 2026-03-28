@@ -34,20 +34,14 @@ proxy-providers:
     path: ./proxy_providers/dogess.yaml
     url: "待填写"  # ← Dogess 订阅链接
     interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
+    health-check: { enable: true, url: http://www.gstatic.com/generate_204, interval: 300 }
 
   danta:
     type: http
     path: ./proxy_providers/danta.yaml
     url: "待填写"  # ← 蛋挞订阅链接
     interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
+    health-check: { enable: true, url: http://www.gstatic.com/generate_204, interval: 300 }
 
 # ------------------------------------------------------------
 # 2. 策略组
@@ -55,31 +49,63 @@ proxy-providers:
 proxy-groups:
   - name: 🚀节点选择
     type: select
-    proxies: [台湾组, 日本组, 美国组, DIRECT]
+    proxies: [🇹🇼台湾组, 🇯🇵日本组, 🇰🇷韩国组, 🇺🇸美国组, 🇸🇬新加坡组, 🇭🇰香港组, 🌎余量, DIRECT]
 
-  - name: 台湾组  # 主出口，IP 稳定性好，适合需要固定台湾 IP 的服务
+  - name: 🇹🇼台湾组  # 主出口，IP 稳定性好，适合需要固定台湾 IP 的服务
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150  # 延迟差超过 150ms 才切换，降低 IP 变动频率
     filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
-    use: [dogess, danta]
+    use: [dogess, danta, qingyunti, paopaogou]
 
-  - name: 日本组
+  - name: 🇯🇵日本组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 150
     filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)"
-    use: [dogess, danta]
+    use: [dogess, danta, qingyunti, paopaogou]
 
-  - name: 美国组
+  - name: 🇰🇷韩国组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 150
+    filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)"
+    use: [dogess, danta, qingyunti, paopaogou]
+
+  - name: 🇺🇸美国组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 200
     filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
-    use: [dogess, danta]
+    use: [dogess, danta, qingyunti, paopaogou]
+
+  - name: 🇸🇬新加坡组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 150
+    filter: "(?i)(🇸🇬|新加坡|SG|Singapore)"
+    use: [dogess, danta, qingyunti, paopaogou]
+
+  - name: 🇭🇰香港组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 100
+    filter: "(?i)(🇭🇰|香港|HK|Hong Kong|HongKong)"
+    use: [dogess, danta, qingyunti, paopaogou]
+
+  - name: 🌎余量     # 匹配所有不属于上述 6 个地区的节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 300
+    filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|US|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore🇭🇰|香港|HK|Hong Kong)).*"
+    use: [dogess, danta, qingyunti, paopaogou]
 
 # ------------------------------------------------------------
 # 3. 规则集
