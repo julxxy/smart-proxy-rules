@@ -47,6 +47,11 @@ proxy-providers:
 # 2. 策略组
 # ------------------------------------------------------------
 proxy-groups:
+  - name: Proxy   # ← 不显示在节点列表中，兼容 Surge 的 PROXY 的规则文件
+    type: select
+    hidden: true
+    proxies: [🚀节点选择, DIRECT]
+
   - name: 🚀节点选择
     type: select
     proxies: [🇹🇼台湾组, 🇯🇵日本组, 🇰🇷韩国组, 🇺🇸美国组, 🇸🇬新加坡组, 🇭🇰香港组, 🌎余量, DIRECT]
