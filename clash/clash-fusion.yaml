@@ -7,7 +7,7 @@
 mode: rule
 
 profile:
-  store-selected: true # 重启路由器后记住节点状态
+  store-selected: true  # 重启路由器后记住上次选择的节点
 
 # ============================================================
 # 1. 机场订阅源 (Proxy Providers)
@@ -15,23 +15,17 @@ profile:
 proxy-providers:
   dogess:
     type: http
-    path: ./proxy_providers/dogess.yaml
-    url: "待填写" # ← 填写 Dogess 订阅链接
+    path: ./proxy_providers/dogess.yaml # 主订阅源文件名, 推荐使用订阅商名
+    url: "待填写" # ← 填写主力机场的订阅链接
     interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
+    health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300}
 
   danta:
     type: http
-    path: ./proxy_providers/danta.yaml
-    url: "待填写" # ← 填写 蛋挞 订阅链接
+    path: ./proxy_providers/danta.yaml # 备用订阅源文件名, 推荐使用订阅商名
+    url: "待填写" # ← 填写主力机场的订阅链接
     interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
+    health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300}
 
 # ============================================================
 # 2. 策略组 (Proxy Groups)
@@ -39,17 +33,17 @@ proxy-providers:
 proxy-groups:
   - name: 🚀节点选择
     type: select
-    proxies: [台湾组, 日本组, 美国组, DIRECT]
+    proxies: [🇹🇼台湾组, 🇯🇵日本组, 🇰🇷韩国组, 🇺🇸美国组, 🇸🇬新加坡组, 🇭🇰香港组, 🌎余量, DIRECT]
 
-  - name: 台湾组  # 主出口，IP 稳定性好，适合需要固定台湾 IP 的服务
+  - name: 🇹🇼台湾组      # 主出口，IP 稳定性好，适合需要固定台湾 IP 的服务
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 150  # 延迟差超过 150ms 才切换，降低 IP 变动频率
+    tolerance: 100  # 延迟差超过 100ms 才切换，降低 IP 变动频率
     filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
     use: [dogess, danta]
 
-  - name: 日本组
+  - name: 🇯🇵日本组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -57,16 +51,48 @@ proxy-groups:
     filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)"
     use: [dogess, danta]
 
-  - name: 美国组
+  - name: 🇰🇷韩国组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 150
+    filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)"
+    use: [dogess, danta]
+
+  - name: 🇺🇸美国组
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 200
-    filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
+    filter: "(?i)(🇺🇸|美国|United States|洛杉|纽约|西雅)"
+    use: [dogess, danta]
+
+  - name: 🇸🇬新加坡组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 150
+    filter: "(?i)(🇸🇬|新加坡|SG|Singapore)"
+    use: [dogess, danta]
+
+  - name: 🇭🇰香港组
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 100
+    filter: "(?i)(🇭🇰|香港|HK|Hong Kong|HongKong)"
+    use: [dogess, danta]
+
+  - name: 🌎余量     # 匹配所有不属于上述 6 个地区的节点
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 200
+    filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore🇭🇰|香港|HK|Hong Kong)).*"
     use: [dogess, danta]
 
 # ============================================================
-# 3. 规则集定义 (Rule Providers) - 继承自你维护的配置
+# 3. 规则集 (Rule Providers)
 # ============================================================
 rule-providers:
   smart-proxy:
@@ -87,81 +113,80 @@ rule-providers:
 
   reject:
     type: http
-    format: yaml
     behavior: domain
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
     interval: 86400
 
   private:
     type: http
-    format: yaml
     behavior: domain
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
     path: ./ruleset/private.yaml
     interval: 86400
 
   google:
     type: http
-    format: yaml
     behavior: domain
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
     path: ./ruleset/google.yaml
     interval: 86400
 
   microsoft-bing:
     type: http
-    format: text
     behavior: domain
+    format: text  # .list 格式（非 yaml），与 path 后缀对应
     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
-    path: ./ruleset/microsoft-bing.yaml
+    path: ./ruleset/microsoft-bing.list
     interval: 86400
 
   gfw:
     type: http
-    format: yaml
     behavior: domain
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
     path: ./ruleset/gfw.yaml
     interval: 86400
 
   tld-not-cn:
     type: http
-    format: yaml
     behavior: domain
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
     interval: 86400
 
   telegramcidr:
     type: http
-    format: yaml
     behavior: ipcidr
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
     interval: 86400
 
   lancidr:
     type: http
-    format: yaml
     behavior: ipcidr
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
     path: ./ruleset/lancidr.yaml
     interval: 86400
 
 # ============================================================
-# 4. 路由规则 (Rules) - 全部指向“台湾组”
+# 4. 路由规则 (Rules)
 # ============================================================
 rules:
   - RULE-SET,reject,REJECT                             # 广告/追踪拦截
   - RULE-SET,private,DIRECT                            # 私有地址直连
   - RULE-SET,lancidr,DIRECT,no-resolve                 # 局域网直连
-  - RULE-SET,smart-proxy,🚀节点选择                     # 自定义精确代理
-  - RULE-SET,copilot-proxy,🚀节点选择                   # Microsoft Copilot
+  - RULE-SET,smart-proxy,🚀节点选择                      # 自定义精确代理
+  - RULE-SET,copilot-proxy,🚀节点选择                    # Microsoft Copilot
   - RULE-SET,google,🚀节点选择
   - RULE-SET,microsoft-bing,🚀节点选择
   - RULE-SET,telegramcidr,🚀节点选择,no-resolve
-  - RULE-SET,gfw,🚀节点选择                             # 已知被墙域名
-  - RULE-SET,tld-not-cn,🚀节点选择                      # 非 .cn 顶级域名兜底代理
-  - MATCH,DIRECT                                       # 其余全部直连（国内兜底）
-
+  - RULE-SET,gfw,🚀节点选择                              # 已知被墙域名
+  - RULE-SET,tld-not-cn,🚀节点选择                       # 非 .cn 顶级域名，兜底走代理
+  - MATCH,DIRECT                                        # 其余流量直连（国内兜底）
