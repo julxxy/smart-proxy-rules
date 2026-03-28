@@ -37,24 +37,18 @@ proxy-providers:
 # 2. 策略组 (Proxy Groups)
 # ============================================================
 proxy-groups:
-  - name: 🌍代理出口
+  - name: 🚀节点选择
     type: select
-    proxies:
-      - 台湾组
-      - 日本组
-      - 美国组
-      - DIRECT
+    proxies: [台湾组, 日本组, 美国组, DIRECT]
 
-  # --- 核心主出口：台湾组 ---
-  - name: 台湾组
+  - name: 台湾组  # 主出口，IP 稳定性好，适合需要固定台湾 IP 的服务
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 150 # 延迟差 > 150ms 才切换，避免频繁切IP影响境外账号风控
+    tolerance: 150  # 延迟差超过 150ms 才切换，降低 IP 变动频率
     filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
     use: [dogess, danta]
 
-  # --- 备用/其他地区组 ---
   - name: 日本组
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -80,7 +74,7 @@ rule-providers:
     behavior: classical
     format: yaml
     url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/smart-proxy.yaml"
-    path: /etc/openclash/rule_provider/smart-proxy.yaml
+    path: ./ruleset/smart-proxy.yaml
     interval: 86400
 
   copilot-proxy:
@@ -88,7 +82,7 @@ rule-providers:
     behavior: classical
     format: yaml
     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.yaml"
-    path: /etc/openclash/rule_provider/copilot-proxy.yaml
+    path: ./ruleset/copilot-proxy.yaml
     interval: 86400
 
   reject:
@@ -159,25 +153,15 @@ rule-providers:
 # 4. 路由规则 (Rules) - 全部指向“台湾组”
 # ============================================================
 rules:
-  # 1. 优先拦截广告/追踪，避免浪费代理流量
-  - RULE-SET,reject,REJECT
+  - RULE-SET,reject,REJECT                             # 广告/追踪拦截
+  - RULE-SET,private,DIRECT                            # 私有地址直连
+  - RULE-SET,lancidr,DIRECT,no-resolve                 # 局域网直连
+  - RULE-SET,smart-proxy,🚀节点选择                     # 自定义精确代理
+  - RULE-SET,copilot-proxy,🚀节点选择                   # Microsoft Copilot
+  - RULE-SET,google,🚀节点选择
+  - RULE-SET,microsoft-bing,🚀节点选择
+  - RULE-SET,telegramcidr,🚀节点选择,no-resolve
+  - RULE-SET,gfw,🚀节点选择                             # 已知被墙域名
+  - RULE-SET,tld-not-cn,🚀节点选择                      # 非 .cn 顶级域名兜底代理
+  - MATCH,DIRECT                                       # 其余全部直连（国内兜底）
 
-  # 2. 本地/私有流量立即直连，避免走代理
-  - RULE-SET,private,DIRECT
-  - RULE-SET,lancidr,DIRECT,no-resolve
-
-  # 3. 精确代理规则（优先级：高 → 低）
-  - RULE-SET,smart-proxy,台湾组
-  - RULE-SET,copilot-proxy,台湾组
-  - RULE-SET,google,台湾组
-  - RULE-SET,microsoft-bing,台湾组
-  - RULE-SET,telegramcidr,台湾组,no-resolve
-
-  # 4. 已知被墙域名
-  - RULE-SET,gfw,台湾组
-
-  # 5. 兜底：非 .cn 顶级域名全走代理（最宽泛，放最后）
-  - RULE-SET,tld-not-cn,台湾组
-
-  # 6. 最终全局兜底（保护机制：未匹配的默认国内直连）
-  - MATCH,DIRECT
