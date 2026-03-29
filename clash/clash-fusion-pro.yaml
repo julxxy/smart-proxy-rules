@@ -215,7 +215,7 @@ rule-providers:
   china-ip: {<<: *ip, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/cn.mrs"}
 
   # 非 .cn 顶级域名（宽泛代理兜底，MRS）
-  tld-not-cn: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/tld-not-cn.mrs"}
+  tld-not-cn: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/tld-!cn.mrs"}
 
 # ============================================================
 # 路由规则
