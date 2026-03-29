@@ -95,7 +95,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 400
-    filter: "(?i)^(?!.*(直连|拒绝|DIRECT|REJECT|🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城|🇭🇰|香港|HK|Hong Kong|HongKong)).*"
+    filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城|🇭🇰|香港|HK|Hong Kong|HongKong)).*"
     use: [dogess, danta]
 
 # ============================================================
