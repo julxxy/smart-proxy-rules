@@ -14,13 +14,13 @@ profile:
 dns:
   enable: true
   ipv6: false
-  default-nameserver: [223.5.5.5, 119.29.29.29, 8.8.8.8]   # 用于解析 DoT/DoH 服务器域名，必须为直连 IP
+  default-nameserver: [223.5.5.5, 119.29.29.29, 8.8.8.8]     # 用于解析 DoT/DoH 服务器域名，必须为直连 IP
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   use-hosts: true
   respect-rules: true                                         # DNS 查询遵循代理规则，防止泄露
-  proxy-server-nameserver: [223.5.5.5, 119.29.29.29]         # 解析代理服务器地址，走国内 DNS 降低握手延迟
-  nameserver: [223.5.5.5, 119.29.29.29]                      # 国内域名解析
+  proxy-server-nameserver: [223.5.5.5, 119.29.29.29]          # 解析代理服务器地址，走国内 DNS 降低握手延迟
+  nameserver: [223.5.5.5, 119.29.29.29]                       # 国内域名解析
   fallback: ['https://doh.dns.sb/dns-query', 'https://dns.cloudflare.com/dns-query', 'https://dns.twnic.tw/dns-query', 'tls://8.8.4.4:853', tls://1.1.1.1, tls://8.8.8.8]  # 境外加密 DNS，用于被污染域名
   fallback-filter: {geoip: true, geoip-code: CN, geosite: [gfw], ipcidr: [240.0.0.0/4, 0.0.0.0/32], domain: [+.google.com, +.facebook.com, +.youtube.com]}
   fake-ip-filter: ["*.lan", "*.localdomain", "*.localhost", "*.local", "time.*.com", "time.*.gov", "ntp.*.com", "*.ntp.org.cn", "+.music.163.com", "+.126.net"]  # 这些域名返回真实 IP，不走 Fake-IP
@@ -112,7 +112,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 400
-    filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城|🇭🇰|香港|HK|Hong Kong|HongKong)).*"
+    filter: "(?i)^(?!.*(直连|拒绝|DIRECT|REJECT|🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城|🇭🇰|香港|HK|Hong Kong|HongKong)).*"
     use: [dogess, danta]
 
 # ============================================================
