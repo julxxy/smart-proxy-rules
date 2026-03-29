@@ -33,8 +33,10 @@ proxy-providers:
 # 2. 策略组 (Proxy Groups)
 # ============================================================
 proxy-groups:
-  # 兼容 Surge 规则文件中的 PROXY 目标，桥接到 🚀节点选择
-  - { name: Proxy, type: select, hidden: true, proxies: [🚀节点选择] }
+  - name: Proxy   # 兼容 Surge 规则文件中的 PROXY 目标，桥接到 🚀节点选择
+    type: select
+    hidden: true
+    proxies: [🚀节点选择]
 
   - name: 🚀节点选择  # 日常在面板里手动切换的主入口
     type: select
