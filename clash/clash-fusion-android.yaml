@@ -56,7 +56,7 @@ proxy-groups:
 
   - name: 🚀节点选择  # 日常在面板里手动切换的主入口
     type: select
-    proxies: [🇹🇼台湾组, 🇯🇵日本组, 🇰🇷韩国组, 🇺🇸美国组, 🇸🇬新加坡组, 🇭🇰香港组, 🌎余量, DIRECT]
+    proxies: [🇹🇼台湾组, 🇯🇵日本组, 🇰🇷韩国组, 🇺🇸美国组, 🇸🇬新加坡组, 🇭🇰香港组, 🌏其他地区, DIRECT]
 
   - name: 🇹🇼台湾组
     type: url-test
@@ -106,7 +106,8 @@ proxy-groups:
     filter: "(?i)(🇭🇰|香港|HK|Hong Kong|HongKong)"
     use: [dogess, danta]
 
-  - name: 🌎余量  # 不属于上述 6 个地区的所有节点
+  # 不属于上述 6 个地区的所有节点
+  - name: 🌏其他地区
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300

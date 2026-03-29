@@ -23,8 +23,8 @@ mixin:
       type: http
       behavior: classical
       format: yaml
-      url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/smart-proxy.yaml"
-      path: /etc/openclash/rule_provider/smart-proxy.yaml
+      url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/smart-proxy.conf"
+      path: ./ruleset/smart-proxy.conf
       interval: 86400
     copilot-proxy:
       type: http
@@ -50,7 +50,7 @@ mixin:
       format: text
       behavior: domain
       url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
-      path: ./ruleset/microsoft-bing.yaml
+      path: ./ruleset/microsoft-bing.list
       interval: 86400
     private:
       type: http
