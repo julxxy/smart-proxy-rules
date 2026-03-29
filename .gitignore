@@ -6,3 +6,7 @@
 *.iml
 out
 gen
+
+# 忽略所有 *-local 的配置文件
+*-local.yaml
+*-local.yml
