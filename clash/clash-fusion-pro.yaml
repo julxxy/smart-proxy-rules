@@ -64,7 +64,7 @@ proxy-groups:
 
   - name: 🚀节点选择
     type: select
-    proxies: [ 台湾-故转, 日本-故转, 新加坡-故转, 美国-故转, 🌏其他地区, ⚡️全局最优, DIRECT ]
+    proxies: [ 台湾-故转, 日本-故转, 新加坡-故转, 美国-故转, 🌏其他地区, DIRECT ]
 
   # 台湾
   - name: 台湾-故转
