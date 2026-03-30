@@ -18,6 +18,9 @@ mixin:
     - RULE-SET,gfw,PROXY
     # 5. 兜底：非 .cn 顶级域名全走代理（最宽泛，放最后）
     - RULE-SET,tld-not-cn,PROXY
+    - DOMAIN,tracking.miui.com,REJECT
+    - DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
+    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
   rule-providers:
     smart-proxy:
       type: http
