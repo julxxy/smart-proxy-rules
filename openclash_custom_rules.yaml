@@ -3,24 +3,19 @@
 # ============================================================
 mixin:
   prepend-rules:
-    # 1. 优先拦截广告/追踪，避免浪费代理流量
-    - RULE-SET,reject,REJECT
-    # 2. 本地/私有流量立即直连，避免走代理
-    - RULE-SET,private,DIRECT
-    - RULE-SET,lancidr,DIRECT,no-resolve
-    # 3. 精确代理规则（specificity 高 → 低）
-    - RULE-SET,smart-proxy,PROXY
-    - RULE-SET,copilot-proxy,PROXY
-    - RULE-SET,google,PROXY
-    - RULE-SET,microsoft-bing,PROXY
-    - RULE-SET,telegramcidr,PROXY,no-resolve
-    # 4. 已知被墙域名
-    - RULE-SET,gfw,PROXY
-    # 5. 兜底：非 .cn 顶级域名全走代理（最宽泛，放最后）
-    - RULE-SET,tld-not-cn,PROXY
-    - DOMAIN,tracking.miui.com,REJECT
-    - DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
-    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT
+    - RULE-SET,reject,REJECT                          # 广告拦截
+    - RULE-SET,private,DIRECT                         # 私有地址
+    - RULE-SET,lancidr,DIRECT,no-resolve              # 局域网
+    - RULE-SET,smart-proxy,PROXY                      # 自定义代理
+    - RULE-SET,copilot-proxy,PROXY                    # Copilot
+    - RULE-SET,google,PROXY                           # Google
+    - RULE-SET,microsoft-bing,PROXY                   # Bing
+    - RULE-SET,telegramcidr,PROXY,no-resolve          # Telegram IP
+    - RULE-SET,gfw,PROXY                              # 已知被墙域名
+    - RULE-SET,tld-not-cn,PROXY                       # 非 .cn 顶级域名
+    - DOMAIN,tracking.miui.com,REJECT                 # MIUI 追踪
+    - DOMAIN-SUFFIX,services.googleapis.cn,DIRECT     # Google CN 服务
+    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT        # Google Play CN
   rule-providers:
     smart-proxy:
       type: http
