@@ -100,6 +100,10 @@ proxy-groups:
 # ============================================================
 # 3. 规则集 (Rule Providers)
 # ============================================================
+rule-anchor:
+  ip: &ip {type: http, interval: 86400, behavior: ipcidr, format: mrs}
+  domain: &domain {type: http, interval: 86400, behavior: domain, format: mrs}
+
 rule-providers:
   smart-proxy:
     type: http
@@ -181,6 +185,9 @@ rule-providers:
     path: ./ruleset/lancidr.yaml
     interval: 86400
 
+  # TikTok（MRS）
+  tiktok: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
+
 # ============================================================
 # 4. 路由规则 (Rules)
 # ============================================================
@@ -193,6 +200,7 @@ rules:
   - RULE-SET,google,Proxy
   - RULE-SET,microsoft-bing,Proxy
   - RULE-SET,telegramcidr,Proxy,no-resolve
+  - RULE-SET,tiktok,Proxy
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名，兜底走代理
   - MATCH,DIRECT                                  # 其余流量直连（国内兜底）

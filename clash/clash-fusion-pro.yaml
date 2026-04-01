@@ -57,14 +57,12 @@ proxy-providers:
 # 策略组（三层：手动总控 → 地区故转 → 节点自动）
 # ============================================================
 proxy-groups:
-  - name: Proxy   # 兼容 Surge 规则文件中的 PROXY 目标，桥接到 🚀节点选择
-    type: select
-    hidden: true
-    proxies: [🚀节点选择]
+  # 兼容 Surge 规则文件中的 PROXY 目标，桥接到 🚀节点选择
+  - { name: Proxy, type: select, hidden: true, proxies: [🚀节点选择] }
 
   - name: 🚀节点选择
     type: select
-    proxies: [ 台湾-故转, 日本-故转, 新加坡-故转, 美国-故转, 🌏其他地区, DIRECT ]
+    proxies: [台湾-故转, 日本-故转, 新加坡-故转, 美国-故转, 🌏其他地区, DIRECT]
 
   # 台湾
   - name: 台湾-故转
@@ -185,37 +183,34 @@ rule-providers:
   microsoft-bing:
     type: http
     behavior: domain
-    format: text
+    format: text                 # .list 文本格式
     url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bing.list"
-    path: ./ruleset/microsoft-bing.yaml
+    path: ./ruleset/microsoft-bing.list
     interval: 86400
 
   # 广告拦截（MRS）
-  reject:
-    type: http
-    behavior: domain
-    format: mrs
-    url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ads-all.mrs"
-    path: ./ruleset/reject.yaml
-    interval: 86400
+  reject: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.mrs"}
+
+  # TikTok（MRS）
+  tiktok: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
 
   # GFW 名单（MRS，与 Loyalsoldier/gfw.txt 同源等价）
-  gfw: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+  gfw: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.mrs"}
 
   # 私有/局域网域名（MRS）
-  private: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/private.mrs"}
+  private: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
 
   # 局域网 IP CIDR（MRS）
-  lancidr: {<<: *ip, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/private.mrs"}
+  lancidr: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs"}
 
   # 国内域名（MRS）
-  china-domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/cn.mrs"}
+  china-domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
 
   # 国内 IP（MRS）
-  china-ip: {<<: *ip, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/cn.mrs"}
+  china-ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
 
-  # 非 .cn 顶级域名（宽泛代理兜底，MRS）
-  tld-not-cn: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/tld-!cn.mrs"}
+  # 非 .cn 顶级域名（MRS）
+  tld-not-cn: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tld-!cn.mrs"}
 
 # ============================================================
 # 路由规则
@@ -229,6 +224,7 @@ rules:
   - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
   - RULE-SET,copilot-proxy,Proxy                  # Copilot
   - RULE-SET,microsoft-bing,Proxy                 # Bing
+  - RULE-SET,tiktok,Proxy                         # tiktok
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名
   - MATCH,DIRECT                                  # 兜底直连
