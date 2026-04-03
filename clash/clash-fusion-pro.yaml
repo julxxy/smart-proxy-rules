@@ -188,8 +188,49 @@ rule-providers:
     path: ./ruleset/microsoft-bing.list
     interval: 86400
 
-  # 广告拦截（MRS）
-  reject: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.mrs"}
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    format: yaml
+    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
+    path: ./ruleset/telegramcidr.yaml
+    interval: 86400
+
+  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  reject-threat:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
+    path: ./ruleset/reject-threat.conf
+    interval: 86400
+
+  # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
+  reject-malware:
+    type: http
+    behavior: domain
+    url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
+    path: ./ruleset/reject-malware.yaml
+    interval: 86400
+
+  # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
+  reject-hagezi-pro:
+    type: http
+    behavior: domain
+    url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
+    path: ./ruleset/reject-hagezi-pro.yaml
+    interval: 86400
+
+  # 全球广告/追踪补充（1Hosts Lite，20万条）
+  reject-1hosts-lite:
+    type: http
+    behavior: domain
+    url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
+    path: ./ruleset/reject-1hosts-lite.yaml
+    interval: 86400
+
+  # 中文互联网广告/追踪域名
+  reject-cn-ads: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.mrs"}
 
   # TikTok（MRS）
   tiktok: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
@@ -216,15 +257,20 @@ rule-providers:
 # 路由规则
 # ============================================================
 rules:
-  - RULE-SET,reject,REJECT                        # 广告拦截
+  - RULE-SET,reject-cn-ads,REJECT                 # 中文互联网广告/追踪域名（Loyalsoldier 维护）
+  - RULE-SET,reject-threat,REJECT                 # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
+  - RULE-SET,reject-hagezi-pro,REJECT             # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
+  - RULE-SET,reject-1hosts-lite,REJECT            # 全球广告/追踪补充（1Hosts Lite，20万条）
   - RULE-SET,private,DIRECT                       # 私有地址
+  - RULE-SET,smart-proxy,Proxy                    # 自定义代理优先级最高
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网
   - RULE-SET,china-domain,DIRECT                  # 国内域名
   - RULE-SET,china-ip,DIRECT,no-resolve           # 国内 IP
-  - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
   - RULE-SET,copilot-proxy,Proxy                  # Copilot
   - RULE-SET,microsoft-bing,Proxy                 # Bing
-  - RULE-SET,tiktok,Proxy                         # tiktok
+  - RULE-SET,tiktok,Proxy                         # TikTok
+  - RULE-SET,telegramcidr,Proxy,no-resolve
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名
-  - MATCH,DIRECT                                  # 兜底直连
+  - MATCH,DIRECT                                  # 其余流量直连（国内兜底）

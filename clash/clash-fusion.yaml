@@ -113,6 +113,7 @@ rule-providers:
     path: ./ruleset/smart-proxy.conf
     interval: 86400
 
+  # Copilot
   copilot-proxy:
     type: http
     behavior: classical
@@ -121,12 +122,46 @@ rule-providers:
     path: ./ruleset/copilot-proxy.yaml
     interval: 86400
 
-  reject:
+  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  reject-threat:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
+    path: ./ruleset/reject-threat.conf
+    interval: 86400
+
+  # 中文互联网广告/追踪域名（Loyalsoldier 维护）
+  reject-cn-ads:
     type: http
     behavior: domain
     format: yaml
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
-    path: ./ruleset/reject.yaml
+    path: ./ruleset/reject-cn-ads.yaml
+    interval: 86400
+
+  # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
+  reject-malware:
+    type: http
+    behavior: domain
+    url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
+    path: ./ruleset/reject-malware.yaml
+    interval: 86400
+
+  # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
+  reject-hagezi-pro:
+    type: http
+    behavior: domain
+    url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
+    path: ./ruleset/reject-hagezi-pro.yaml
+    interval: 86400
+
+  # 全球广告/追踪补充（1Hosts Lite，20万条）
+  reject-1hosts-lite:
+    type: http
+    behavior: domain
+    url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
+    path: ./ruleset/reject-1hosts-lite.yaml
     interval: 86400
 
   private:
@@ -185,22 +220,25 @@ rule-providers:
     path: ./ruleset/lancidr.yaml
     interval: 86400
 
-  # TikTok（MRS）
   tiktok: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
 
 # ============================================================
 # 4. 路由规则 (Rules)
 # ============================================================
 rules:
-  - RULE-SET,reject,REJECT                        # 广告 / 追踪拦截
-  - RULE-SET,private,DIRECT                       # 私有地址直连
+  - RULE-SET,reject-cn-ads,REJECT                 # 中文互联网广告/追踪域名（Loyalsoldier 维护）
+  - RULE-SET,reject-threat,REJECT                 # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
+  - RULE-SET,reject-hagezi-pro,REJECT             # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
+  - RULE-SET,reject-1hosts-lite,REJECT            # 全球广告/追踪补充（1Hosts Lite，20万条）
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
+  - RULE-SET,private,DIRECT                       # 私有地址直连
   - RULE-SET,copilot-proxy,Proxy                  # Microsoft Copilot
   - RULE-SET,google,Proxy
   - RULE-SET,microsoft-bing,Proxy
   - RULE-SET,telegramcidr,Proxy,no-resolve
-  - RULE-SET,tiktok,Proxy
+  - RULE-SET,tiktok,Proxy                         # TikTok
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名，兜底走代理
   - MATCH,DIRECT                                  # 其余流量直连（国内兜底）
