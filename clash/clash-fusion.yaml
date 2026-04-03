@@ -1,7 +1,12 @@
 # ============================================================
-# OpenClash 最小化配置
-# DNS / 端口 / allow-lan 等由 OpenClash 插件界面管理，此处不写
-# 设计目标：多机场整合 + 智能延迟切换 + 极简按需分流
+# OpenClash 最小化多代理商融合配置 · 标准版
+# ------------------------------------------------------------
+# 适用平台：OpenClash（Mihomo/Meta 内核）· 路由器旁路/主路由
+# 运行模式：TUN + Fake-IP
+# 机场数量：2 个（dogess · danta，可继续追加）
+# 策略架构：单层自动测速（url-test · 同组延迟最优自动切换）
+# ------------------------------------------------------------
+# DNS / 端口 / allow-lan / external-controller 由 OpenClash 界面管理，此处不写
 # ============================================================
 
 mode: rule
@@ -122,15 +127,6 @@ rule-providers:
     path: ./ruleset/copilot-proxy.yaml
     interval: 86400
 
-  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
-  reject-threat:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
-    path: ./ruleset/reject-threat.conf
-    interval: 86400
-
   # 中文互联网广告/追踪域名（Loyalsoldier 维护）
   reject-cn-ads:
     type: http
@@ -140,10 +136,20 @@ rule-providers:
     path: ./ruleset/reject-cn-ads.yaml
     interval: 86400
 
+  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  reject-threat:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
+    path: ./ruleset/reject-threat.conf
+    interval: 86400
+
   # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   reject-malware:
     type: http
     behavior: domain
+    format: text
     url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
     path: ./ruleset/reject-malware.yaml
     interval: 86400
@@ -152,6 +158,7 @@ rule-providers:
   reject-hagezi-pro:
     type: http
     behavior: domain
+    format: text
     url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
     path: ./ruleset/reject-hagezi-pro.yaml
     interval: 86400
@@ -160,6 +167,7 @@ rule-providers:
   reject-1hosts-lite:
     type: http
     behavior: domain
+    format: text
     url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
     path: ./ruleset/reject-1hosts-lite.yaml
     interval: 86400
@@ -231,8 +239,8 @@ rules:
   - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   - RULE-SET,reject-hagezi-pro,REJECT             # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
   - RULE-SET,reject-1hosts-lite,REJECT            # 全球广告/追踪补充（1Hosts Lite，20万条）
-  - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
+  - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,private,DIRECT                       # 私有地址直连
   - RULE-SET,copilot-proxy,Proxy                  # Microsoft Copilot
   - RULE-SET,google,Proxy

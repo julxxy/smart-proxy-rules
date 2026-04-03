@@ -58,6 +58,7 @@ rule-providers:
   # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   reject-malware:
     type: http
+    format: text
     behavior: domain
     url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
     path: ./ruleset/reject-malware.yaml
@@ -66,6 +67,7 @@ rule-providers:
   # 全球广告投放服务器（Peter Lowe yoyo）
   reject-adservers:
     type: http
+    format: text
     behavior: domain
     url: "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=plain&mimetype=plaintext"
     path: ./ruleset/reject-adservers.yaml
@@ -74,6 +76,7 @@ rule-providers:
   # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
   reject-hagezi-pro:
     type: http
+    format: text
     behavior: domain
     url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
     path: ./ruleset/reject-hagezi-pro.yaml
@@ -82,6 +85,7 @@ rule-providers:
   # 全球广告/追踪补充（1Hosts Lite，20万条）
   reject-1hosts-lite:
     type: http
+    format: text
     behavior: domain
     url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
     path: ./ruleset/reject-1hosts-lite.yaml

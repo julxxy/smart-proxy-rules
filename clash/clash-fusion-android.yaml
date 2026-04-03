@@ -129,15 +129,6 @@ rule-providers:
     path: ./ruleset/smart-proxy.conf
     interval: 86400
 
-  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
-  reject-threat:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
-    path: ./ruleset/reject-threat.conf
-    interval: 86400
-
   # 中文互联网广告/追踪域名（Loyalsoldier 维护）
   reject-cn-ads:
     type: http
@@ -147,10 +138,20 @@ rule-providers:
     path: ./ruleset/reject-cn-ads.yaml
     interval: 86400
 
+  # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
+  reject-threat:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
+    path: ./ruleset/reject-threat.conf
+    interval: 86400
+
   # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   reject-malware:
     type: http
     behavior: domain
+    format: text
     url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
     path: ./ruleset/reject-malware.yaml
     interval: 86400
@@ -159,6 +160,7 @@ rule-providers:
   reject-hagezi-pro:
     type: http
     behavior: domain
+    format: text
     url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
     path: ./ruleset/reject-hagezi-pro.yaml
     interval: 86400
@@ -167,6 +169,7 @@ rule-providers:
   reject-1hosts-lite:
     type: http
     behavior: domain
+    format: text
     url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
     path: ./ruleset/reject-1hosts-lite.yaml
     interval: 86400
