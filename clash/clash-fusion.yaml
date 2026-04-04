@@ -148,9 +148,9 @@ rule-providers:
   # 秋风广告规则 (AWAvenue Ads)
   reject-cn-ads-awavenue:
     type: http
-    behavior: domain
+    behavior: classical
     format: yaml
-    url: "https://fastly.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Clash.yaml"
+    url: "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash-Classical.yaml"
     path: ./ruleset/reject-cn-ads-awavenue.yaml
     interval: 86400
 
