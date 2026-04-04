@@ -129,15 +129,6 @@ rule-providers:
     path: ./ruleset/smart-proxy.conf
     interval: 86400
 
-  # 中文互联网广告/追踪域名（Loyalsoldier 维护）
-  reject-cn-ads:
-    type: http
-    behavior: domain
-    format: yaml
-    url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
-    path: ./ruleset/reject-cn-ads.yaml
-    interval: 86400
-
   # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
   reject-threat:
     type: http
@@ -156,6 +147,24 @@ rule-providers:
     path: ./ruleset/reject-malware.yaml
     interval: 86400
 
+  # 秋风广告规则 (AWAvenue Ads)
+  reject-cn-ads-awavenue:
+    type: http
+    behavior: domain
+    format: yaml
+    url: "https://fastly.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Clash.yaml"
+    path: ./ruleset/awavenue-cn-ads.yaml
+    interval: 86400
+
+  # anti-AD
+  reject-cn-ads-antiad:
+    type: http
+    behavior: domain
+    format: yaml
+    url: "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml"
+    path: ./ruleset/anti-cn-ads.yaml
+    interval: 86400
+
   # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
   reject-hagezi-pro:
     type: http
@@ -163,15 +172,6 @@ rule-providers:
     format: text
     url: "https://fastly.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt"
     path: ./ruleset/reject-hagezi-pro.yaml
-    interval: 86400
-
-  # 全球广告/追踪补充（1Hosts Lite，20万条）
-  reject-1hosts-lite:
-    type: http
-    behavior: domain
-    format: text
-    url: "https://badmojr.github.io/1Hosts/Lite/domains.txt"
-    path: ./ruleset/reject-1hosts-lite.yaml
     interval: 86400
 
   private:
@@ -244,11 +244,11 @@ rule-providers:
 # 4. 路由规则 (Rules)
 # ============================================================
 rules:
-  - RULE-SET,reject-cn-ads,REJECT                 # 中文互联网广告/追踪域名（Loyalsoldier 维护）
   - RULE-SET,reject-threat,REJECT                 # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
   - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
+  - RULE-SET,reject-cn-ads-awavenue,REJECT        # 秋风广告规则 (AWAvenue Ads)
+  - RULE-SET,reject-cn-ads-antiad,REJECT          # anti-AD (10万+）
   - RULE-SET,reject-hagezi-pro,REJECT             # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
-  - RULE-SET,reject-1hosts-lite,REJECT            # 全球广告/追踪补充（1Hosts Lite，20万条）
   - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,private,DIRECT                       # 私有地址直连
