@@ -1,0 +1,45 @@
+name: Sync URLhaus Domains
+
+on:
+  schedule:
+    # 每天 UTC 02:00 自动运行（北京时间 10:00）
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  # 支持手动触发
+
+jobs:
+  sync:
+    name: Download & Update URLhaus Reject List
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: chmod +x scripts/sync-urlhaus-domains.sh
+
+      - name: Run sync script
+        run: bash scripts/sync-urlhaus-domains.sh
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet reject/reject-urlhaus.txt; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reject/reject-urlhaus.txt
+          COUNT=$(grep -v '^#' reject/reject-urlhaus.txt | grep -v '^$' | wc -l | tr -d ' ')
+          DATE=$(date -u '+%Y-%m-%d %H:%M UTC')
+          git commit -m "chore: sync URLhaus reject list — ${COUNT} domains [${DATE}]"
+          git push
