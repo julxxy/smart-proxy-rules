@@ -7,6 +7,9 @@ on:
   workflow_dispatch:
   # 支持手动触发
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # 消除 Node.js 20 deprecation 警告
+
 jobs:
   sync:
     name: Download & Update URLhaus Reject List

@@ -22,6 +22,10 @@ if [ -f /tmp/urlhaus-raw.txt ]; then
 
   COUNT=$(grep -v '^#' "$REJECT_URLHAUS" | grep -v '^$' | wc -l | tr -d ' ')
   echo "Done! $COUNT domains saved to $REJECT_URLHAUS"
+
+  # 清理临时文件
+  rm -f /tmp/urlhaus-raw.txt
+  echo "Cleaned up /tmp/urlhaus-raw.txt"
 else
   echo "Download failed."
   exit 1
