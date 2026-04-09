@@ -103,7 +103,7 @@ proxy-groups:
     use: [dogess, danta]
 
   # Spotify
-  - name: 🎵Spotify
+  - name: 🎶Spotify
     type: select
     proxies: [🇸🇬新加坡组, 🇭🇰香港组, 🇯🇵日本组, 🇺🇸美国组, 🌏其他地区, DIRECT]
 
@@ -255,7 +255,7 @@ rules:
   - RULE-SET,smart-proxy,Proxy                    # 自定义精确代理
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,private,DIRECT                       # 私有地址直连
-  - RULE-SET,spotify,🎵Spotify                    # Spotify
+  - RULE-SET,spotify,🎶Spotify                    # Spotify
   - RULE-SET,copilot-proxy,Proxy                  # Microsoft Copilot
   - RULE-SET,google,Proxy
   - RULE-SET,microsoft-bing,Proxy

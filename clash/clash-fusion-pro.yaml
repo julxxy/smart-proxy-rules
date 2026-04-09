@@ -159,7 +159,7 @@ proxy-groups:
     tolerance: 400
 
   # Spotify
-  - name: 🎵Spotify
+  - name: 🎶Spotify
     type: select
     proxies: [新加坡-故转, 日本-故转, 美国-故转, 🚀节点选择, DIRECT]
 
@@ -290,7 +290,7 @@ rules:
   - RULE-SET,private,DIRECT                       # 私有地址
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网
   - RULE-SET,china-ip,DIRECT,no-resolve           # 国内 IP
-  - RULE-SET,spotify,🎵Spotify                    # Spotify
+  - RULE-SET,spotify,🎶Spotify                    # Spotify
   - RULE-SET,copilot-proxy,Proxy                  # Copilot
   - RULE-SET,microsoft-bing,Proxy                 # Bing
   - RULE-SET,tiktok,Proxy                         # TikTok
