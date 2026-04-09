@@ -158,10 +158,9 @@ proxy-groups:
     interval: 300
     tolerance: 400
 
-  # Spotify
-  - name: 🎶Spotify
-    type: select
-    proxies: [新加坡-故转, 日本-故转, 美国-故转, 🚀节点选择, DIRECT]
+  # 应用服务专区：针对特定服务的专用分流，主开关 "📦应用服务" 切一次全部应用同步生效；各服务也可单独覆盖
+  - { name: 📦应用服务, type: select, proxies: [ 🇹🇼台湾组, 🇭🇰香港组, 🇯🇵日本组, 🇰🇷韩国组, 🇸🇬新加坡组, 🇺🇸美国组, DIRECT ] }
+  - { name: 🎶Spotify, type: select, proxies: [ 🇺🇸美国组, 🇯🇵日本组, 🇰🇷韩国组, 🇸🇬新加坡组, 🇭🇰香港组, 🇹🇼台湾组, 📦应用服务, DIRECT ] }
 
 # ============================================================
 # 规则集 (Rule Providers)
@@ -291,9 +290,9 @@ rules:
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网
   - RULE-SET,china-ip,DIRECT,no-resolve           # 国内 IP
   - RULE-SET,spotify,🎶Spotify                    # Spotify
+  - RULE-SET,tiktok,Proxy                         # TikTok
   - RULE-SET,copilot-proxy,Proxy                  # Copilot
   - RULE-SET,microsoft-bing,Proxy                 # Bing
-  - RULE-SET,tiktok,Proxy                         # TikTok
   - RULE-SET,telegramcidr,Proxy,no-resolve
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名

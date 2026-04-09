@@ -102,10 +102,9 @@ proxy-groups:
     filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城|🇭🇰|香港|HK|Hong Kong|HongKong)).*"
     use: [dogess, danta]
 
-  # Spotify
-  - name: 🎶Spotify
-    type: select
-    proxies: [🇸🇬新加坡组, 🇭🇰香港组, 🇯🇵日本组, 🇺🇸美国组, 🌏其他地区, DIRECT]
+  # 应用服务专区：针对特定服务的专用分流，主开关 "📦应用服务" 切一次全部应用同步生效；各服务也可单独覆盖
+  - { name: 📦应用服务, type: select, proxies: [ 🇹🇼台湾组, 🇭🇰香港组, 🇯🇵日本组, 🇰🇷韩国组, 🇸🇬新加坡组, 🇺🇸美国组, DIRECT ] }
+  - { name: 🎶Spotify, type: select, proxies: [ 🇺🇸美国组, 🇯🇵日本组, 🇰🇷韩国组, 🇸🇬新加坡组, 🇭🇰香港组, 🇹🇼台湾组, 📦应用服务, DIRECT ] }
 
 # ============================================================
 # 3. 规则集 (Rule Providers)
@@ -256,11 +255,11 @@ rules:
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网直连
   - RULE-SET,private,DIRECT                       # 私有地址直连
   - RULE-SET,spotify,🎶Spotify                    # Spotify
+  - RULE-SET,tiktok,Proxy                         # TikTok
   - RULE-SET,copilot-proxy,Proxy                  # Microsoft Copilot
   - RULE-SET,google,Proxy
   - RULE-SET,microsoft-bing,Proxy
   - RULE-SET,telegramcidr,Proxy,no-resolve
-  - RULE-SET,tiktok,Proxy                         # TikTok
   - RULE-SET,gfw,Proxy                            # 已知被墙域名
   - RULE-SET,tld-not-cn,Proxy                     # 非 .cn 顶级域名，兜底走代理
   - MATCH,DIRECT                                  # 其余流量直连（国内兜底）
