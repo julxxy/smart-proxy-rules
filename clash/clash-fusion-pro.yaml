@@ -258,9 +258,6 @@ rule-providers:
   # 局域网 IP CIDR（MRS）
   lancidr: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs"}
 
-  # 国内域名（MRS）
-  china-domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
-
   # 国内 IP（MRS）
   china-ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
 
@@ -279,7 +276,6 @@ rules:
   - RULE-SET,smart-proxy,Proxy                    # 自定义代理优先级最高
   - RULE-SET,private,DIRECT                       # 私有地址
   - RULE-SET,lancidr,DIRECT,no-resolve            # 局域网
-  - RULE-SET,china-domain,DIRECT                  # 国内域名
   - RULE-SET,china-ip,DIRECT,no-resolve           # 国内 IP
   - RULE-SET,copilot-proxy,Proxy                  # Copilot
   - RULE-SET,microsoft-bing,Proxy                 # Bing
