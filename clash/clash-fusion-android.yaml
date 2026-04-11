@@ -85,7 +85,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 200
-    filter: "(?i)(🇺🇸|美国|United States|洛杉|纽约|西雅)"
+    filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
     use: [dogess, danta]
 
   - name: 🇸🇬新加坡组
