@@ -143,6 +143,7 @@ payload:
   - 'DOMAIN-SUFFIX,cloudflare.com,PROXY'
   - 'DOMAIN-SUFFIX,cloudflareaccess.com,PROXY'
   - 'DOMAIN-SUFFIX,imagedelivery.net,PROXY'
+  - 'DOMAIN-SUFFIX,workers.dev,PROXY'
   - 'DOMAIN-SUFFIX,amazon.com,PROXY'
   - 'DOMAIN-SUFFIX,amazonaws.com,PROXY'
   - 'DOMAIN-SUFFIX,auth0.com,PROXY'
