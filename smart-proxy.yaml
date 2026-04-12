@@ -165,8 +165,6 @@ payload:
   - 'DOMAIN-SUFFIX,statsig.com,PROXY'
   - 'DOMAIN-SUFFIX,statsigapi.net,PROXY'
   - 'DOMAIN-SUFFIX,eppo.cloud,PROXY'
-  - 'DOMAIN-SUFFIX,ingest.sentry.io,PROXY'
-  - 'DOMAIN,rum.browser-intake-datadoghq.com,PROXY'
   - 'DOMAIN-SUFFIX,workos.com,PROXY'
   - 'DOMAIN-SUFFIX,workoscdn.com,PROXY'
   - 'DOMAIN-SUFFIX,fastly.net,PROXY'
