@@ -172,7 +172,8 @@ payload:
   - 'DOMAIN-SUFFIX,cloudinary.com,PROXY'
   - 'DOMAIN-SUFFIX,unpkg.com,PROXY'
   - 'DOMAIN-SUFFIX,ct.sendgrid.net,PROXY'
-  - 'DOMAIN-KEYWORD,jetbrains,PROXY'
+  - 'DOMAIN-SUFFIX,jetbrains.com,PROXY'
+  - 'DOMAIN-SUFFIX,onetrust.com,PROXY'
 
   # Source: the-browser-company
   - 'DOMAIN-KEYWORD,dia,PROXY'
