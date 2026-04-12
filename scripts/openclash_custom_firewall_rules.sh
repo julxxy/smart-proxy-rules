@@ -16,7 +16,7 @@
 #     重启 OpenClash 即可自动重新拉取最新规则
 #
 #   注意事项：
-#     - 需要设备能访问 cnd.jsdelivr.net（国内一般可用）
+#     - 需要设备能访问 cdn.jsdelivr.net（国内一般可用）
 #     - 下载失败时会保留上次规则，不会清空
 #     - 若文件顶部已有 ". /usr/share/openclash/log.sh" 则删除下一行，避免重复加载
 
@@ -27,7 +27,7 @@ UpdateAdsRule() {
 
   WaitForNetwork() {
     local RETRY=0
-    until ping -c 1 -W 2 cnd.jsdelivr.net >/dev/null 2>&1; do
+    until ping -c 1 -W 2 cdn.jsdelivr.net >/dev/null 2>&1; do
       RETRY=$((RETRY + 1))
       [ "$RETRY" -ge 15 ] && LOG_OUT "网络等待超时，尝试继续..." && return
       sleep 2
@@ -45,7 +45,7 @@ UpdateAdsRule() {
   local TMP_FILE
   TMP_FILE=$(mktemp)
   if curl -sf --max-time 30 \
-    "https://cnd.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Dnsmasq.conf" \
+    "https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Dnsmasq.conf" \
     -o "$TMP_FILE" && [ -s "$TMP_FILE" ]; then
     mv "$TMP_FILE" "$TARGET_DIR/awavenue-ads.conf"
     LOG_OUT "规则下载成功: $TARGET_DIR/awavenue-ads.conf, 共 $(wc -l < "$TARGET_DIR/awavenue-ads.conf") 条"
