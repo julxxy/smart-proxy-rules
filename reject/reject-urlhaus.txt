@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-12 12:03:14 (UTC)                      #
+# Last updated: 2026-04-12 13:49:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 427
+# Number of entries: 430
 0022a601.pphost.net
 111101111.ru
 123.ywxww.net
@@ -152,6 +152,7 @@ furystaff.tech
 fz.tiansys.cn
 gadomamada.com
 galerisenimutiara.com
+gerlimeri.net
 globalbank.us
 globaltechbilling.com
 google-services.cc
@@ -233,6 +234,7 @@ muzzumilruheel.com
 n.vs108.com
 ncxps.com
 nelees.com
+new.quranushaiqer.org.sa
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
@@ -251,6 +253,7 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
+oracle.zzhreceive.top
 outel.linchens.com
 owlcity.ru
 p3.zbjimg.com
