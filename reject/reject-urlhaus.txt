@@ -1,32 +1,33 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-12 15:11:21 (UTC)                      #
+# Last updated: 2026-04-13 04:48:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 436
+# Number of entries: 449
 0022a601.pphost.net
 111101111.ru
 123.ywxww.net
 1717.1000uc.com
+204.76.203.168.ptr.pfcloud.network
 aaronart.com
-acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
-agence-immobiliere-lyon.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 allister.ee
 alternativas.ru
+anyhoo.testeaza.eu
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+app.cc-coins.xyz
 apple-service93.ru
 ardena.pro
 areyouready.co.za
@@ -38,6 +39,7 @@ augsburg-auto.com
 avbackup.acionline.de
 backupso.com
 bankgarantia.ru
+bblissmassage.com
 bbos.minet.vn
 biducaconfeitos.com.br
 blankeyeo.com
@@ -58,6 +60,7 @@ cad.659t.cn
 cambodiatouristservice.com
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
+ccleaner.gl
 cdaonline.com.ar
 cdn.file6.goodid.com
 celebratingseniors.net
@@ -69,9 +72,10 @@ chiptune.com
 chungminhtaichinhsaigon.net
 cl.ssouy.com
 clipaid.app
-cloudnewsfeed.com
 cloudstay168.com
+cloudstorage-hub.com
 clubdetiroelpicarcho.com
+cn.unionlever.com
 co-emas.com
 compimento.ba
 compuserviceonline.com.br
@@ -136,33 +140,38 @@ estudio.ythan.com.br
 etinsendmail.com
 etinsendmail.net
 evangroup.ru
+everycarebd.com
 explorer.vg
+f13hwmuq.amb1ing-farm.digital
 fakers.co.jp
 farschid.de
 fenbushijujuefuwu.com
 fertas.com.tr
 file.blackint3.com
+file.uhsea.com
 filerit.com
 filezilla.cc
 first-security-verden.de
 flyingmutts.com
-fonij.cm
 ftp.ywxww.net
 furystaff.tech
 fz.tiansys.cn
 gadomamada.com
 galerisenimutiara.com
+geo-foundation.vg
 gerlimeri.net
 globalbank.us
 globaltechbilling.com
+gobiotechpestcontrol.com
 google-services.cc
+goragalo.live
 grupomcperu.com
 gutando.com
 hasalltalent.com
 hemailsendlin.com
 hitman-pro.ru
 hitstation.nl
-hostealo.com
+hobobot.net
 hotellacastellana.com.uy
 hqweb.id.vn
 hseda.com
@@ -181,10 +190,10 @@ innlive.in
 inomanliner.net
 ircftp.net
 isiore.com.co
+ita-airwaysva.com
 itssprout.com
 izocab.com
 izogard.com
-j84f4g0p.quantumharbinger.digital
 jawaratekno.com
 jem-mialwe.com
 jem-mialwe.net
@@ -205,17 +214,23 @@ kramersmarionnettes.com
 krisidev.com
 kuzina-teatr.ru
 landonirwin.com
+lavacolla.com
 lejrmakei.com
+lejrmakei.net
 libss.0x504.com
+like.exphelp.life
 linchens.com
 lindenappliances.co.za
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lon-01.dlo4d.com
+londonairportstransfer.co.uk
+low.exphelp.life
 luizmatoso.com.br
 m.jkoa.co.kr
 m.meta-dm.com
+m9thskmy.paragonbloomera.digital
 magina.online
 maidforyou1985.com
 mailer-kjermjs.com
@@ -224,14 +239,16 @@ makotoko.com
 malupieng.com.br
 marsalek.cy
 meetvideogoogle.com
+metrics.gocloudmaps.com
 mgtms.cc
-missileperformance.hu
 mistralkorea.ru
 mitreart.com
 mobshah.com
 mogimall.com
 movtime76.shop
 msedge.vg
+msgrouppolicy.vg
+muledo.com
 mundocarnes.cl
 muzzumilruheel.com
 n.vs108.com
@@ -239,7 +256,6 @@ ncxps.com
 nelees.com
 new.quranushaiqer.org.sa
 noithaticon.vn
-nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
 o3pjh3hs.paragonbloomera.digital
@@ -270,7 +286,6 @@ planetariumobil.ro
 pns.org.pk
 pobedastaff.ru
 polonyauniversiteleri.com.tr
-ptpilatesstudio.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -327,11 +342,9 @@ support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
-tajalrayhan.com
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-techtattva.in
 tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
@@ -343,10 +356,12 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
+todayallmatchprediction.com
 toolshare.com.tr
 top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
+twitch.ist
 ukguk71.ru
 un1rw11q4u.com
 uniform-factory.ae
@@ -356,7 +371,7 @@ update.cg100iii.com
 update.volam2005pk.com
 vagler.ru
 vault88x.secure-efficient2.su
-vcc-library.uk
+vedantawisdom.org
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -379,7 +394,6 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
-www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -396,7 +410,6 @@ www.konsor.ru
 www.kotojuki.com
 www.longfeng188.com
 www.medises.co.kr
-www.mevetlab.cl
 www.mixturro.com
 www.mobimpex.ro
 www.myvcart.com
@@ -419,6 +432,7 @@ www.tdejb.com
 www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.tmcksa.com
+www.todayallmatchprediction.com
 www.udobrit.ru
 www.uralmetalloprokat.ru
 www.vuelaviajero.com
@@ -428,7 +442,6 @@ www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
 wzjc.ipwz.online
-xanax.enzostress.st
 xdcq3.com
 xenon.studio
 xn--90abegbttpjb3bzb2j.xn--p1ai
