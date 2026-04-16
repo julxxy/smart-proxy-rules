@@ -1,0 +1,14 @@
+# Google AI Studio / Gemini Web
+DOMAIN,ai.google.dev
+DOMAIN,ai.dev
+DOMAIN,aistudio.google.com
+DOMAIN,gemini.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+# Gemini API 及后台服务
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,generativeai.google
+# DeepMind (Gemini 研发团队相关)
+DOMAIN,deepmind.com
+DOMAIN,deepmind.google
