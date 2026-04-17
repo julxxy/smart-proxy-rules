@@ -137,7 +137,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/default/override-direct.conf"
+    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/override/override-direct.conf"
     path: ./ruleset/override-direct.conf
     interval: 86400
 
@@ -145,7 +145,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/default/override-proxy.conf"
+    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/override/override-proxy.conf"
     path: ./ruleset/override-proxy.conf
     interval: 86400
 
