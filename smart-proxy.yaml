@@ -65,6 +65,12 @@ payload:
   - 'PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,chatgpt.microsoft.com'
   - 'PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,ai.microsoft.com'
 
+  # Source: custom-override.conf
+  - 'DOMAIN -SUFFIX,services.googleapis.cn,DIRECT'
+  - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT # Google Play Store 国际域名（Punycode 编码）'
+  - 'DOMAIN-SUFFIX,vanced.to,Proxy # YouTube Vanced / ReVanced 相关'
+  - 'DOMAIN-SUFFIX,workers.dev,Proxy # Cloudflare Workers 部署的服务'
+
   # Source: global-apps.conf
   - 'DOMAIN-SUFFIX,meta.com,PROXY'
   - 'DOMAIN-SUFFIX,facebook.com,PROXY'
@@ -174,6 +180,19 @@ payload:
   - 'DOMAIN-SUFFIX,ct.sendgrid.net,PROXY'
   - 'DOMAIN-SUFFIX,jetbrains.com,PROXY'
   - 'DOMAIN-SUFFIX,onetrust.com,PROXY'
+
+  # Source: google-ai
+  - 'DOMAIN,ai.google.dev'
+  - 'DOMAIN,ai.dev'
+  - 'DOMAIN,aistudio.google.com'
+  - 'DOMAIN,gemini.google.com'
+  - 'DOMAIN,makersuite.google.com'
+  - 'DOMAIN,alkalimakersuite-pa.clients6.google.com'
+  - 'DOMAIN,generativelanguage.googleapis.com'
+  - 'DOMAIN,proactivebackend-pa.googleapis.com'
+  - 'DOMAIN,generativeai.google'
+  - 'DOMAIN,deepmind.com'
+  - 'DOMAIN,deepmind.google'
 
   # Source: the-browser-company
   - 'DOMAIN-KEYWORD,dia,PROXY'
