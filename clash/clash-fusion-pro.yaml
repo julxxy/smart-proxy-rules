@@ -120,6 +120,22 @@ rule-providers:
     path: ./ruleset/smart-proxy.conf
     interval: 86400
 
+  override-direct:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/default/override-direct.conf"
+    path: ./ruleset/override-direct.conf
+    interval: 86400
+
+  override-proxy:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://cdn.jsdelivr.net/gh/julxxy/smart-proxy-rules/default/override-proxy.conf"
+    path: ./ruleset/override-proxy.conf
+    interval: 86400
+
   # Copilot
   copilot-proxy:
     type: http
@@ -221,6 +237,8 @@ rule-providers:
 # 路由规则
 # ============================================================
 rules:
+  - RULE-SET,override-direct,DIRECT               # 误拦截修正 - 强制直连白名单
+  - RULE-SET,override-proxy,Proxy                 # 误直连修正 - 强制走代理
   - RULE-SET,reject-threat,REJECT                 # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
   - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   - RULE-SET,reject-cn-ads-awavenue,REJECT        # 秋风广告规则 (AWAvenue Ads)
