@@ -38,16 +38,6 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
       interval: 300
 
-  qingyunti:
-    type: http
-    path: ./proxy_providers/qingyunti.yaml
-    url: "待填写"
-    interval: 86400
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 300
-
   paopaogou:
     type: http
     path: ./proxy_providers/paopaogou.yaml
@@ -70,103 +60,44 @@ proxy-groups:
     proxies: [台湾-故转, 日本-故转, 韩国-故转, 新加坡-故转, 美国-故转, 🌏其他地区, DIRECT]
 
   # 台湾
-  - name: 台湾-故转
-    type: fallback
-    interval: 300
-    lazy: false
-    proxies: [台湾-手动, 台湾-自动]
-  - name: 台湾-手动
-    type: select
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
-  - name: 台湾-自动
-    type: url-test
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 100
+  - { name: 台湾-故转, type: fallback, interval: 300, lazy: false, proxies: [台湾-手动, 台湾-自动] }
+  - { name: 台湾-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)" }
+  - { name: 台湾-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 30 }
 
   # 日本
-  - name: 日本-故转
-    type: fallback
-    interval: 300
-    lazy: false
-    proxies: [日本-手动, 日本-自动]
-  - name: 日本-手动
-    type: select
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)"
-  - name: 日本-自动
-    type: url-test
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)"
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 100
+  - { name: 日本-故转, type: fallback, interval: 300, lazy: true, proxies: [日本-手动, 日本-自动] }
+  - { name: 日本-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)" }
+  - { name: 日本-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇯🇵|日本|JP|Japan|东京|大阪)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 30 }
 
   # 韩国
-  - name: 韩国-故转
-    type: fallback
-    interval: 300
-    lazy: false
-    proxies: [韩国-手动, 韩国-自动]
-  - name: 韩国-手动
-    type: select
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)"
-  - name: 韩国-自动
-    type: url-test
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)"
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 150
+  - { name: 韩国-故转, type: fallback, interval: 300, lazy: true, proxies: [韩国-手动, 韩国-自动] }
+  - { name: 韩国-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)" }
+  - { name: 韩国-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇰🇷|韩国|KR|Korea|首尔)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 30 }
 
   # 新加坡
-  - name: 新加坡-故转
-    type: fallback
-    interval: 300
-    lazy: false
-    proxies: [新加坡-手动, 新加坡-自动]
-  - name: 新加坡-手动
-    type: select
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇸🇬|新加坡|SG|Singapore|狮城)"
-  - name: 新加坡-自动
-    type: url-test
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇸🇬|新加坡|SG|Singapore|狮城)"
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 100
+  - { name: 新加坡-故转, type: fallback, interval: 300, lazy: true, proxies: [新加坡-手动, 新加坡-自动] }
+  - { name: 新加坡-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇸🇬|新加坡|SG|Singapore|狮城)" }
+  - { name: 新加坡-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇸🇬|新加坡|SG|Singapore|狮城)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 20 }
 
   # 美国
-  - name: 美国-故转
-    type: fallback
-    interval: 300
-    lazy: false
-    proxies: [美国-手动, 美国-自动]
-  - name: 美国-手动
-    type: select
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
-  - name: 美国-自动
-    type: url-test
-    use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 150
+  - { name: 美国-故转, type: fallback, interval: 300, lazy: true, proxies: [美国-手动, 美国-自动] }
+  - { name: 美国-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)" }
+  - { name: 美国-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 30 }
+
+  # 香港
+  - { name: 香港-故转, type: fallback, interval: 300, lazy: true, proxies: [香港-手动, 香港-自动] }
+  - { name: 香港-手动, type: select,   use: [dogess, danta, paopaogou], filter: "(?i)(🇭🇰|香港|HK|Hong Kong|HongKong)" }
+  - { name: 香港-自动, type: url-test, use: [dogess, danta, paopaogou], filter: "(?i)(🇭🇰|香港|HK|Hong Kong|HongKong)", url: "http://www.gstatic.com/generate_204", interval: 300, tolerance: 10 }
 
   # 其他地区: 不属于上述分组地区的所有节点兜底
   - name: 🌏其他地区
     type: url-test
+    lazy: true
     use: [dogess, danta, qingyunti, paopaogou]
-    filter: "(?i)^(?!.*(🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|US|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城)).*"
+    filter: "(?i)^(?!.*(🇭🇰|香港|HK|Hong Kong|HongKong|🇹🇼|台湾|台灣|TW|Taiwan|🇯🇵|日本|JP|Japan|东京|大阪|🇰🇷|韩国|KR|Korea|首尔|🇺🇸|美国|US|United States|洛杉|纽约|西雅|🇸🇬|新加坡|SG|Singapore|狮城)).*"
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 400
+    tolerance: 100
 
   # 应用服务专区：针对特定服务的专用分流，主开关 "📦应用服务" 切一次全部应用同步生效；各服务也可单独覆盖
   - { name: 📦应用服务, type: select, proxies: [新加坡-故转, 日本-故转, 韩国-故转, 台湾-故转, 美国-故转, DIRECT] }
