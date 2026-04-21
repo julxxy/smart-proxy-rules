@@ -151,10 +151,7 @@ payload:
   - 'DOMAIN-SUFFIX,qytsub03.pro,PROXY'
   - 'DOMAIN-SUFFIX,qingyunti.cc,PROXY'
   - 'DOMAIN-SUFFIX,qytsublink.com,PROXY'
-  - 'DOMAIN-SUFFIX,dogess.lol,PROXY'
-  - 'DOMAIN-SUFFIX,dogess.info,PROXY'
   - 'DOMAIN-KEYWORD,dogess,PROXY'
-  - 'IP-CIDR,45.137.181.55/32,PROXY'
   - 'DOMAIN-SUFFIX,segment.com,PROXY'
   - 'DOMAIN-SUFFIX,segment.io,PROXY'
   - 'DOMAIN-SUFFIX,singular.net,PROXY'
@@ -197,4 +194,15 @@ payload:
   - 'DOMAIN-SUFFIX,download.diabrowser.com,PROXY'
   - 'DOMAIN-SUFFIX,diabrowser.engineering,PROXY'
   - 'DOMAIN-SUFFIX,notion.site.engineering,PROXY'
+
+  # Source: ubisoft
+  - 'DOMAIN-SUFFIX,ubisoft.com,Proxy'
+  - 'DOMAIN-SUFFIX,ubi.com,Proxy'
+  - 'DOMAIN-SUFFIX,ubisoftconnect.com,Proxy'
+  - 'DOMAIN-SUFFIX,uplay.com,Proxy'
+  - 'DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net,Proxy'
+  - 'DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com,Proxy'
+  - 'DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com,Proxy'
+  - 'DOMAIN-SUFFIX,ubisoft.net,Proxy'
+  - 'DOMAIN-SUFFIX,ubisoft.org,Proxy'
 
