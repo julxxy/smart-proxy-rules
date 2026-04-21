@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-21 04:14:09 (UTC)                      #
+# Last updated: 2026-04-21 04:39:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 428
+# Number of entries: 427
 0022a601.pphost.net
 111101111.ru
 123.ywxww.net
@@ -76,7 +76,6 @@ clipaid.app
 cloudstay168.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
-cnc.xenema.vip
 co-emas.com
 compimento.ba
 contentmentfairnesspesky.com
