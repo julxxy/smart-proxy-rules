@@ -200,9 +200,8 @@ payload:
   - 'DOMAIN-SUFFIX,ubi.com,Proxy'
   - 'DOMAIN-SUFFIX,ubisoftconnect.com,Proxy'
   - 'DOMAIN-SUFFIX,uplay.com,Proxy'
-  - 'DOMAIN-SUFFIX,ubistatic3-a.akamaihd.net,Proxy'
+  - 'DOMAIN,ubistatic3-a.akamaihd.net,Proxy'
+  - 'DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,Proxy'
   - 'DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com,Proxy'
   - 'DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com,Proxy'
-  - 'DOMAIN-SUFFIX,ubisoft.net,Proxy'
-  - 'DOMAIN-SUFFIX,ubisoft.org,Proxy'
 
