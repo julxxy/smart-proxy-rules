@@ -151,6 +151,7 @@ payload:
   - 'DOMAIN-SUFFIX,qytsub03.pro,PROXY'
   - 'DOMAIN-SUFFIX,qingyunti.cc,PROXY'
   - 'DOMAIN-SUFFIX,qytsublink.com,PROXY'
+  - 'DOMAIN-SUFFIX,voyracloud.com,PROXY'
   - 'DOMAIN-KEYWORD,dogess,PROXY'
   - 'DOMAIN-SUFFIX,segment.com,PROXY'
   - 'DOMAIN-SUFFIX,segment.io,PROXY'
