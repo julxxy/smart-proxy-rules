@@ -168,6 +168,7 @@ payload:
   - 'DOMAIN-SUFFIX,ct.sendgrid.net,PROXY'
   - 'DOMAIN-SUFFIX,jetbrains.com,PROXY'
   - 'DOMAIN-SUFFIX,onetrust.com,PROXY'
+  - 'DOMAIN-SUFFIX,website-files.com,PROXY'
 
   # Source: google-ai
   - 'DOMAIN,ai.google.dev'
