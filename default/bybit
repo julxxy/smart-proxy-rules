@@ -1,0 +1,10 @@
+# Bybit
+DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,bybitglobal.com,PROXY
+DOMAIN-SUFFIX,bybit.biz,PROXY
+DOMAIN-SUFFIX,bybdc6.com,PROXY
+DOMAIN-SUFFIX,byabcde.com,PROXY
+DOMAIN-SUFFIX,byapps.net,PROXY
+DOMAIN-SUFFIX,byd3c3.com,PROXY
+DOMAIN-SUFFIX,bybits.io,PROXY
+DOMAIN,monitor-frontend-collector.a.bybit-aws.com,PROXY
