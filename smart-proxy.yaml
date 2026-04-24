@@ -7,7 +7,7 @@ payload:
   - 'DOMAIN,cp4.cloudflare.com,PROXY'
   - 'DOMAIN,apple-relay.apple.com,PROXY'
 
-  # Source: bybit
+  # Source: bybit.conf
   - 'DOMAIN-SUFFIX,bybit.com,PROXY'
   - 'DOMAIN-SUFFIX,bybitglobal.com,PROXY'
   - 'DOMAIN-SUFFIX,bybit.biz,PROXY'
