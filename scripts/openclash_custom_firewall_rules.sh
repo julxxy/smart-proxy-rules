@@ -24,7 +24,7 @@
 UpdateAdsRule() {
   LOG_OUT "拉取秋风广告规则..."
 
-  local JSDELIVR_HOST="testingcf.jsdelivr.net"
+  local JSDELIVR_HOST="fastly.jsdelivr.net"
 
   # 等 DNS 能解析目标域名为止
   local RETRY=0
