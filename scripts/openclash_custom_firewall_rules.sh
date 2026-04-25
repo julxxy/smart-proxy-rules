@@ -40,7 +40,7 @@ UpdateAdsRule() {
   [ -z "$TARGET_DIR" ] && TARGET_DIR="/tmp/dnsmasq.d"
   [ ! -d "$TARGET_DIR" ] && mkdir -p "$TARGET_DIR"
 
-  # 下载规则，shell 层面重试 3 次
+  # 下载规则，shell 层面重试 5 次
   local TMP_FILE
   TMP_FILE=$(mktemp)
   RETRY=0
@@ -48,7 +48,7 @@ UpdateAdsRule() {
     "https://$JSDELIVR_HOST/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Dnsmasq.conf" \
     -o "$TMP_FILE" && [ -s "$TMP_FILE" ]; do
     RETRY=$((RETRY + 1))
-    [ "$RETRY" -ge 3 ] && break
+    [ "$RETRY" -ge 5 ] && break
     LOG_OUT "下载失败，5秒后重试($RETRY/5)..."
     sleep 5
   done
