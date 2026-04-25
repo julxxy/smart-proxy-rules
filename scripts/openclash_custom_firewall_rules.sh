@@ -26,15 +26,13 @@ UpdateAdsRule() {
 
   local JSDELIVR_HOST="fastly.jsdelivr.net"
 
-  WaitForNetwork() {
-    local RETRY=0
-    until ping -c 1 -W 2 "$JSDELIVR_HOST" >/dev/null 2>&1; do
-      RETRY=$((RETRY + 1))
-      [ "$RETRY" -ge 15 ] && LOG_OUT "网络等待超时，尝试继续..." && return
-      sleep 2
-    done
-  }
-  WaitForNetwork
+  # 等 DNS 能解析目标域名为止
+  local RETRY=0
+  until ping -c 1 -W 2 "$JSDELIVR_HOST" >/dev/null 2>&1; do
+    RETRY=$((RETRY + 1))
+    [ "$RETRY" -ge 20 ] && LOG_OUT "网络等待超时，尝试继续..." && break
+    sleep 3
+  done
 
   # 检测 dnsmasq.d 目录
   local TARGET_DIR
@@ -42,18 +40,26 @@ UpdateAdsRule() {
   [ -z "$TARGET_DIR" ] && TARGET_DIR="/tmp/dnsmasq.d"
   [ ! -d "$TARGET_DIR" ] && mkdir -p "$TARGET_DIR"
 
-  # 下载规则，成功且非空才替换
+  # 下载规则，shell 层面重试 5 次
   local TMP_FILE
   TMP_FILE=$(mktemp)
-  if curl -sf --max-time 30 \
+  RETRY=0
+  until curl -sf --max-time 30 \
     "https://$JSDELIVR_HOST/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Dnsmasq.conf" \
-    -o "$TMP_FILE" && [ -s "$TMP_FILE" ]; then
+    -o "$TMP_FILE" && [ -s "$TMP_FILE" ]; do
+    RETRY=$((RETRY + 1))
+    [ "$RETRY" -ge 5 ] && break
+    LOG_OUT "下载失败，5秒后重试($RETRY/5)..."
+    sleep 5
+  done
+
+  if [ -s "$TMP_FILE" ]; then
     mv "$TMP_FILE" "$TARGET_DIR/awavenue-ads.conf"
     LOG_OUT "规则下载成功: $TARGET_DIR/awavenue-ads.conf, 共 $(wc -l <"$TARGET_DIR/awavenue-ads.conf") 条"
   else
     rm -f "$TMP_FILE"
     LOG_OUT "秋风广告规则拉取失败，保留旧规则"
-    exit 1
+    return 1
   fi
 
   # 重载 dnsmasq
@@ -61,7 +67,7 @@ UpdateAdsRule() {
     LOG_OUT "秋风广告规则加载完成"
   else
     LOG_OUT "dnsmasq reload 失败，请检查规则格式"
-    exit 1
+    return 1
   fi
 }
 UpdateAdsRule
