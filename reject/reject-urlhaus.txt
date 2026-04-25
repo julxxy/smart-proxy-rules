@@ -1,19 +1,18 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-24 15:52:08 (UTC)                      #
+# Last updated: 2026-04-25 04:22:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 410
+# Number of entries: 408
 0022a601.pphost.net
 111101111.ru
 123.ywxww.net
 1717.1000uc.com
 aaronart.com
 acaviationsupplies.com
-acbcr.ro
 acc.jiangsujiaxue.com
 access.skaparade.com
 acms.saleseos.com
@@ -48,7 +47,6 @@ bnet-api.playm8ru.win
 bnet.playm8ru.win
 bombayonline.in
 book.rollingvideogames.com
-boydjackson.org
 bracell.latitude.net.br
 bridgeroad.maverickpreviews.com
 brightworks.cz
@@ -58,7 +56,6 @@ cad.659t.cn
 careersconnect.work
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
-cause-impact.com
 ccleaner.gl
 cdaonline.com.ar
 cdn.file6.goodid.com
@@ -68,9 +65,11 @@ checkfivem.com
 checkinetverifk.com
 chinaapper.com
 chiptune.com
+chuguadventures.co.tz
 chungminhtaichinhsaigon.net
 cl.ssouy.com
 clipaid.app
+cloudnewsfeed.com
 cloudstay168.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
@@ -92,11 +91,9 @@ d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
-datasurge-bot.online
 dcrun.co.uk
 dcwblida.dz
 deathmatchuk.com
-deliciassobencomenda.com.br
 delp-heizungsbau.de
 derekludlow.com
 desktop-version.com
@@ -108,6 +105,7 @@ dialkwik.in
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
+dl.armour-inc-down.net
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -135,7 +133,6 @@ electri.billregulator.com
 elisans.novayonetim.com
 emailspro.store
 embedone.com
-en.taichuan.com
 energy63.ru
 epanpano.com
 estudio.ythan.com.br
@@ -149,24 +146,27 @@ fertas.com.tr
 file.blackint3.com
 file.uhsea.com
 filerit.com
-filezilla.cc
 first-security-verden.de
 flyingmutts.com
+fonij.cm
 friendlydomain.ru
 frozi.cc
 ftp.ywxww.net
 fuckhdmov.top
 furystaff.tech
 fz.tiansys.cn
+gadomamada.com
 galerisenimutiara.com
 games.payos.cfd
 geo-foundation.vg
 globalbank.us
 globaltechbilling.com
+gobiotechpestcontrol.com
 google-services.cc
 greenf.alexion.rs
 grupomcperu.com
 gutando.com
+halfmillion-iq.com
 hasalltalent.com
 hitman-pro.ru
 hitstation.nl
@@ -196,7 +196,6 @@ joyeriatauro.com
 jyothishmathi.in
 kamin-premium.ru
 kavacanada.ca
-kernalstress.st
 khoancatbetong89.vn
 kimyen.net
 kokorostore.it
@@ -206,9 +205,9 @@ krisidev.com
 kuzina-teatr.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
+leanmaestro.com
 lindenappliances.co.za
 lindnerelektroanlagen.de
-lkgkdsjd.com
 local-update.com
 lomejordesalamanca.es
 lon-01.dlo4d.com
@@ -216,7 +215,6 @@ londonairportstransfer.co.uk
 luizmatoso.com.br
 m.jkoa.co.kr
 m.meta-dm.com
-madroxreborn.lol
 magnusworkspace.com
 maidforyou1985.com
 marsalek.cy
@@ -227,6 +225,7 @@ mistralkorea.ru
 mitreart.com
 mobshah.com
 mogimall.com
+mondesignweb.com
 mosselnet.co.za
 msedge.vg
 msgrouppolicy.vg
@@ -239,6 +238,7 @@ nelees.com
 new.quranushaiqer.org.sa
 noithaticon.vn
 nusatoyota.co.id
+nutrisc.com.br
 ny.lshdw.cc
 o24o.ru
 officials.ink
@@ -252,6 +252,7 @@ owlcity.ru
 p3.zbjimg.com
 palharesinformatica.com.br
 panychurasc0.com
+pay.aqiu6.com
 paypal.auth-sharefile.com
 pcupd.com
 pid.fly160.com
@@ -263,6 +264,7 @@ public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 ramirex.ro
+raw.flameblox.com
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
@@ -272,12 +274,13 @@ refrigeracion.delmondexpress.com
 reifenquick.de
 reutilizemais.co.mz
 rheddh.com
+riderspin.com
+ritee.in
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
 sablayan.seasonshotelmindoro.com
 sabungkingbet189.com
-satuatlas.com
 save.jnrsmcu.com
 scainseto.com.br
 schenckel.com.br
@@ -290,6 +293,7 @@ shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
 shreesaiseva.org
+silverhost.vg
 sk-comtel.com
 smartermail.host
 soft.110route.com
@@ -304,11 +308,9 @@ stdown.dinju.com
 steam66.cn
 stonecradle.com
 studiogioeli.it
-sudan-daily.net
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-tajalrayhan.com
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
@@ -316,7 +318,6 @@ tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
 tengfeidn.cn
-teslasuit.to
 test.peperoncinochepassione.it
 theholidayroads.com
 themaintechnician.us
@@ -334,6 +335,7 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 update.volam2005pk.com
+use-claude.com
 vagler.ru
 valfanto.com
 vanillamods.xyz
@@ -347,7 +349,6 @@ visualwikicloud.com
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webdriver-select.vg
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -365,7 +366,6 @@ www.drgenov.com
 www.first-security-verden.de
 www.flybirdexpbd.com
 www.hostingcloud.science
-www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.konsor.ru
@@ -393,7 +393,6 @@ www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
-www.teslasuit.to
 www.test.peperoncinochepassione.it
 www.tmcksa.com
 www.udobrit.ru
@@ -409,7 +408,6 @@ xenon.studio
 xn--90abegbttpjb3bzb2j.xn--p1ai
 xn--b1afiqif6c.xn--p1ai
 xn--yh4bx88a.com
-xs.bhaaratkeeshakti.vip
 xshop.com.tr
 xuezha.net
 youtransfer.net
