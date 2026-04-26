@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-04-25 15:26:13 (UTC)                      #
+# Last updated: 2026-04-26 04:47:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 405
+# Number of entries: 407
 0022a601.pphost.net
 111101111.ru
 123.ywxww.net
@@ -79,6 +79,7 @@ co-emas.com
 compimento.ba
 compuserviceonline.com.br
 contentmentfairnesspesky.com
+continentalgroup.net.in
 controliumbt.com
 coralasargetia.ro
 corporacioncrf.com
@@ -93,16 +94,18 @@ d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
+dcdivas.com
 dcrun.co.uk
 dcwblida.dz
 deathmatchuk.com
+deepnoxa.com
 delp-heizungsbau.de
 derekludlow.com
-desktop-version.com
 dexios.co.za
 dezcom.com
 dfopetroleum.com
 dhnconstrucciones.com.ar
+dialkwik.in
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
@@ -121,10 +124,10 @@ download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
+download.suxiazai.com
 dowonline.ru
 dreamwatchevent.com
 drevos.ro
-drhenrylopez.com
 dubaitechnicalservice.ae
 dusttv.com
 dweixin.cn
@@ -132,6 +135,7 @@ easybrand.vn
 electri.billregulator.com
 elisans.novayonetim.com
 emailspro.store
+embedone.com
 en.taichuan.com
 energy63.ru
 enotpidarmot.pw
@@ -145,7 +149,6 @@ farschid.de
 fd.v2downf.shop
 fertas.com.tr
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -161,7 +164,6 @@ games.payos.cfd
 geo-foundation.vg
 globalbank.us
 globaltechbilling.com
-gobiotechpestcontrol.com
 google-services.cc
 greenf.alexion.rs
 grupomcperu.com
@@ -188,7 +190,6 @@ isometricsindia.co.in
 itssprout.com
 izocab.com
 izogard.com
-jawaratekno.com
 jin.com.my
 jlwz.cn
 joyeriatauro.com
@@ -206,12 +207,15 @@ kuzina-teatr.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
 libss.0x504.com
+lindenappliances.co.za
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lon-01.dlo4d.com
+londonairportstransfer.co.uk
 luizmatoso.com.br
 m.jkoa.co.kr
+m.meta-dm.com
 magnusworkspace.com
 maidforyou1985.com
 marsalek.cy
@@ -227,7 +231,6 @@ msedge.vg
 msgrouppolicy.vg
 muledo.com
 mundocarnes.cl
-mygrocerbox.com
 n.vs108.com
 ncxps.com
 nelees.com
@@ -239,6 +242,7 @@ o24o.ru
 officials.ink
 ojang.pe.kr
 okhan.net
+oknoplastik.sk
 onfiltre.com.tr
 onyxguardify.de
 onyxphantomlock.de
@@ -247,14 +251,15 @@ p3.zbjimg.com
 palharesinformatica.com.br
 panychurasc0.com
 pay.aqiu6.com
-paypal.auth-sharefile.com
 pcupd.com
+pid.fly160.com
 planetariumobil.ro
 pns.org.pk
 pobedastaff.ru
 polonyauniversiteleri.com.tr
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
+qhsd8888.com
 qiniuyunxz.yxflzs.com
 ramirex.ro
 raw.flameblox.com
@@ -268,7 +273,6 @@ reifenquick.de
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
-ritee.in
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
@@ -281,7 +285,6 @@ sdvgpro.ru
 sec.xiaoshabi.nl
 separadordecc.com
 sg123.net
-sgindustries.lk
 shaderm.com
 shahamanatme.com
 shop.mediasova.ru
@@ -290,6 +293,7 @@ shreesaiseva.org
 silverhost.vg
 sk-comtel.com
 smartermail.host
+soft.110route.com
 softcatalog.ru
 solar-sanat.net
 sonra.eutialyson.com
@@ -299,8 +303,6 @@ static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
-steam66.cn
-stonecradle.com
 studiogioeli.it
 support.clz.kr
 sutterpoint.com
@@ -309,6 +311,7 @@ tajalrayhan.com
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
+techbud.ro
 tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
@@ -319,7 +322,6 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
-toolshare.com.tr
 top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
@@ -333,6 +335,7 @@ update.volam2005pk.com
 use-claude.com
 vagler.ru
 valfanto.com
+vcc-library.uk
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -343,7 +346,6 @@ visualwikicloud.com
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -364,12 +366,12 @@ www.flybirdexpbd.com
 www.hostingcloud.science
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
+www.italiaregina.it
 www.jozefinskiatelje.si
 www.konsor.ru
 www.kotojuki.com
 www.longfeng188.com
 www.medises.co.kr
-www.mevetlab.cl
 www.mixturro.com
 www.mobimpex.ro
 www.myvcart.com
