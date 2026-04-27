@@ -16,17 +16,19 @@
 #     重启 OpenClash 即可自动重新拉取最新规则
 #
 #   注意事项：
-#     - 下载失败时会保留上次规则，不会清空
+#     - 下载失败时会从 /root/awavenue-ads.conf 还原上次规则
 #     - 若文件顶部已有 ". /usr/share/openclash/log.sh" 则删除下一行，避免重复加载
 
 . /usr/share/openclash/log.sh
+. /lib/functions.sh
 
 UpdateAdsRule() {
   LOG_OUT "拉取秋风广告规则..."
 
   local JSDELIVR_HOST="testingcf.jsdelivr.net"
+  local BACKUP_FILE="/root/awavenue-ads.conf"
 
-  # 等 DNS 能解析目标域名为止
+  # 等待网络就绪
   local RETRY=0
   until ping -c 1 -W 2 "$JSDELIVR_HOST" >/dev/null 2>&1; do
     RETRY=$((RETRY + 1))
@@ -40,26 +42,35 @@ UpdateAdsRule() {
   [ -z "$TARGET_DIR" ] && TARGET_DIR="/tmp/dnsmasq.d"
   [ ! -d "$TARGET_DIR" ] && mkdir -p "$TARGET_DIR"
 
-  # 下载规则，shell 层面重试 5 次
+  # 下载规则（实际尝试次数为 MAX_RETRY+1）
+  local MAX_RETRY=3
+  local SLEEP_SECONDS=5
   local TMP_FILE
   TMP_FILE=$(mktemp)
+  trap 'rm -f "$TMP_FILE"' RETURN
   RETRY=0
   until curl -sf --max-time 30 \
     "https://$JSDELIVR_HOST/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Filters/AWAvenue-Ads-Rule-Dnsmasq.conf" \
     -o "$TMP_FILE" && [ -s "$TMP_FILE" ]; do
     RETRY=$((RETRY + 1))
-    [ "$RETRY" -ge 5 ] && break
-    LOG_OUT "下载失败，5秒后重试($RETRY/5)..."
-    sleep 5
+    [ "$RETRY" -ge "$MAX_RETRY" ] && break
+    LOG_OUT "下载失败，${SLEEP_SECONDS}秒后重试($RETRY/$MAX_RETRY)..."
+    sleep "$SLEEP_SECONDS"
   done
 
   if [ -s "$TMP_FILE" ]; then
     mv "$TMP_FILE" "$TARGET_DIR/awavenue-ads.conf"
-    LOG_OUT "规则下载成功: $TARGET_DIR/awavenue-ads.conf, 共 $(wc -l <"$TARGET_DIR/awavenue-ads.conf") 条"
+    cp "$TARGET_DIR/awavenue-ads.conf" "$BACKUP_FILE"
+    LOG_OUT "规则下载成功: $TARGET_DIR/awavenue-ads.conf，共 $(wc -l <"$TARGET_DIR/awavenue-ads.conf") 条，已备份至 $BACKUP_FILE"
   else
-    rm -f "$TMP_FILE"
-    LOG_OUT "秋风广告规则拉取失败，保留旧规则"
-    return 1
+    # TMP_FILE 由 trap 清理，无需手动 rm
+    if [ -s "$BACKUP_FILE" ]; then
+      cp "$BACKUP_FILE" "$TARGET_DIR/awavenue-ads.conf"
+      LOG_OUT "下载失败，已从备份还原旧规则: $BACKUP_FILE（共 $(wc -l <"$TARGET_DIR/awavenue-ads.conf") 条）"
+    else
+      LOG_OUT "下载失败，且无备份可用，广告屏蔽规则未加载"
+      return 1
+    fi
   fi
 
   # 重载 dnsmasq
