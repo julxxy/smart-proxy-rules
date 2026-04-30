@@ -180,6 +180,7 @@ payload:
   - 'DOMAIN-SUFFIX,voyracloud.com,PROXY'
   - 'DOMAIN-KEYWORD,dogess,PROXY'
   - 'DOMAIN-KEYWORD,yin-net.com,PROXY'
+  - 'DOMAIN-KEYWORD,goodcloud.xyz,PROXY'
   - 'DOMAIN-SUFFIX,segment.com,PROXY'
   - 'DOMAIN-SUFFIX,segment.io,PROXY'
   - 'DOMAIN-SUFFIX,singular.net,PROXY'
@@ -195,7 +196,7 @@ payload:
   - 'DOMAIN-SUFFIX,ct.sendgrid.net,PROXY'
   - 'DOMAIN-SUFFIX,jetbrains.com,PROXY'
   - 'DOMAIN-SUFFIX,onetrust.com,PROXY'
-  - 'DOMAIN-SUFFIX,website-files.com,PROXY'
+  - 'DOMAIN-SUFFIX,website-files.com,PROXY;'
 
   # Source: google-ai
   - 'DOMAIN,ai.google.dev'
