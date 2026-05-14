@@ -1,22 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-14 05:39:21 (UTC)                      #
+# Last updated: 2026-05-14 16:49:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 503
+# Number of entries: 499
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
-3brosstore.com
 4bklvfdi.estradaannivers.digital
 51523.file-open.surf
 64bc33vp.chequecholeric.digital
 9nl6t4w2.estradaannivers.digital
 aakrutitexture.in
-acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
 accoun-table-unleash-soft.wiki
@@ -30,13 +28,11 @@ alineeleuterio.com.br
 allendostmen.com
 allister.ee
 alternativas.ru
-analytical-traffic-audit-record-file.wiki
-andjemztech.com
 angelpatter.wiki
-antiq-telegraphyproduct.wiki
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+apparelgate.co.uk
 apple-service93.ru
 ardena.pro
 areyouready.co.za
@@ -52,11 +48,9 @@ b5fdl2mw.hor1inka-lonely.digital
 backup-terminal-gateway-handle-list.wiki
 backupso.com
 bbos.minet.vn
-beacontweezersbinge.wiki
-beak.in
 beoauto.alexion.rs
-binary-buffer-overflow-protection-lab.wiki
 blessdayservices.org
+blit.co.za
 blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
@@ -66,16 +60,16 @@ book.rollingvideogames.com
 boydjackson.org
 bracell.latitude.net.br
 bridgeroad.maverickpreviews.com
-brightestprocexchange.wiki
 brightworks.cz
 briskinternet.com
 bula-silomercitationlaptop.wiki
 bvaco.com
-byte-stream-encryption-standard-base.wiki
 byteforge.surf
 c.fi3.me
+c2.mc-live.online
 cad.659t.cn
 cafe-club-oracle-card.wiki
+card-oracle-mac-laptop.wiki
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
@@ -110,8 +104,6 @@ coralasargetia.ro
 corporacioncrf.com
 cpofficial.com
 creativevoltage.com
-crimefreesoftware.com
-crypt-algorithm-analysis-expert-board.wiki
 cryptogrid.wiki
 crystalpvp.ru
 cs.go.kg
@@ -126,7 +118,6 @@ data-core-logic-resource-center.wiki
 data.yhydl.com
 datapulse.wiki
 dcrun.co.uk
-dcwblida.dz
 decentralizedmessagingframework.wiki
 decentralizedworkflowengine.wiki
 delp-heizungsbau.de
@@ -143,6 +134,7 @@ distributedobjectstoragenet.wiki
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
+dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
 down.54nb.com
@@ -150,6 +142,7 @@ down.fwqlt.com
 down.mvip8.ru
 down.pcclear.com
 down.qqfarmer.com.cn
+download-api-endpoint.com
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -170,12 +163,13 @@ eaglefungustourismscreen.wiki
 easybrand.vn
 electri.billregulator.com
 elisans.novayonetim.com
+emaisboletos.com
 embedone.com
-en.taichuan.com
 enterprise-solution-buffer-utility-log.wiki
 epanpano.com
 estudio.ythan.com.br
 evangroup.ru
+eventsyouwant.com
 everycarebd.com
 fakers.co.jp
 farschid.de
@@ -184,7 +178,6 @@ fd.v2downf.shop
 federated-runtime-network.wiki
 fertas.com.tr
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -199,13 +192,15 @@ gestionycobranzas.com
 girlytrans-fusion.wiki
 glarsitttrain.wiki
 global-cloud-infra-logic-manual.wiki
+global-infra-logic-get-hash.wiki
+global-infra-node-date-hash.wiki
 globalbank.us
 google-services.cc
 greenf.alexion.rs
 grupomcperu.com
 gutando.com
+handout-voivo-desk-ship-link.wiki
 handout-voivodeshiplink.wiki
-hardware-resource-monitor-tool-box.wiki
 hasalltalent.com
 hemorrhoid-daydark.wiki
 hitman-pro.ru
@@ -217,7 +212,6 @@ hypervisorresourcecontroller.wiki
 i.404.pm
 icoffeecloud.com
 igra123.com
-immersevocalistidleness.wiki
 infra-point-bits-service-atlas.wiki
 injectroblox.ru
 inmbau.com
@@ -227,25 +221,26 @@ isometricsindia.co.in
 itssprout.com
 izocab.com
 izogard.com
-jawaratekno.com
 jin.com.my
 jlwz.cn
 joyeriatauro.com
 jyothishmathi.in
 kavacanada.ca
-kernel-patch-update-release-history.wiki
 khoancatbetong89.vn
 kimyen.net
+kokorostore.it
 konsor.ru
 kramersmarionnettes.com
 landonirwin.com
 laptoplink.wiki
-lara.com.ar
 lawfirm.paperbirdtech.com
+layer-get-win-tron.wiki
+layer-obs-usget-tron.wiki
 libss.0x504.com
 lindenappliances.co.za
 lindnerelektroanlagen.de
 linkku.me
+lmlawcorp.com
 local-update.com
 logicnode.surf
 lomejordesalamanca.es
@@ -258,11 +253,10 @@ m.meta-dm.com
 m1rz16og.poles-wrinkle.digital
 mahleinc.com
 maidforyou1985.com
-marsalek.cy
+master-core-system-date-slink.wiki
 master-system-data-core-wiki.wiki
-medicin-morisomtobeafraid.wiki
+master-voivo-system-shop-slink.wiki
 meetvideogoogle.com
-meta-data-shredding-cleanup-utility.wiki
 metrics.gocloudmaps.com
 microkernel-routing-engine.wiki
 microservice-balancer-node.wiki
@@ -282,9 +276,9 @@ netvector.wiki
 network-security-ops-flow-base.wiki
 new.quranushaiqer.org.sa
 noithaticon.vn
-nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
+obese-table-usweb-play.wiki
 obese-uzousweb-play.wiki
 observability-stream-hub.wiki
 ohqvz201.unseen-zorenka.digital
@@ -292,7 +286,6 @@ ojang.pe.kr
 ok-dtpnew.cyou
 ok-ru-photo6.live
 okhan.net
-oknoplastik.sk
 onfiltre.com.tr
 op1h26r1.exhaustoverwint.digital
 open-api-protocol-storage-guide.wiki
@@ -321,7 +314,7 @@ pobedastaff.ru
 postelnini.mk
 prime-object-container-task-archive.wiki
 pro-architecture-engineering-vault-info.wiki
-protherapycenter.com
+pro-cyber-defense.courses
 pt6nyxsf.unseen-zorenka.digital
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
@@ -332,7 +325,6 @@ quart-rantman.wiki
 qz.697539.com
 r9chy91i.unseen-zorenka.digital
 ramirex.ro
-ranojpegu.in
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
@@ -340,7 +332,6 @@ redlk.com
 refaccionesalma.com.mx
 refrigeracion.delmondexpress.com
 reifenquick.de
-remote-sensor-proxy-tunnel-config.wiki
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
@@ -373,6 +364,7 @@ shop.mediasova.ru
 shqdown.ggzuhao.com
 sk-comtel.com
 smartermail.host
+smartworkflowmanagement.courses
 smother-portf.file-open.surf
 snooze-wontdrama.wiki
 soft.110route.com
@@ -380,8 +372,8 @@ softcatalog.ru
 softwarefile.wiki
 solar-sanat.net
 spgint.com
+stack-core-node-date-hash.wiki
 stackforge.wiki
-stat-collection-engine-performance-view.wiki
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -399,6 +391,7 @@ sycoreltd.yzz.me
 system-stack-node-data-reference.wiki
 talentrecruitments.com
 tanscarattorneys.co.tz
+tapestryoftruth.com
 tech-script-logic-unit-reference.wiki
 tecunonline.com
 tehnomag.rs
@@ -416,8 +409,8 @@ theoremaoliveoil.com
 thtp2.volamngayxua.net
 toolshare.com.tr
 top8onlinegame.com
-trace-route-diagnostic-signal-map.wiki
 tradedsglobal.com
+transalpinafan.ro
 transparenciacanaa.com.br
 trtmyanmar.com
 ukguk71.ru
@@ -427,6 +420,7 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 update.volam2005pk.com
+updatedserver.shop
 utl1juep.estradaannivers.digital
 vagler.ru
 valfanto.com
@@ -435,6 +429,7 @@ versaclean.com.br
 veryboys.com
 vg2tw8iq.unseen-zorenka.digital
 vgd.vg
+vidacaninapet.com
 videomeetgoogle.com
 vincentdemiero.com
 virtual-compute-engine-template-doc.wiki
@@ -472,6 +467,7 @@ www.jozefinskiatelje.si
 www.konsor.ru
 www.longfeng188.com
 www.medises.co.kr
+www.mevetlab.cl
 www.mobimpex.ro
 www.myvcart.com
 www.namuvpn.com
