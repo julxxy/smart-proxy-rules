@@ -1,6 +1,12 @@
 # ============================================================
-# Clash Meta for Android 配置
-# 功能：多机场订阅整合 · 自动延迟优选 · 按需分流
+# Clash desktop 最小化多代理商融合配置 · 标准版
+# ------------------------------------------------------------
+# 适用平台：OpenClash（Mihomo/Meta 内核）· 路由器旁路/主路由
+# 运行模式：TUN + Fake-IP
+# 机场数量：2 个（dogess · danta，可继续追加）
+# 策略架构：单层自动测速（url-test · 同组延迟最优自动切换）
+# ------------------------------------------------------------
+# DNS / 端口 / allow-lan / external-controller 由 OpenClash 界面管理，此处不写
 # ============================================================
 
 mode: rule
@@ -14,24 +20,33 @@ profile:
 dns:
   enable: true
   ipv6: false
-  default-nameserver: [114.114.114.114, 119.29.29.29, 223.5.5.5] # 用于解析 DoT/DoH 服务器域名，必须为直连 IP
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  use-hosts: true
-  respect-rules: true # DNS 查询遵循代理规则，防止泄露
-  nameserver: ["https://dns.alidns.com/dns-query", "https://doh.pub/dns-query"] # 改成 DoH，国内域名解析不泄露
-  proxy-server-nameserver: ["https://dns.alidns.com/dns-query", "https://doh.pub/dns-query"] # 解析代理服务器地址，走国内 DNS 降低握手延迟
+  listen: "0.0.0.0:7874"
+  respect-rules: true
+  fake-ip-filter-mode: blacklist
+  default-nameserver: [114.114.114.114, 119.29.29.29, 223.5.5.5]
+  nameserver: ["https://doh.dns.sb/dns-query", "https://dns.cloudflare.com/dns-query"]
+  proxy-server-nameserver: ["https://doh.dns.sb/dns-query#skip-cert-verify=true"]
+  proxy-server-nameserver-policy:
+    "geosite:cn": ["https://doh.pub/dns-query", "https://dns.alidns.com/dns-query"]
+    "geosite:geolocation-!cn": ["https://dns.cloudflare.com/dns-query#skip-cert-verify=true", "https://dns.google/dns-query#skip-cert-verify=true"]
   nameserver-policy:
     "geosite:private": ["system", "10.1.2.1"]
     "geosite:cn": ["https://doh.pub/dns-query", "https://dns.alidns.com/dns-query"]
     "geosite:geolocation-!cn": ["https://doh.dns.sb/dns-query", "https://dns.cloudflare.com/dns-query"]
-  fallback: ["https://doh.dns.sb/dns-query", "https://dns.cloudflare.com/dns-query", "https://dns.twnic.tw/dns-query", "tls://8.8.4.4:853", tls://1.1.1.1, tls://8.8.8.8] # 境外加密 DNS，用于被污染域名
-  fallback-filter: { geoip: true, geoip-code: CN, geosite: [gfw], ipcidr: [240.0.0.0/4, 0.0.0.0/32], domain: [+.google.com, +.facebook.com, +.youtube.com] }
-  fake-ip-filter: ["*.lan", "*.localdomain", "*.localhost", "*.local", "time.*.com", "time.*.gov", "ntp.*.com", "*.ntp.org.cn", "+.music.163.com", "+.126.net"] # 这些域名返回真实 IP，不走 Fake-IP
+  fallback: ["tls://1.1.1.1:853", "tls://1.0.0.1:853", "tls://8.8.4.4:853", "tls://8.8.8.8:853", "https://dns.cloudflare.com/dns-query", "https://dns.google/dns-query", "https://dns.quad9.net/dns-query", "https://dns.twnic.tw/dns-query", "https://doh.dns.sb/dns-query#skip-cert-verify=true"]
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    geosite: [gfw]
+    ipcidr: ["::/128", "::1/128", "2001::/32", 0.0.0.0/8, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32]
+    domain: ["+.google.com", "+.googlevideo.com", "+.googleapis.com", "+.facebook.com", "+.youtube.com", "+.githubusercontent.com", "+.msftconnecttest.com", "+.msftncsi.com"]
+  fake-ip-filter: ["*.lan", "*.localdomain", "*.example", "*.invalid", "*.localhost", "*.test", "*.local", "*.home.arpa", "*.direct", cable.auth.com, network-test.debian.org, detectportal.firefox.com, resolver1.opendns.com, global.turn.twilio.com, global.stun.twilio.com, app.yinxiang.com, injections.adguard.org, "localhost.*.weixin.qq.com", "*.blzstatic.cn", "*.cmpassport.com", id6.me, open.e.189.cn, opencloud.wostore.cn, id.mail.wo.cn, mdn.open.wo.cn, hmrz.wo.cn, nishub1.10010.com, enrichgw.10010.com, "*.wosms.cn", "*.jegotrip.com.cn", "*.icitymobile.mobi", "*.pingan.com.cn", "*.cmbchina.com", "*.10099.com.cn", "*.microdone.cn", "PDC._msDCS.*.*", "DC._msDCS.*.*", "GC._msDCS.*.*", time.*.com, time.*.gov, time.*.edu.cn, time.*.apple.com, time-ios.apple.com, time1.*.com, time2.*.com, time3.*.com, time4.*.com, time5.*.com, time6.*.com, time7.*.com, ntp.*.com, ntp1.*.com, ntp2.*.com, ntp3.*.com, ntp4.*.com, ntp5.*.com, ntp6.*.com, ntp7.*.com, "*.time.edu.cn", "*.ntp.org.cn", "+.pool.ntp.org", time1.cloud.tencent.com, music.163.com, "*.music.163.com", "*.126.net", musicapi.taihe.com, music.taihe.com, songsearch.kugou.com, trackercdn.kugou.com, "*.kuwo.cn", api-jooxtt.sanook.com, api.joox.com, joox.com, y.qq.com, "*.y.qq.com", streamoc.music.tc.qq.com, mobileoc.music.tc.qq.com, isure.stream.qqmusic.qq.com, dl.stream.qqmusic.qq.com, aqqmusic.tc.qq.com, amobile.music.tc.qq.com, "*.xiami.com", "*.music.migu.cn", music.migu.cn, "+.msftconnecttest.com", "+.msftncsi.com", localhost.ptlogin2.qq.com, localhost.sec.qq.com, "+.qq.com", "+.tencent.com", "+.srv.nintendo.net", "*.n.n.srv.nintendo.net", "+.cdn.nintendo.net", "+.stun.playstation.net", "xbox.*.*.microsoft.com", "*.*.xboxlive.com", "xbox.*.microsoft.com", xnotify.xboxlive.com, "+.battle.net", "+.battlenet.com.cn", "+.wotgame.cn", "+.wggames.cn", "+.wowsgame.cn", "+.wargaming.net", proxy.golang.org, "stun.*.*", "stun.*.*.*", "+.stun.*.*", "+.stun.*.*.*", "+.stun.*.*.*.*", "+.stun.*.*.*.*.*", heartbeat.belkin.com, "*.linksys.com", "*.linksyssmartwifi.com", "*.router.asus.com", mesu.apple.com, swscan.apple.com, swquery.apple.com, swdownload.apple.com, swcdn.apple.com, swdist.apple.com, lens.l.google.com, stun.l.google.com, na.b.g-tun.com, "+.nflxvideo.net", "*.square-enix.com", "*.finalfantasyxiv.com", "*.ffxiv.com", "*.ff14.sdo.com", ff.dorado.sdo.com, "*.mcdn.bilivideo.cn", "+.media.dssott.com", shark007.net, "Mijia Cloud", "+.cmbchina.com", "+.cmbimg.com", local.adguard.org, "+.sandai.net", "+.n0808.com", "+.uu.163.com", ps.res.netease.com, "+.pub.3gppnetwork.org", "+.steamcontent.com", "+.3gppnetwork.org", "+.oray.com", "+.orayimg.com", "+.gcloudcs.com", "+.gcloudsdk.com", "geosite:cn"]
 
-# ------------------------------------------------------------
-# 1. 机场订阅源
-# ------------------------------------------------------------
+# ============================================================
+# 1. 机场订阅源 (Proxy Providers)
+# ============================================================
 proxy-providers:
   dogess:
     type: http
@@ -64,7 +79,7 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 30  # 延迟差超过 30 ms 才切换，降低 IP 变动频率
+    tolerance: 30
     filter: "(?i)(🇹🇼|台湾|台灣|TW|Taiwan)"
     use: [dogess, danta]
 
@@ -88,7 +103,7 @@ proxy-groups:
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
-    tolerance: 200
+    tolerance: 30
     filter: "(?i)(🇺🇸|美国|US|United States|洛杉|纽约|西雅)"
     use: [dogess, danta]
 
@@ -153,6 +168,15 @@ rule-providers:
     path: ./ruleset/override-proxy.conf
     interval: 86400
 
+  # Copilot
+  copilot-proxy:
+    type: http
+    behavior: classical
+    format: yaml
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.yaml"
+    path: ./ruleset/copilot-proxy.yaml
+    interval: 86400
+
   # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
   reject-threat:
     type: http
@@ -206,28 +230,20 @@ rule-providers:
     path: ./ruleset/private.yaml
     interval: 86400
 
-  spotify:
-    type: http
-    behavior: classical
-    format: text
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list"
-    path: ./ruleset/spotify.list
-    interval: 86400
-
-  copilot-proxy:
-    type: http
-    behavior: classical
-    format: yaml
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Copilot/Copilot.yaml"
-    path: ./ruleset/copilot-proxy.yaml
-    interval: 86400
-
   google:
     type: http
     behavior: domain
     format: yaml
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
     path: ./ruleset/google.yaml
+    interval: 86400
+
+  spotify:
+    type: http
+    behavior: classical
+    format: text
+    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list"
+    path: ./ruleset/spotify.list
     interval: 86400
 
   microsoft-bing:
