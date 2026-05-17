@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-17 05:34:16 (UTC)                      #
+# Last updated: 2026-05-17 15:44:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 560
+# Number of entries: 546
 0022a601.pphost.net
 11udvmp9.polestennisplayer.digital
 123.ywxww.net
@@ -22,8 +22,7 @@
 9yg7582w.packet-lattice.digital
 9yqks5fo.downplaying-sevenleague.digital
 aakrutitexture.in
-abandoned-asylum-expedition.garden
-abyssal-kraken-trench.garden
+acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
 acms.saleseos.com
@@ -34,14 +33,13 @@ affirmingyourlife.com
 agence-immobiliere-lyon.com
 ahdaratlegalservices.com
 alarmline.com.br
-alchemical-formula-scroll.garden
 alineeleuterio.com.br
 allendostmen.com
 allister.ee
-altamoorgoods.com
 alternativas.ru
 ancient-parchment-archive.garden
 andjemztech.com
+antbots-uni-resou-plats.garden
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
@@ -55,7 +53,6 @@ audicontadores.com
 augsburg-auto.com
 aumri.ae
 aurekh.com
-autobaenasl.com
 automated-sprout-labs.garden
 avbackup.acionline.de
 backupso.com
@@ -87,13 +84,13 @@ bvaco.com
 byte-horizon-get-hash.courses
 c.fi3.me
 cad.659t.cn
+carcaran.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
 cdn-assets.xyz
-cdn.file6.goodid.com
 celebratingseniors.net
 cggirdg7.neural-routing.digital
 chat-server.maverickpreviews.com
@@ -101,7 +98,6 @@ checkfivem.com
 checkinetverifk.com
 chinaapper.com
 chiptune.com
-chronicle-archive-keeper.garden
 chungminhtaichinhsaigon.net
 cjjt9vzq.icewounded.digital
 cl.ssouy.com
@@ -115,6 +111,7 @@ clwoce8k.runtime-atlas.digital
 cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
+container-folder-gized-greenhub.garden
 containerizedplantmesh.garden
 containerizedworkflowengine.courses
 continentalgroup.net.in
@@ -123,7 +120,6 @@ coralasargetia.ro
 core-ost-node-system.garden
 corporacioncrf.com
 correction-pancake-seissy.courses
-cosmicmicrowavebackground.garden
 cpofficial.com
 creativevoltage.com
 crimefreesoftware.com
@@ -136,12 +132,10 @@ culling-posture-on-folder.courses
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
-darkosbarbershop.cl
 data.yhydl.com
 dcrun.co.uk
 de.cloud.dxang.com
 dedicatetake-outpure.courses
-deep-space-artificial-gravity.garden
 dehjcpyw.byte-forge.digital
 delp-heizungsbau.de
 derekludlow.com
@@ -163,6 +157,7 @@ dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
+docktan-flexo-avastpig-engine.garden
 donkeytourscroatia.com
 donutinsulinphilosophy.courses
 down-playing-folder-seven-ue.courses
@@ -170,9 +165,7 @@ down.54nb.com
 down.fwqlt.com
 down.mvip8.ru
 down.pcclear.com
-down.qqfarmer.com.cn
 download-api-endpoint.com
-download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
@@ -203,6 +196,7 @@ evangroup.ru
 eventsyouwant.com
 evergreentimberland.garden
 everycarebd.com
+facanha.com.br
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -215,13 +209,13 @@ federatedstoragelab.courses
 fertas.com.tr
 fiinterchillers.com
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 fkpsfevx.culling-posture-schnitzel.digital
 flatten-goinghavethis-weight-lifting.courses
 flora-monitoring-core.garden
 flora-observability-core.garden
+flora-obsrvs-ability-todo.garden
 flora-processing-framework.garden
 flora-security-base.garden
 floriculture-mastery.garden
@@ -229,7 +223,6 @@ flyingmutts.com
 focus-mutovka-transfer-able.courses
 folder-management-core.garden
 fotomaxinstall.click
-friendsofsclarc.org
 frozi.cc
 fukt.link
 furystaff.tech
@@ -240,11 +233,12 @@ gardenworkflowcenter.garden
 gestionycobranzas.com
 get-folder-runtime-harbor.courses
 get-on-processing-engine.garden
+get-shell-gard-frame-work.garden
 globalbank.us
+glow-hub-herboron-sixoauth-work.garden
 go.cmplistsonline.com
 gobiotechpestcontrol.com
 google-services.cc
-grecokitchens.com
 greenf.alexion.rs
 greenhouse-climate-control-sys.garden
 greenhousecontrolhub.garden
@@ -252,7 +246,6 @@ greenhouseoperationshub.garden
 grupomcperu.com
 guildy.top
 gutando.com
-handmade-cheese-traveler.garden
 hasalltalent.com
 herbal-extract-processing.garden
 hexvm.cloud
@@ -275,6 +268,7 @@ irrigation-management-system.garden
 irrigation-resource-system.garden
 isiore.com.co
 isometricsindia.co.in
+it-irrigatn-cntrl-network-go.garden
 itssprout.com
 izocab.com
 izogard.com
@@ -282,6 +276,7 @@ jawaratekno.com
 jin.com.my
 jlwz.cn
 joyeriatauro.com
+july-feded-plants-workflow.garden
 juw0th09.runtime-atlas.digital
 jyothishmathi.in
 k2bs9h2k.proxy-horizon.digital
@@ -296,18 +291,19 @@ landonirwin.com
 lawfirm.paperbirdtech.com
 leniniansexualbeginner.courses
 libss.0x504.com
-lindenappliances.co.za
 lindnerelektroanlagen.de
 linguistic-puzzle-solver.garden
+load-meadows-analytics-cntr.garden
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
+m.meta-dm.com
 m1ub6qaj.kabardinskymonasticismradicalism.digital
 m8to2gkj.hundred-years-old.digital
 madrigalscythianphenologist.courses
 maidforyou1985.com
-mandalaagrifresh.com
+marsalek.cy
 master-planting-logic-manual.garden
 meadow-processing-engine.garden
 meadowprocessingcenter.garden
@@ -326,6 +322,7 @@ mixed-on-storage-layer.garden
 mobshah.com
 mogimall.com
 mosselnet.co.za
+motriztrading.com.br
 mqo7n5b2.script-vault.digital
 muledo.com
 mundocarnes.cl
@@ -334,12 +331,10 @@ n.vs108.com
 natureoasisdesign.garden
 ncxps.com
 nelees.com
-neoncyberpunkcity.garden
 neural-atlas-code-flat.courses
 neural-routing-fabric.courses
 new.quranushaiqer.org.sa
 noithaticon.vn
-nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
 observability-hub-system.courses
@@ -363,18 +358,15 @@ petal-distribution-hub.garden
 petal-routing-platform.garden
 petitesalope.com
 pid.fly160.com
-pixelartcanvas.garden
 planetariumobil.ro
 plasteredplayn.com
 pns.org.pk
 pobedastaff.ru
 postelnini.mk
-predator-hunting-chronicles.garden
 proxy-matrix-kernel-on.courses
 public.demo.securecloudsandbox.com
 puffingsiterreorganize.courses
 pvsa.gxfugy.cn
-qiniuyunxz.yxflzs.com
 quantum-forge-nat.courses
 qz.697539.com
 ramirex.ro
@@ -386,7 +378,6 @@ redlk.com
 refaccionesalma.com.mx
 refrigeracion.delmondexpress.com
 reifenquick.de
-retro-gaming-launcher.garden
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
@@ -426,7 +417,6 @@ softcatalog.ru
 solar-sanat.net
 space-debris-trajectory.garden
 spgint.com
-spoar.org.in
 stackforgeacademy.courses
 stage1-orschellx.com
 static.ilclock.com
@@ -438,7 +428,6 @@ steel-glok-yes-valence.courses
 sterlingreservewealth.info
 stg1-swaggrhockey.com
 stonecradle.com
-suboceanic-trench-sonar.garden
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -446,7 +435,6 @@ synctimenow.org
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-techtattva.in
 tecunonline.com
 tehnomag.rs
 telemetry-folder-stream-core.garden
@@ -472,7 +460,6 @@ uniform-factory.ae
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-update.volam2005pk.com
 urban-botany-station.garden
 urban-graffiti-crew.garden
 vagler.ru
@@ -483,8 +470,6 @@ veryboys.com
 vgd.vg
 videomeetgoogle.com
 vincentdemiero.com
-vintage-blueprint-vault.garden
-vintage-vinyl-restoration.garden
 virtual-gate-way.garden
 virtual-pipeline-ten-it.courses
 virtualgateway.courses
@@ -492,7 +477,6 @@ visam.info
 visualwikicloud.com
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
-volcanic-magma-chamber.garden
 vrajras.com
 vsif6dio.animalspintroll-xerography.digital
 webcstore.pw
@@ -511,6 +495,7 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
+www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -518,6 +503,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.hostingcloud.science
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
@@ -553,6 +539,7 @@ www.zamilgroups.com
 www.zhikey.com
 x0o600dr.clamshellkarakulchaalumina.digital
 xanax.enzostress.st
+xemhang.vn
 xenon.studio
 xn--90abegbttpjb3bzb2j.xn--p1ai
 xn--b1afiqif6c.xn--p1ai
@@ -565,5 +552,4 @@ ysuz4thn.bellow-norushka-pianissimo.digital
 zamilgroups.com
 zenglobalenerji.com
 zhigao5191.com
-ziti-multicooker-hacks.garden
 zycdjz.com
