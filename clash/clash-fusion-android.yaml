@@ -20,7 +20,7 @@ dns:
   use-hosts: true
   respect-rules: true # DNS 查询遵循代理规则，防止泄露
   nameserver: ["https://doh.pub/dns-query","https://dns.cloudflare.com/dns-query"] # 改成 DoH，国内域名解析不泄露
-  proxy-server-nameserver: ["https://dns.alidns.com/dns-query", "https://doh.pub/dns-query"] # 解析代理服务器地址，走国内 DNS 降低握手延迟
+  proxy-server-nameserver: ["https://doh.pub/dns-query", "https://dns.alidns.com/dns-query"] # 解析代理服务器地址，走国内 DNS 降低握手延迟
   nameserver-policy:
     "geosite:private": ["system", "10.1.2.1"]
     "geosite:cn": ["https://doh.pub/dns-query", "https://dns.alidns.com/dns-query"]
