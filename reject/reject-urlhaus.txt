@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-20 05:54:19 (UTC)                      #
+# Last updated: 2026-05-20 17:44:49 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 539
+# Number of entries: 541
 0022a601.pphost.net
 0h5smwzp.network-forge.digital
 0q9bvoqh.telemetry-vault.digital
@@ -14,7 +14,6 @@
 1717.1000uc.com
 2u5vvnoh.microservice-pulse.digital
 3bra.solonettochka.ru
-3brosstore.com
 3zqfx034.subfossiloakchronology.digital
 46fmfamd.crispychickencutlets.digital
 4qm7sqpa.cyber-harbor.digital
@@ -30,6 +29,7 @@ access.skaparade.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
+affirmingyourlife.com
 agence-immobiliere-lyon.com
 agilebee-federate-growth-net.garden
 alarmline.com.br
@@ -55,9 +55,10 @@ aumri.ae
 autobaenasl.com
 backupso.com
 bada-bing-sopranos-lounge.garden
+badoxa7777.lol
 bagansi-wild-flowr-manage-form.garden
-baking-stone-thermal-mass.garden
 bbos.minet.vn
+bcypppaq.asynchronous-growth-platform.garden
 beoauto.alexion.rs
 bioluminescent-fungi-spore.garden
 blessdayservices.org
@@ -77,12 +78,9 @@ botnet.fizra.biz.id
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bvaco.com
-byzantine-mosaic-restoration.garden
 c.fi3.me
-c2.mc-live.online
 c2rdcpuv.runtime-sphere.digital
 cad.659t.cn
-carbon-dating-calibration.garden
 carbon-fiber-monocoque.garden
 cat.dashabi.in
 cat.xiaojiji.nl
@@ -97,13 +95,16 @@ checkfivem.com
 checkinetverifk.com
 chinaapper.com
 chiptune.com
+chuguadventures.co.tz
 chungminhtaichinhsaigon.net
 cl.ssouy.com
+cloudnewsfeed.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
 codepit-rized-denengine.garden
 compuserviceonline.com.br
+containerized-plant-system.garden
 containerizedbloomhub.garden
 containerizedgardenengine.garden
 containerizedgardenhub.garden
@@ -158,6 +159,7 @@ dl.natgo.cn
 doc.e-statements.app
 docsfan-flora-ability-system.garden
 donkeytourscroatia.com
+donutsmpcheats.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
@@ -168,7 +170,6 @@ download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.suxiazai.com
 dowonline.ru
 dreamwatchevent.com
 drevos.ro
@@ -180,12 +181,12 @@ ecosystem-processing-tienginx-center.garden
 ecosystemmanagementcore.garden
 electri.billregulator.com
 elisans.novayonetim.com
-emaisboletos.com
 embedone.com
 en.taichuan.com
 epanpano.com
 estudio.ythan.com.br
 evangroup.ru
+eventsyouwant.com
 everycarebd.com
 explorer.vg
 fakers.co.jp
@@ -197,6 +198,7 @@ federatedgrowthnetwork.garden
 federatedmeadowsystem.garden
 federatedplantplatform.garden
 fertas.com.tr
+fgbojhem.meadowprocessingframework.garden
 fiinterchillers.com
 file.blackint3.com
 file.uhsea.com
@@ -205,11 +207,13 @@ first-security-verden.de
 floraanalyticsengine.garden
 floraanalyticsresource.garden
 floraautomationnetwork.garden
+floraecosystemhub.garden
 floraobservabilitycenter.garden
 floraresourcecontroller.garden
 flyingmutts.com
 fotosdepuebla.org
 frozi.cc
+fucktermedfir.st
 fukt.link
 furystaff.tech
 fz.tiansys.cn
@@ -217,14 +221,11 @@ galerisenimutiara.com
 gardenautomationframework.garden
 gardenresourcecontroller.garden
 geo-foundation.vg
-geostationary-orbit-altitude.garden
 gestionycobranzas.com
 gigs.us.1e.cm
 globalbank.us
-gobiotechpestcontrol.com
 google-services.cc
 gothic-cathedral-blueprint.garden
-gothic-vault-engineering.garden
 green-macrohim-work-center.garden
 greenf.alexion.rs
 greenhousecontrolplatform.garden
@@ -235,6 +236,7 @@ greenhouseoperationscenter.garden
 greenhouseresourceengine.garden
 grupomcperu.com
 gutando.com
+happytugsbakery.com
 hardenedpeanits.fyi
 hasalltalent.com
 hitman-pro.ru
@@ -242,11 +244,13 @@ hitstation.nl
 hobobot.net
 holistic-detective-agency.garden
 holographic-projection-grid.garden
+hppbtwyk.petal-growth-platform.garden
 hseda.com
-hydraulic-actuator-valve.garden
 i.404.pm
+icoffeecloud.com
 id8796.cfd
 igra123.com
+indeanapolice.cc
 infoworkerOne.org
 infra-blue-high-print.garden
 injectroblox.ru
@@ -260,13 +264,9 @@ irrigationtelemetrysystem.garden
 irrigationworkflowsystem.garden
 isellchildren.online
 isiore.com.co
-isochronous-cyclotron-beam.garden
 isometricsindia.co.in
 itssprout.com
-izocab.com
-izogard.com
 jankop.shop
-jawaratekno.com
 jin.com.my
 jlwz.cn
 jmaeciy3.signal-vault.digital
@@ -274,12 +274,15 @@ joyeriatauro.com
 js.byxly.eu.cc
 jyothishmathi.in
 k9h20m23.observability-matrix.digital
+kampoxks.bloommanagementengine.garden
 kavacanada.ca
+kevtel.com
 khoancatbetong89.vn
 kimyen.net
 kokorostore.it
 konsor.ru
 kramersmarionnettes.com
+kzwvrleb.irrigation-monitoring-system.garden
 landonirwin.com
 lawfirm.paperbirdtech.com
 libss.0x504.com
@@ -290,10 +293,11 @@ losslvs.surf
 luizmatoso.com.br
 lv5evztg.cyberneticprostheticlab.digital
 m.jkoa.co.kr
-maglev-propulsion-system.garden
+m.meta-dm.com
 magnetic-levitation-train.garden
 maidforyou1985.com
 marsalek.cy
+meadow-processing-core.garden
 meadowmanagementcenter.garden
 meadowmonitoringplatform.garden
 meadowoperationshub.garden
@@ -314,14 +318,15 @@ msedge.vg
 msgrouppolicy.vg
 mstopsai.com
 mundocarnes.cl
+mx9x.com
 mygrocerbox.com
 n.vs108.com
 ncxps.com
 nelees.com
 new.quranushaiqer.org.sa
 noithaticon.vn
+ns.barnamenevis.shop
 nusatoyota.co.id
-nutrisc.com.br
 ny.lshdw.cc
 o24o.ru
 ojang.pe.kr
@@ -338,7 +343,6 @@ pay.aqiu6.com
 pcapshay-bute-gard-source.garden
 pcupd.com
 perfect-bolognese-simmer.garden
-petal-resource-engine.garden
 petalautomationplatform.garden
 petaldistributioncenter.garden
 petaldistributionplatform.garden
@@ -358,12 +362,12 @@ postelnini.mk
 preciosasjoyitas.com.mx
 primemic.com
 primordial-soup-evolution.garden
-protherapycenter.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 q41liphc.packet-vector.digital
 q956x3rl.badabingsopranoslounge.digital
 qiniuyunxz.yxflzs.com
+qmzbbjle.microfloraresource.garden
 quantum-entanglement-crypt.garden
 qz.697539.com
 radiopin-botn-monitor-in-gengine.garden
@@ -373,7 +377,6 @@ reauthenticator.com
 records.dennisign.se
 redlk.com
 refaccionesalma.com.mx
-refrigeracion.delmondexpress.com
 reifenquick.de
 renaissance-fresco-restoration.garden
 reutilizemais.co.mz
@@ -384,7 +387,6 @@ robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
 sablayan.seasonshotelmindoro.com
-sanjaydharmraj.in
 save.jnrsmcu.com
 scainseto.com.br
 scaletax-bute-analytics-toeheap.garden
@@ -410,9 +412,9 @@ soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spgint.com
+spoar.org.in
 stage1-orschellx.com
 static.ilclock.com
-static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stealth-bomber-radar-cross.garden
@@ -423,7 +425,6 @@ stratographic-core-drill.garden
 stratospheric-weather-balloon.garden
 subdermal-biometric-chip.garden
 subfossil-oak-chronology.garden
-submerged-continental-shelf.garden
 subterranean-bunker-outpost.garden
 support.clz.kr
 sutterpoint.com
@@ -433,7 +434,6 @@ talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tectonic-fault-seismograph.garden
-tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
 tengfeidn.cn
@@ -450,6 +450,7 @@ toolshare.com.tr
 top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
+tvlhpsjn.meadowprocessingframework.garden
 uh83re33.magneticlevitationtrain.digital
 ukguk71.ru
 uniform-factory.ae
@@ -459,13 +460,13 @@ update.cg100iii.com
 v9rvls59.stack-matrix.digital
 vacuum-tube-amplifier.garden
 vagler.ru
+vantarat.st
 vbytelot-mead-automation-form.garden
 vcc-library.uk
 veryboys.com
 vgd.vg
 videomeetgoogle.com
 vincentdemiero.com
-vintage-telemetry-receiver.garden
 visam.info
 visualwikicloud.com
 vizyonuniversitesi.com.tr
@@ -489,6 +490,7 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
+www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -499,11 +501,11 @@ www.first-security-verden.de
 www.hostingcloud.science
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
+www.jerminpelle.com
 www.jozefinskiatelje.si
 www.konsor.ru
 www.longfeng188.com
 www.medises.co.kr
-www.mevetlab.cl
 www.mobimpex.ro
 www.myvcart.com
 www.namuvpn.com
