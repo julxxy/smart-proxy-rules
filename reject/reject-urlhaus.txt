@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-22 05:50:17 (UTC)                      #
+# Last updated: 2026-05-22 16:54:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,7 +24,6 @@ abyssalkraken.fit
 acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
-accesstelematics.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
@@ -33,9 +32,7 @@ alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 allister.ee
-altamoorgoods.com
 alternativas.ru
-ancientparchmentarchive.christmas
 andjemztech.com
 api.baimless.com
 api.ezilax.com
@@ -60,6 +57,7 @@ bedzvnbo.ecosystemresourceplatform.garden
 beoauto.alexion.rs
 bjzrz6je.packet-cascade.digital
 blessdayservices.org
+blit.co.za
 blogs.sokun.jp
 bloom-distribution-engine.garden
 bloomdistributioncenter.garden
@@ -74,11 +72,11 @@ bridgeroad.maverickpreviews.com
 brightworks.cz
 busbytesadd.christmas
 bvaco.com
-byte-network-hub.christmas
 byte-vault.christmas
 byzantine-mosaic-restoration.garden
 c.fi3.me
-cad.659t.cn
+c2.mc-live.online
+cache-orbit.christmas
 carbon-dating-calibration.garden
 cat.dashabi.in
 cat.xiaojiji.nl
@@ -99,7 +97,6 @@ cl.ssouy.com
 cloud-sync-engine.christmas
 cloudruntime.christmas
 clubdetiroelpicarcho.com
-cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
 container-mesh.christmas
@@ -112,18 +109,16 @@ corporacioncrf.com
 cpofficial.com
 creativevoltage.com
 crescentegramas.com.br
-crimefreesoftware.com
-cryoshield.co.za
 crystalpvp.ru
 cs.go.kg
 csg-app.com
 ct3-24.ru
-cyber-defensepro.christmas
 cyber-prosthetic.fit
 d.14yaa.com
 d.tmpfile.link
 d.wanyouxi7.com
 damiancollier.com
+darkosbarbershop.cl
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
@@ -174,7 +169,6 @@ estudio.ythan.com.br
 evangroup.ru
 everycarebd.com
 explorer.vg
-facanha.com.br
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -187,6 +181,7 @@ file.uhsea.com
 filerit.com
 finger.aulinked.org
 finger.linkedby.org
+first-security-verden.de
 floraecosystemhub.garden
 floraresourcecenter.garden
 flyingmutts.com
@@ -210,7 +205,6 @@ gestionycobranzas.com
 gift-harbor.christmas
 gigs.us.1e.cm
 globalbank.us
-gobiotechpestcontrol.com
 google-services.cc
 gotextileltd.com
 gothic-vault-engineering.garden
@@ -218,6 +212,7 @@ graphnewclass.christmas
 greenf.alexion.rs
 grupomcperu.com
 gutando.com
+gwebsolution.com
 happytugsbakery.com
 hasalltalent.com
 hasmysql.christmas
@@ -260,22 +255,23 @@ kevtel.com
 khoancatbetong89.vn
 kimyen.net
 klichkogov.pro
+kokorostore.it
 konsor.ru
 kramersmarionnettes.com
 kzwvrleb.irrigation-monitoring-system.garden
+labdjang.asia
 labshift-winmail-get.christmas
 landonirwin.com
-lasagna-bakingpro.christmas
 lasagnabakingsecrets.study
 lawfirm.paperbirdtech.com
 libss.0x504.com
+lindenappliances.co.za
 lindnerelektroanlagen.de
 linkinglanguageliteracy.com
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
-m.meta-dm.com
 maglev-propulsion-system.garden
 maidforyou1985.com
 marsalek.cy
@@ -295,6 +291,7 @@ mogimall.com
 monstersStat.com
 mosselnet.co.za
 mpvcbz.quantumvelocitylabs.study
+msedge.vg
 msgrouppolicy.vg
 mstopsai.com
 mundocarnes.cl
@@ -306,6 +303,7 @@ nelees.com
 network-flow-system.christmas
 new.quranushaiqer.org.sa
 nhr83i9y.kernel-vertex.digital
+nodefabric.christmas
 noithaticon.vn
 ns.barnamenevis.shop
 ntm4xnw3.renaissancefrescorestoration.digital
@@ -317,7 +315,6 @@ okb0lvez.subdermalbiometricchip.digital
 okhan.net
 oknoplastik.sk
 onfiltre.com.tr
-orbital-mechanics.christmas
 orbital-velocity.fit
 owlcity.ru
 oxfordmobilexray.com
@@ -336,12 +333,12 @@ pobedastaff.ru
 pos-mobile.enlineatechnologies.com
 postelnini.mk
 preciosasjoyitas.com.mx
+protherapycenter.com
 proxy-hub.christmas
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qmzbbjle.microfloraresource.garden
-quantumvelocitylabs.christmas
 qz.697539.com
 ramirex.ro
 rdm.91yunma.cn
@@ -351,13 +348,13 @@ redlk.com
 refaccionesalma.com.mx
 regexcar.christmas
 reifenquick.de
+reposboy.asia
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
 robertrowe.com
 royalindiancurryclub.com
 runtime-control.christmas
-runtime-processing-node.christmas
 rxquickpay.com
 sablayan.seasonshotelmindoro.com
 samsclass.info
@@ -372,12 +369,12 @@ sec.xiaoshabi.nl
 seismophonic.com
 separadordecc.com
 sg123.net
+shaderm.com
 shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
 signal-core-engine.christmas
 signal-processing-core.christmas
-signal-routing-framework.christmas
 silverhost.vg
 sk-comtel.com
 slotmy-send.tech
@@ -385,9 +382,9 @@ smartermail.host
 soft.110route.com
 softcatalog.ru
 solar-sanat.net
+spamgym.asia
 spgint.com
 spoar.org.in
-stack-control-plane.christmas
 stack-flow.christmas
 stackbridge.christmas
 stage1-orschellx.com
@@ -407,18 +404,17 @@ talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 td5323u3.primordialsoupevolution.digital
+techbud.ro
 tecunonline.com
 tehnomag.rs
 telemetry-control-hub.christmas
 telemetry-grid.christmas
 telemetry-orbit.buzz
-telemetrymesh.christmas
 temirtau-adm.ru
 tengfeidn.cn
 test.peperoncinochepassione.it
 thebrandmantra.in
 theholidayroads.com
-themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
@@ -448,6 +444,7 @@ vgd.vg
 videomeetgoogle.com
 vincentdemiero.com
 vintage-telemetry-receiver.garden
+virtual-packet-grid.christmas
 visam.info
 visualwikicloud.com
 vizyonuniversitesi.com.tr
@@ -468,19 +465,23 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
+www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.first-security-verden.de
 www.hostingcloud.science
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jerminpelle.com
 www.jozefinskiatelje.si
 www.konsor.ru
 www.longfeng188.com
 www.medises.co.kr
+www.mevetlab.cl
 www.mobimpex.ro
 www.myvcart.com
 www.namuvpn.com
@@ -511,7 +512,6 @@ x3o11wkp.signal-bridge.digital
 xemhang.vn
 xenon.studio
 xn--90abegbttpjb3bzb2j.xn--p1ai
-xn--b1afiqif6c.xn--p1ai
 xn--yh4bx88a.com
 xshop.com.tr
 xuezha.net
