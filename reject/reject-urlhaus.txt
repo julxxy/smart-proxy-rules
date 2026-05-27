@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-05-27 06:09:56 (UTC)                      #
+# Last updated: 2026-05-27 17:41:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 507
+# Number of entries: 506
 0000153.0000255.0000011.0000125
 0022a601.pphost.net
 123.ywxww.net
@@ -90,13 +90,11 @@ checkfivem.com
 checkinetverifk.com
 chinaapper.com
 chiptune.com
-chuguadventures.co.tz
 chungminhtaichinhsaigon.net
 ci7uxmq7.proxy-harbor.digital
 cl.ssouy.com
 clacndjsvulnarbi.beer
 clubdetiroelpicarcho.com
-cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
 continentalgroup.net.in
@@ -105,6 +103,7 @@ coralasargetia.ro
 corporacioncrf.com
 creativevoltage.com
 crescentegramas.com.br
+crimefreesoftware.com
 crystalpvp.ru
 cs.go.kg
 csg-app.com
@@ -134,6 +133,7 @@ down.54nb.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
+download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
@@ -160,7 +160,6 @@ estudio.ythan.com.br
 evangroup.ru
 eventsyouwant.com
 everycarebd.com
-explorer.vg
 fakers.co.jp
 farschid.de
 fayzcm.greenwaysolar.hu
@@ -195,7 +194,6 @@ gigs.us.1e.cm
 gijjr.welovevent.com
 globalbank.us
 glsvuu.knminerals.hu
-gobiotechpestcontrol.com
 google-services.cc
 gotextileltd.com
 gqsgdt.interimpro.hu
@@ -264,12 +262,14 @@ magnusworkspace.com
 mahcr.banhidileadershipacademy.hu
 maidforyou1985.com
 meetvideogoogle.com
+metrics.gocloudmaps.com
 miqhc.bmiroda.hu
 mistralkorea.ru
 mitreart.com
 mlbmb.bonuszugynokseg.hu
 mobshah.com
 mogimall.com
+mosselnet.co.za
 mp696mc8.script-nexus.digital
 mrwqb.bartaenergetika.com
 msedge.vg
@@ -296,7 +296,6 @@ odqtx.bbglobalbau.hu
 ohzmh.bninolimit.com
 ojang.pe.kr
 okhan.net
-oknoplastik.sk
 oleavv.levelupadventure.hu
 onfiltre.com.tr
 onwqrw.lillafunfit.com
@@ -308,11 +307,13 @@ pay.aqiu6.com
 pcupd.com
 petitesalope.com
 phmro.optikusom.hu
+photobookadm.pro
 pid.fly160.com
 pjvro.cannaturalgroup.com
 planetariumobil.ro
 plasteredplayn.com
 pobedastaff.ru
+pos-mobile.enlineatechnologies.com
 postelnini.mk
 preciosasjoyitas.com.mx
 ptnza.bni-ai.com
@@ -332,6 +333,7 @@ records.dennisign.se
 redlk.com
 refaccionesalma.com.mx
 reifenquick.de
+remoto.ddins.click
 reutilizemais.co.mz
 rheddh.com
 rlaa5uje.stack-frontier.digital
@@ -348,7 +350,6 @@ rxquickpay.com
 sablayan.seasonshotelmindoro.com
 sagdxf.krokodilpince.hu
 samsclass.info
-satuatlas.com
 save.jnrsmcu.com
 scainseto.com.br
 schenckel.com.br
@@ -364,21 +365,19 @@ shaderm.com
 shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
-shreesaiseva.org
 silverhost.vg
 sk-comtel.com
 slotmy-send.tech
 smartermail.host
 sneodo.gerecseglamping.com
+soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spgint.com
 spoar.org.in
 stage1-orschellx.com
 static.ilclock.com
-static.topxgun.com
 static.youdm.cn
-stdown.dinju.com
 steam66.cn
 stg1-swaggrhockey.com
 stonecradle.com
@@ -386,13 +385,13 @@ support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swhbk.bohochal.hu
+swiftfusion.tech
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
-tengfeidn.cn
 test.peperoncinochepassione.it
 theholidayroads.com
 thementordirectory.com
@@ -406,6 +405,7 @@ toptionlab.co.za
 torrrj.highlife-global.com
 tradedsglobal.com
 transparenciacanaa.com.br
+transporteloggi.com
 trtmyanmar.com
 udiqhj.levivilaga.hu
 uekdrl.gesol.hu
@@ -417,7 +417,6 @@ update.cg100iii.com
 usoiuv.gyorsanhaz.hu
 uubbkkxd.network-vector.digital
 vagler.ru
-vanta.st
 vcc-library.uk
 vdbkti.ispilates.hu
 versaclean.com.br
