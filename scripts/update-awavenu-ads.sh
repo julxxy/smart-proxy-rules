@@ -36,11 +36,6 @@ WriteTrellixBlockRules() {
 address=/mcafee.com/0.0.0.0
 address=/trellix.com/0.0.0.0
 address=/nai.com/0.0.0.0
-address=/update.nai.com/0.0.0.0
-address=/download.mcafee.com/0.0.0.0
-address=/agent.mcafee.com/0.0.0.0
-address=/epo.mcafee.com/0.0.0.0
-address=/mvision.mcafee.com/0.0.0.0
 address=/mcafee-cloud.com/0.0.0.0
 address=/trellix-cloud.com/0.0.0.0
 INNER_EOF
