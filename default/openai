@@ -1,0 +1,23 @@
+# OpenAI
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,openai.dev,PROXY
+DOMAIN-SUFFIX,sora.com,PROXY
+
+# Static Assets / File Uploads
+DOMAIN-SUFFIX,oaistatic.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+
+# OpenAI Realtime Voice
+DOMAIN-SUFFIX,livekit.cloud,PROXY
+
+# OpenAI Mail
+DOMAIN-SUFFIX,sendgrid.net,PROXY
+
+# OpenAI CDN
+DOMAIN,cdn.openaimerge.com,PROXY
+
+# Feature Flags / Product Registry
+DOMAIN,featureassets.org,PROXY
+DOMAIN,featuregates.org,PROXY
+DOMAIN,prodregistryv2.org,PROXY
