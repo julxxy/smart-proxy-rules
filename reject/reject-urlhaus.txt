@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-10 06:11:11 (UTC)                      #
+# Last updated: 2026-06-10 17:36:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 543
+# Number of entries: 557
 0022a601.pphost.net
 09ddpfx9.parspoker.casino
 0fqk0ho2.mrbet90.com
@@ -16,12 +16,14 @@
 1nmuyb5y.parspoker90.com
 1tzunno5.onexboro.com
 33liwbcf.parspoker.casino
+3brosstore.com
 56c1ukt9.shart303.net
 5dwz6wj9.yekbetiran.com
 9t9m7lad.yektbet.bet
 a98nkya7.onexprobet.com
 aakrutitexture.in
 aaronart.com
+abdulahad.net
 acaviationsupplies.com
 acc.jiangsujiaxue.com
 access.skaparade.com
@@ -42,7 +44,6 @@ aoeseeuk.winpars.casino
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-apparelgate.co.uk
 appdownload.download
 apple-service93.ru
 archivoscrosoft.com
@@ -56,6 +57,7 @@ backupso.com
 bbos.minet.vn
 bdfzsbr.kvbel.com
 beoauto.alexion.rs
+betvole9038.com
 bikldg.volleyball.bet
 bjyqjg.onlineshart.com
 bl7gsqjt.parsgoal90.com
@@ -66,9 +68,9 @@ bmdcompany.com
 bombayonline.in
 book.rollingvideogames.com
 brbyxsj.riverpoker1.com
+brenmayasociados.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
-bvaco.com
 byiuatd.pinnaclebetting.bet
 bzwbfps.winxbet.co
 cad.659t.cn
@@ -81,7 +83,6 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 cebsrg.jamjahani.football
 celebratingseniors.net
 chat-server.maverickpreviews.com
@@ -95,6 +96,7 @@ chungminhtaichinhsaigon.net
 chzldmh3.parsbet90.com
 ckejpbj.one1xbet.net
 cl.ssouy.com
+cloudnewsfeed.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
@@ -103,21 +105,21 @@ continentalgroup.net.in
 coralasargetia.ro
 coraline-cheats.pw
 corporacioncrf.com
-corwineagles.com
 cpofficial.com
 cqvdiki.xenicalby6.com
 creativevoltage.com
 crescentegramas.com.br
 crimefreesoftware.com
-crystalpvp.ru
 cs.go.kg
 csg-app.com
+cstaipas.pt
 ct3-24.ru
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
+dcwblida.dz
 deglis.perspolisbet.bet
 delp-heizungsbau.de
 deltaexecutorvip.xyz
@@ -125,6 +127,7 @@ deltahub.vip
 delte-mobrey.com
 demfmb.restaurantguideaarhus.com
 derekludlow.com
+devltl.top
 dexios.co.za
 dezcom.com
 dgxbf5rv.onexfa.com
@@ -142,6 +145,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -179,12 +183,15 @@ everycarebd.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
+fertas.com.tr
 fhvteyb.kbshavanese.com
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 flnntj.persianabet.casino
 flyingmutts.com
+fmrio.com
 fporlgd.penality.bet
 frowben.yasbetapp.com
 fukt.link
@@ -199,9 +206,11 @@ getabre.com
 gfmuomz.pinbahiis.com
 ghbfozy.olabahiskayit.com
 gialird.pishbini11.com
+giga.miraibotnet.su
 git.nightcord.online
 globalbank.us
 globaltechnosoft.com
+gobiotechpestcontrol.com
 grandvegasbet.com.br
 greenf.alexion.rs
 grupomcperu.com
@@ -236,6 +245,7 @@ ircftp.net
 isiore.com.co
 itssprout.com
 izmxgmj.pasoor11.bet
+jamesautomobile.online
 jawaratekno.com
 jbwjdp.rial.bet
 jcrlq1o7.sabzbet.bet
@@ -246,9 +256,9 @@ jjcuameq.parspoker90.com
 jjgnawd.penalti.website
 jlwz.cn
 joyeriatauro.com
-js.byxly.eu.cc
 jwfckz.onlineshart.com
 jyothishmathi.in
+kambohmag.net
 kavacanada.ca
 khoancatbetong89.vn
 kimyen.net
@@ -282,7 +292,6 @@ mnoledglin.top
 mogimall.com
 mosselnet.co.za
 mpozwop.winxbet.co
-muaklekcoop.com
 muledo.com
 mundocarnes.cl
 mx9x.com
@@ -293,11 +302,13 @@ ncxps.com
 nelees.com
 new.quranushaiqer.org.sa
 ngieimu.kvbel.com
+nickart.ro
 nitrogateway.digital
 nkfjdum.pasoor11.bet
 nlwgc0c9.yekbetiran.com
 nnwhxh.pik.bet
 no7shmh.shop
+node2-py-store.com
 noithaticon.vn
 nova.ismak.icu
 nusatoyota.co.id
@@ -317,13 +328,13 @@ oxfordmobilexray.com
 oxtumf.jamjahani.football
 p3.zbjimg.com
 palharesinformatica.com.br
+paperfoldercenter.com
 pay.aqiu6.com
 pblgwhm.x50wheel.bet
 pbtgvx.pablobet90.com
 pbustxk.penalty.casino
 pcupd.com
 pdbrpnf.penaltibazi.com
-petitesalope.com
 pid.fly160.com
 planetariumobil.ro
 plasteredplayn.com
@@ -364,6 +375,7 @@ rykwhjt.winsportiran.com
 rywwahl.romabet90.bet
 sablayan.seasonshotelmindoro.com
 salppir.red90.casino
+salsabil.com
 samsclass.info
 save.jnrsmcu.com
 scainseto.com.br
@@ -384,6 +396,7 @@ shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
 sk-comtel.com
+slotmy-send.tech
 smart.abuse.st
 smartermail.host
 soft.110route.com
@@ -392,7 +405,6 @@ solar-sanat.net
 spasopro.at
 spgint.com
 spiskisvo.xyz
-spoar.org.in
 srninwh.one1xbet.net
 static.ilclock.com
 static.topxgun.com
@@ -425,9 +437,11 @@ tmcksa.com
 tmeypq.perfectgame.casino
 toolshare.com.tr
 top8onlinegame.com
+tradedsglobal.com
 transparenciacanaa.com.br
 trtmyanmar.com
 tsms.ogcs-tn.com
+tt-mods18.click
 tviyhdt.winstone.casino
 twvjaye.penalti.website
 uadcmxt.kbshavanese.com
@@ -438,7 +452,6 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 vagler.ru
-vans-towing.com
 vanta.st
 vdchddh.penaltibazi.com
 vdsina.vg
@@ -469,7 +482,7 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
-www.benshamcentre.co.uk
+www.basefile.click
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -508,6 +521,7 @@ www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.tradedsglobal.com
 www.udobrit.ru
+www.vame.be
 www.vuelaviajero.com
 www.websenorllc.com
 www.website.mypetapp.co.za
@@ -527,7 +541,6 @@ xhfecr.jamjahani2026.football
 xn--yh4bx88a.com
 xshop.com.tr
 xtrqgv.perspolisbet90.com
-xuezha.net
 xwwitjs.rayonbet.com
 xzelng.jamjahani.cash
 ylcfeow.penalty.casino
@@ -542,6 +555,7 @@ zenglobalenerji.com
 zexrhdz.penaltibazi.com
 zfomko.jamjahani.cash
 zhigao5191.com
+zihnyunrui.com
 zjuflao.pasur21.com
 zlbcjre.wrfc8.com
 zlyupbm.wrfc8.com
