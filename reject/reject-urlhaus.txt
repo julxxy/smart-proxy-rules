@@ -1,17 +1,16 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-12 06:33:19 (UTC)                      #
+# Last updated: 2026-06-12 17:23:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 616
+# Number of entries: 611
 0022a601.pphost.net
 02y48l3v.asibshenasiyahya.shop
 0xln2imp.yekbetiran.com
 123.ywxww.net
-1717.1000uc.com
 181xlt4g.gavaedfagahe.xyz
 1cihg2b5.anodaz.vip
 1v6le0j1.andisheeslami2.xyz
@@ -52,7 +51,6 @@ allendostmen.com
 allscaletreeservices.com.au
 alternativas.ru
 amrzjixs.hugugmadanikatouzian.xyz
-anyhoo.testeaza.eu
 aolbzrji.red90.casino
 api.baimless.com
 api.ezilax.com
@@ -60,7 +58,7 @@ app.appzcvb.com
 apparelgate.co.uk
 apple-service93.ru
 archivoscrosoft.com
-areyouready.co.za
+assets.f1cs-dev.it
 atasapka.com.tr
 audicontadores.com
 autobaenasl.com
@@ -76,7 +74,6 @@ betvole9038.com
 bfksnnrp.prozhecart.com
 bgdfvnukx.darsnamejame.xyz
 bhmgwxvu.hugugmadani3.xyz
-bito.com.pk
 bjihnqisx.bankefile.com
 blessdayservices.org
 blogs.sokun.jp
@@ -93,6 +90,7 @@ bvaco.com
 cad.659t.cn
 cambodiatouristservice.com
 candipoker.net
+carcaran.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
@@ -109,7 +107,7 @@ chinaapper.com
 chiptune.com
 chuguadventures.co.tz
 chungminhtaichinhsaigon.net
-cl.ssouy.com
+cloudnewsfeed.com
 clubdetiroelpicarcho.com
 cmkfhtt.bet303.promo
 cn.unionlever.com
@@ -118,6 +116,7 @@ compuserviceonline.com.br
 comserlivuior.store
 continentalgroup.net.in
 coralasargetia.ro
+corepilatesnicaragua.com
 corporacioncrf.com
 corwineagles.com
 cpofficial.com
@@ -147,9 +146,6 @@ dexios.co.za
 dezcom.com
 dguldnys.restaurantguideaarhus.com
 dhnconstrucciones.com.ar
-dialkwik.in
-digitalcode.sa
-disk.accord1key.cn
 divvanews.com
 dk2acd53.anodaz.co
 dl.1003b.56a.com
@@ -206,9 +202,9 @@ flyingmutts.com
 fmrio.com
 fukt.link
 furystaff.tech
-fz.tiansys.cn
 fzrflqf.amoozeshagazade.shop
 galerisenimutiara.com
+garogradba.mk
 gboutros.howto.rocks
 gestionycobranzas.com
 ggc6yxvy.ravanshenakhti.shop
@@ -233,7 +229,6 @@ hlgwrpbh.mechanicsayalat.xyz
 hobobot.net
 hqvgwxfu.hugugedari.xyz
 hremhf.jamjahani2026.football
-hseda.com
 hvqxbpp.hesabdari2.xyz
 hylfko.pishbinibet.casino
 hzvvlqps.mechanicsayalat.xyz
@@ -246,6 +241,7 @@ icoffeecloud.com
 ieemaju.akhlageslami.xyz
 ifvtbgbf.maharatmodiran.xyz
 igra123.com
+indeanapolice.cc
 injectroblox.ru
 iqduira.akhlagvaahkam.xyz
 ircftp.net
@@ -265,11 +261,11 @@ jlwz.cn
 joyeriatauro.com
 jqfg2zyi.ehtemalatvaamar.xyz
 jqjvvqpy.one1x.bet
-js.byxly.eu.cc
 jvyzjvqmb.bankefiile.com
 jxsofena.shartbandi.games
 jyothishmathi.in
 kaiojocv.masirpayambari.xyz
+kambohmag.net
 kavacanada.ca
 kaza.com.hk
 kdthbhbm.prozhecart.com
@@ -354,14 +350,11 @@ oejoixm.amlakshahri.xyz
 oivuaiyy.psgnewsiran.com
 ojang.pe.kr
 okhan.net
-oknoplastik.sk
 omzuslys.hugugtatbigi.xyz
 onfiltre.com.tr
-opmg.top
 ouqzmwvg.jamjahani.football
 ovzweeh.amoozeshagazade.shop
 owlcity.ru
-oxfordmobilexray.com
 oxzqss.azmoonzare.online
 p3.zbjimg.com
 p5k42qtw.anodaz.co
@@ -382,9 +375,10 @@ poland.dekma-gay.ru
 postelnini.mk
 pour45yz.ravandarmani.xyz
 preciosasjoyitas.com.mx
+protherapycenter.com
+proveedoradeproyectosysoluciones.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
-qiniuyunxz.yxflzs.com
 qlvwxer.karafarini.shop
 qlwxqybo.prozhedownload.com
 qmnldei.akhlagheslami.xyz
@@ -434,6 +428,7 @@ sec.xiaoshabi.nl
 seismophonic.com
 separadordecc.com
 sg123.net
+shaderm.com
 shahamanatme.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
@@ -455,6 +450,7 @@ static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
+steam66.cn
 stonecradle.com
 streammobs.com
 support.clz.kr
@@ -467,6 +463,7 @@ taiquge.lincoplus.xyz
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tdfzyex.amoozeshagazade.shop
+techbud.ro
 tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
@@ -495,7 +492,6 @@ uniform-factory.ae
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-updateservice1-telegramweb.com
 usjcx.site
 uulyqc.barnamenevisi.xyz
 uxl15txz.azmoondadrasi.xyz
@@ -506,7 +502,6 @@ vanta.st
 vbjnuyvt.hugugedari.xyz
 vbpfixp.hesabdarishabahang.xyz
 vcc-library.uk
-vdsina.vg
 veb0im5p.ansuyemarg.xyz
 verccbf.hesabdarinoravesh.xyz
 versaclean.com.br
@@ -523,6 +518,7 @@ vkuyoujz.hugugbeynolmelal.xyz
 vohgvv.jamjahani.football
 vps36563.maxko-hosting.net
 vqfqrqgv.red90.casino
+vrajras.com
 vrdccbank.com
 vvoplgpy.bet303.poker
 vzyeissn.rial.bet
@@ -614,7 +610,6 @@ zamilgroups.com
 zenglobalenerji.com
 zet9r6gg.nahjolbalage.xyz
 zhfxkf.bankefile.com
-zhigao5191.com
 zhrzviveu.downloadquran.xyz
 zihnyunrui.com
 zjtjokj.quranmohagegin.shop
