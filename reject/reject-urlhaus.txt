@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-15 07:05:15 (UTC)                      #
+# Last updated: 2026-06-15 18:53:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 559
+# Number of entries: 552
 0022a601.pphost.net
 0z0kmkwn.anodaz.tv
 123.ywxww.net
@@ -18,7 +18,6 @@
 3cxt05zy.ravanshenakhti.shop
 4v96patx.vajename.xyz
 5w4mouaz.shansline.com
-6ak-tehnik.si
 6wkjs482.nazariyeyadgiri.xyz
 7dqgr2or.shansbartar.bet
 7sxu8ft8.shartbandikade.online
@@ -30,15 +29,17 @@
 aaqgnsji.jam-jahani.com
 aaronart.com
 aasdaonz.mechanickhodakarami.shop
-abdulahad.net
+absolutecaninepa.com
 acc.jiangsujiaxue.com
 access.skaparade.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
+agrovelca.com
 ahkyokta.hugugtatbigi.xyz
 ajthn.mabanieslami2.xyz
+akarstresser.pro
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
@@ -60,6 +61,7 @@ backupso.com
 bbos.minet.vn
 bedrive.ru
 beoauto.alexion.rs
+bin.workcentral.shop
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
@@ -72,9 +74,7 @@ bridgeroad.maverickpreviews.com
 brightworks.cz
 bunnellmc.com
 bvaco.com
-c2.mc-live.online
 c3ord92p.ravanshenasiganji.xyz
-cad.659t.cn
 cambodiatouristservice.com
 candipoker.net
 cat.dashabi.in
@@ -99,6 +99,7 @@ clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
+consways.com
 continentalgroup.net.in
 coralasargetia.ro
 corporacioncrf.com
@@ -124,16 +125,13 @@ damiancollier.com
 data.yhydl.com
 datingtj22.shop
 dcrun.co.uk
-dcwblida.dz
 delp-heizungsbau.de
 delte-mobrey.com
 derekludlow.com
-detierra.cl
 dexios.co.za
 dezcom.com
 dhnconstrucciones.com.ar
 dialkwik.in
-digitalonline.cl
 disk.accord1key.cn
 divvanews.com
 dkcxfqn2.gavaedfagahe.xyz
@@ -146,14 +144,12 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.suxiazai.com
 dowonline.ru
 dpphq.differentialmamuli.store
 dreamwatchevent.com
@@ -189,8 +185,8 @@ farschid.de
 fcsulewd.karafarini.shop
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
+files01.click
 first-security-verden.de
 fjagjlhm.psgnewsiran.com
 fkqhi.drivingbook.xyz
@@ -271,7 +267,7 @@ kzkzbbha.hugugmadani6.xyz
 landonirwin.com
 lawfirm.paperbirdtech.com
 ldbrrvwc.hugugmadani6.xyz
-lindnerelektroanlagen.de
+libss.0x504.com
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
@@ -280,13 +276,11 @@ m.jkoa.co.kr
 m85zqt33.motuntakhasosi.store
 maidforyou1985.com
 meetvideogoogle.com
-metrics.gocloudmaps.com
 mhhalmi.pokerkade.online
-miskolc-dugulaselharitas.hu
 mitreart.com
 mkspkafs.4030bet.app
 mogimall.com
-mothertouch.ac.zw
+mosselnet.co.za
 muledo.com
 mundocarnes.cl
 mx9x.com
@@ -295,13 +289,12 @@ n.vs108.com
 ncxps.com
 ndotkgyl.tasisathosseini.shop
 new.quranushaiqer.org.sa
-nickart.ro
 nitrogateway.digital
 no7shmh.shop
 noithaticon.vn
 npmc4uw2.zabanenglishanari.xyz
 nqsaymjr.betyek.net
-nusatoyota.co.id
+nutrisc.com.br
 nwklhlmm.hugugmadani6.xyz
 ny.lshdw.cc
 nztdbnij.mabanishimi.xyz
@@ -313,6 +306,7 @@ ojang.pe.kr
 ojblxlua.hugugtejarat4.xyz
 okhan.net
 oknoplastik.sk
+one-verif.lol
 onfiltre.com.tr
 osggwts6.fubet24.net
 otbmu.downloadquran.xyz
@@ -322,13 +316,13 @@ ozaauajb.mechanickhodakarami.shop
 p3.zbjimg.com
 p60hpuvn.shartbandifootballkade.online
 palharesinformatica.com.br
-pay.aqiu6.com
 pcupd.com
 phw2uk1e.casinokade.online
 pid.fly160.com
 pirqlheh.hugugtejarat4.xyz
 planetariumobil.ro
 plasteredplayn.com
+pns.org.pk
 portwesl.com
 postelnini.mk
 preciosasjoyitas.com.mx
@@ -349,7 +343,6 @@ qlsgo9c9.shimiskoog.shop
 qlvir.differentialkerayechiyan.store
 qnuaqbez.anodaz.vip
 qoutbfpg.bet120x.net
-queendent.hu
 qvipoojy.karafarini.shop
 qzkdr.bankefiile.com
 qzxjphs.megaparikade.com
@@ -377,6 +370,7 @@ royalindiancurryclub.com
 rteutcjg.hugugtatbigi.xyz
 rxquickpay.com
 sablayan.seasonshotelmindoro.com
+samiksha.com.sg
 samsclass.info
 scainseto.com.br
 scoala1gherla.ro
@@ -388,10 +382,8 @@ seismophonic.com
 separadordecc.com
 sg123.net
 sh6rkpx6.shartmag.bet
-shaderm.com
 shahamanatme.com
 shop.mediasova.ru
-shqdown.ggzuhao.com
 shrqj.mabanimashin.site
 sk-comtel.com
 slotmy-send.tech
@@ -402,13 +394,13 @@ softcatalog.ru
 solar-sanat.net
 spasopro.at
 spgint.com
-spoar.org.in
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steam66.cn
 stonecradle.com
-stream.atc-labs.com
+streammobs.com
 sujjp.ecologyardakani.xyz
 support.clz.kr
 sutterpoint.com
@@ -417,10 +409,10 @@ sw9k00e8.shartbandifootballkade.online
 swiftfusion.tech
 sxzvcen2.shansline.com
 sydneyaffordablecremations.com.au
+talentrecruitments.com
 taniyuz1prem.shop
 tanscarattorneys.co.tz
 tapestryoftruth.com
-techbud.ro
 tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
@@ -456,7 +448,8 @@ update.cg100iii.com
 urelelgc.betforwardkade.com
 uzdating1.shop
 vagler.ru
-vans-towing.com
+vanta.st
+vcc-library.uk
 verification-js-cdn.boats
 versaclean.com.br
 veryboys.com
