@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-18 06:43:17 (UTC)                      #
+# Last updated: 2026-06-18 17:47:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 566
+# Number of entries: 562
 0022a601.pphost.net
 03mnh00l.hugugmadani6.xyz
 123.ywxww.net
@@ -41,6 +41,7 @@ alternativas.ru
 anxjzoez.shartbandi.games
 api.baimless.com
 api.ezilax.com
+app-cdek-online.ru
 app.appzcvb.com
 apparelgate.co.uk
 apple-service93.ru
@@ -60,7 +61,6 @@ bbos.minet.vn
 bbztdp6a.akhbarsport.info
 bchvsotq.questionsmotor.xyz
 beoauto.alexion.rs
-bito.com.pk
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
@@ -73,14 +73,12 @@ brcorni.mabaninazari.shop
 brenmayasociados.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
-brokbutcher.com
 brsppaxh.psgnewsiran.com
 bunnellmc.com
 bvaco.com
 bvsfuyvu.leaguejazire.com
 bzdujmed.sazebetonarme.xyz
 c9w3m5jq.usoleamoozesh.xyz
-cad.659t.cn
 canigrup.top
 cat.dashabi.in
 cat.xiaojiji.nl
@@ -101,11 +99,9 @@ cjbbdtba.maharatmodiran.xyz
 ckvcsacd.mechanicsayalat.xyz
 cl.ssouy.com
 clubdetiroelpicarcho.com
-cn.unionlever.com
 cnuwz.bankefile.com
 co-emas.com
 compuserviceonline.com.br
-consways.com
 continentalgroup.net.in
 coralasargetia.ro
 coraline.work
@@ -150,7 +146,6 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -160,7 +155,6 @@ download.pdf00.com
 download.suxiazai.com
 dowonline.ru
 dreamwatchevent.com
-drevos.ro
 dubaitechnicalservice.ae
 dusttv.com
 dweixin.cn
@@ -199,10 +193,10 @@ fz.tiansys.cn
 gafaiyfx.mechanickhodakarami.shop
 galerisenimutiara.com
 gboutros.howto.rocks
-geo-foundation.vg
 gestionycobranzas.com
 ghcruhhs.sanjeshvaandazegiri.shop
 gidptxnf.shartbandi.games
+giga.miraibotnet.su
 globalbank.us
 greenf.alexion.rs
 grupomcperu.com
@@ -254,6 +248,7 @@ jyothishmathi.in
 kambohmag.net
 kavacanada.ca
 kaza.com.hk
+keitarosofts.com
 khfujqd.shartbandifootballkade.online
 khoancatbetong89.vn
 kimyen.net
@@ -309,7 +304,6 @@ niowimq.shansline.com
 nitrogateway.digital
 nnozsfst.prozhecart.com
 noithaticon.vn
-nusatoyota.co.id
 nvxwrvxi.tasisathosseini.shop
 ny.lshdw.cc
 o24o.ru
@@ -351,12 +345,15 @@ preciosasjoyitas.com.mx
 profound-property.com
 project-vendors.icu
 public.demo.securecloudsandbox.com
+purmed.ro
 pvsa.gxfugy.cn
 pvxvwrfu.sadreislam.xyz
 qgkzqew.azmoonzare.online
+qiniuyunxz.yxflzs.com
 qvwjatwu.masirpayambari.xyz
 r2.image-upload.app
 r2ozzh0s.modiriyatbehrangi.xyz
+railmesenpai.com
 ramirex.ro
 rb907ecj.modiriyatnikbakht.xyz
 rdm.91yunma.cn
@@ -390,7 +387,6 @@ seismophonic.com
 semencepourlavie.org
 separadordecc.com
 sg123.net
-shaderm.com
 shahamanatme.com
 shfbucmg.tarikhravannovin.shop
 shop.mediasova.ru
@@ -406,8 +402,8 @@ solar-sanat.net
 spasopro.at
 spgint.com
 spnzuoez.masaelmohandesi.xyz
-spoar.org.in
 start.billy-surveys.online
+static.249.223.175.5.nextregister.eu
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -455,7 +451,6 @@ uni.site.je
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-updateservice1-telegramweb.com
 useeuclu.prozhecart.com
 uuoecnbs.mechanickhodakarami.shop
 uwso33yr.riyazinikokar.xyz
@@ -510,6 +505,7 @@ www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
 www.hostingcloud.science
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.konsor.ru
