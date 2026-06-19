@@ -1,0 +1,10 @@
+# Cursor
+DOMAIN-SUFFIX,cursor.sh,PROXY
+DOMAIN-SUFFIX,cursor.com,PROXY
+DOMAIN-SUFFIX,cursorapi.com,PROXY
+DOMAIN-SUFFIX,cursor-cdn.com,PROXY
+# Cursor Extensions / Marketplace
+DOMAIN-SUFFIX,todesktop.com,PROXY
+DOMAIN-SUFFIX,vercel-storage.com,PROXY
+# Cursor Update
+DOMAIN-SUFFIX,download.todesktop.com,PROXY
