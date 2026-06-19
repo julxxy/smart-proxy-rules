@@ -73,6 +73,15 @@ payload:
   - 'PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,chatgpt.microsoft.com'
   - 'PROCESS-NAME,microsoft edge,PROXY,DOMAIN-SUFFIX,ai.microsoft.com'
 
+  # Source: cursor
+  - 'DOMAIN-SUFFIX,cursor.sh,PROXY'
+  - 'DOMAIN-SUFFIX,cursor.com,PROXY'
+  - 'DOMAIN-SUFFIX,cursorapi.com,PROXY'
+  - 'DOMAIN-SUFFIX,cursor-cdn.com,PROXY'
+  - 'DOMAIN-SUFFIX,todesktop.com,PROXY'
+  - 'DOMAIN-SUFFIX,vercel-storage.com,PROXY'
+  - 'DOMAIN-SUFFIX,download.todesktop.com,PROXY'
+
   # Source: discord
   - 'DOMAIN-SUFFIX,discord.com,PROXY'
   - 'DOMAIN-SUFFIX,discordapp.com,PROXY'
