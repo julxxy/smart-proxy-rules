@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-20 06:07:14 (UTC)                      #
+# Last updated: 2026-06-20 16:00:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,6 +30,7 @@
 9jdr35y2.kir.bet
 9k4etp9p.azmoondadrasi.xyz
 aaronart.com
+acc.jiangsujiaxue.com
 access.skaparade.com
 acms.saleseos.com
 acu1ajv0.irxbetkade.com
@@ -46,7 +47,6 @@ api.baimless.com
 api.ezilax.com
 app-cdek-online.ru
 app.appzcvb.com
-apple-service93.ru
 archivoscrosoft.com
 areyouready.co.za
 as.al
@@ -84,7 +84,6 @@ catbaparadisehotel.com.vn
 cdaonline.com.ar
 cdn.file6.goodid.com
 cdn.imgtree.co
-celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
 checkinetverifk.com
@@ -191,6 +190,7 @@ gabyagozetim.com
 gaiadeqi.com
 galerisenimutiara.com
 gboutros.howto.rocks
+gestionycobranzas.com
 giga.miraibotnet.su
 gitea.nightcord.st
 gitoxy22.hugugtatbigi.xyz
@@ -213,7 +213,6 @@ i83pv2vx.ravabetensani.site
 i9yfz7a0.asibshenasiyahya.shop
 icoffeecloud.com
 igra123.com
-increvalor.com
 injectroblox.ru
 intellicaddev.ru
 inv527xk.testpaye.xyz
@@ -222,10 +221,12 @@ ircftp.net
 isiore.com.co
 itssprout.com
 jam3b5k6.enfejarland.com
+jawaratekno.com
 jessespridecharters.com
 jlwz.cn
 joyeriatauro.com
 jqqh90zb.usoleamoozesh.xyz
+js.byxly.eu.cc
 jyothishmathi.in
 k7mqynmb.hesabdarieskandari.xyz
 kambohmag.net
@@ -246,6 +247,7 @@ larpers.eu
 lawfirm.paperbirdtech.com
 lgoanndm.betvarzeshkade.online
 lh7umyc5.riyazishahkilid.xyz
+lindnerelektroanlagen.de
 lnc1c2cf.anodaz.vip
 local-update.com
 lomejordesalamanca.es
@@ -254,6 +256,7 @@ m.jkoa.co.kr
 ma3ukklt.riyaziyattajrobi.xyz
 maidforyou1985.com
 mail.avicennaalliedhealthinstitute.org
+mamigummy.com
 maradona.gt.tc
 maybe-sincetomorrow.buzz
 meetvideogoogle.com
@@ -261,7 +264,6 @@ metrics.gocloudmaps.com
 mitreart.com
 mogimall.com
 mosselnet.co.za
-msgrouppolicy.vg
 muledo.com
 mundocarnes.cl
 mx9x.com
@@ -275,7 +277,6 @@ nickylody124.life
 nitrogateway.digital
 noithaticon.vn
 nova.ismak.icu
-nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
 ohlly-mohly.world
@@ -300,7 +301,6 @@ plasteredplayn.com
 postelnini.mk
 preciosasjoyitas.com.mx
 priem-pixart.life
-profound-property.com
 pub-f3382215b.1x1.cash
 public.demo.securecloudsandbox.com
 purmed.ro
@@ -355,7 +355,6 @@ spasopro.at
 spgint.com
 spoar.org.in
 static.249.223.175.5.nextregister.eu
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -365,13 +364,13 @@ streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 sydneyaffordablecremations.com.au
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tecunonline.com
 tehnomag.rs
-temirtau-adm.ru
 tengfeidn.cn
 test.peperoncinochepassione.it
 thatdimensionalwebsite.com
@@ -386,7 +385,6 @@ toolshare.com.tr
 top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
-tt-mods18.click
 tu.feyhaum.com
 tuasesoriadigital.es
 tube-18.xyz
@@ -399,6 +397,7 @@ usual-pixx12.digital
 uzdating1.shop
 v4niq74d.daf.bet
 vagler.ru
+vans-towing.com
 vanta.st
 versaclean.com.br
 veryboys.com
@@ -474,6 +473,7 @@ xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
 xuezha.net
+youtransfer.net
 zamilgroups.com
 zenglobalenerji.com
 zhigao5191.com
