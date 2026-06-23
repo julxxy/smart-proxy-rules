@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-23 05:54:22 (UTC)                      #
+# Last updated: 2026-06-23 16:59:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -27,6 +27,7 @@
 94tny3fa.gamebc.casino
 9b9bmxfm.megapariwin.poker
 aaronart.com
+abdulahad.net
 acc.jiangsujiaxue.com
 ach-sa.com
 acms.saleseos.com
@@ -135,7 +136,6 @@ download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
-download.pdf00.com
 download.suxiazai.com
 dowonline.ru
 dreamapp.xyz
@@ -182,7 +182,6 @@ hasalltalent.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
-hseda.com
 i-ramps.com
 icoffeecloud.com
 igra123.com
@@ -212,6 +211,7 @@ kokorostore.it
 konsor.ru
 kramersmarionnettes.com
 kryptoniteclient.xyz
+kzaa.co.za
 landonirwin.com
 latinaria.xyz
 lawfirm.paperbirdtech.com
@@ -229,12 +229,11 @@ metrics.gocloudmaps.com
 mitreart.com
 mlm2cm0b.yasbetkade.com
 mogimall.com
-mosselnet.co.za
-msedge.vg
 muledo.com
 mundocarnes.cl
 mx9x.com
 myrya1hx.megaparicom.bet
+n.vs108.com
 n8n69sm2.bcgameiran.net
 ncxps.com
 new.quranushaiqer.org.sa
@@ -324,7 +323,6 @@ streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 sydneyaffordablecremations.com.au
 talentrecruitments.com
 tanscarattorneys.co.tz
@@ -426,6 +424,7 @@ www.websitedesigningindia.biz
 www.xn--on3b15m2lco2u.com
 www.ysbaojia.com
 www.zamilgroups.com
+www.zhikey.com
 x0t2a0jb.raftarsazmani.xyz
 xbf6th7x.megaparicom.poker
 xemhang.vn
@@ -435,6 +434,7 @@ xlp38wsp.yekiran.com
 xn--yh4bx88a.com
 xshop.com.tr
 xuezha.net
+yettyagency.tz
 yezqbe5v.tarahisystem.xyz
 youtransfer.net
 zamilgroups.com
