@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-25 05:53:35 (UTC)                      #
+# Last updated: 2026-06-25 16:54:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 438
+# Number of entries: 439
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -25,7 +25,6 @@
 aaronart.com
 abdulahad.net
 acc.jiangsujiaxue.com
-accesstelematics.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
@@ -123,10 +122,12 @@ disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
+dl.natgo.cn
 dlsak5pv.megapariwin.bet
 doc.e-statements.app
 doc.eagle-web-concept.fr
 donkeytourscroatia.com
+down.54nb.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
@@ -154,6 +155,7 @@ estudio.ythan.com.br
 ethercdnns.beer
 evangroup.ru
 eventsyouwant.com
+everycarebd.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -187,7 +189,6 @@ hbcq8sv3.oghabbet1.com
 heartbeatlinkbot.online
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hostinghosting3.site
 hseda.com
 i-ramps.com
@@ -228,7 +229,6 @@ local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
-m.meta-dm.com
 m2p5bg3q.ahkam.xyz
 m3f7xwi4.ensandareslam.xyz
 maidforyou1985.com
@@ -237,7 +237,9 @@ mamigummy.com
 meetvideogoogle.com
 meow.otval.cfd
 metrics.gocloudmaps.com
+mitreart.com
 mogimall.com
+mojtabaabbasi.com
 mosselnet.co.za
 mszlnqlm.jetbet1.live
 muledo.com
@@ -258,7 +260,6 @@ okhan.net
 oknoplastik.sk
 onfiltre.com.tr
 ordiljgt.entegaljerm.xyz
-owlcity.ru
 p0d2virz.blackjacktipsnnt.com
 p3.zbjimg.com
 palharesinformatica.com.br
@@ -319,6 +320,7 @@ spgint.com
 spoar.org.in
 ss9sxw23.online-blackjack-j.info
 static.249.223.175.5.nextregister.eu
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -354,13 +356,14 @@ transparenciacanaa.com.br
 trtmyanmar.com
 tu.feyhaum.com
 tuasesoriadigital.es
+twu-hwt.org
 un1rw11q4u.com
 uni.site.je
+universami.ge
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 uzdating1.shop
-vagler.ru
 vanta.st
 verification-claude-cdn.beer
 verification-code-js.beer
@@ -394,7 +397,6 @@ www.chenwangqiao.com
 www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
-www.drgenov.com
 www.first-security-verden.de
 www.hostingcloud.science
 www.hseda.com
@@ -429,7 +431,6 @@ www.websitedesigningindia.biz
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
-xemhang.vn
 xenon.studio
 xgj65td7.engelabshafifar.xyz
 xn--yh4bx88a.com
