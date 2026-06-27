@@ -1,17 +1,15 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-27 05:34:08 (UTC)                      #
+# Last updated: 2026-06-27 15:46:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 432
+# Number of entries: 423
 0022a601.pphost.net
 00pq7d1j.1xboropartners.com
 0qam1x6q.alobet.pro
-123.ywxww.net
-1717.1000uc.com
 360.intraserv.pl
 4iuq4imv.jetbet1.pro
 4iw2skgz.tinyshart.com
@@ -26,7 +24,6 @@
 8opocc30.1x303.casino
 9ergp1lh.yekshart.app
 aaronart.com
-abdulahad.net
 acc.jiangsujiaxue.com
 accesstelematics.com
 acms.saleseos.com
@@ -110,7 +107,6 @@ dexios.co.za
 dezcom.com
 dialkwik.in
 diobenu2silva.com
-disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
@@ -123,6 +119,7 @@ down.54nb.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
+download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
@@ -148,7 +145,6 @@ evangroup.ru
 eventsyouwant.com
 everycarebd.com
 ex5nibpq.vip1xbet.net
-explorer.vg
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -182,6 +178,7 @@ hasalltalent.com
 hdb1qm8y.shartcart.xyz
 hitman-pro.ru
 hitstation.nl
+hseda.com
 i-ramps.com
 icoffeecloud.com
 igra123.com
@@ -197,7 +194,7 @@ joyeriatauro.com
 js.byxly.eu.cc
 jw2wczuj.jetbet1.pro
 jyothishmathi.in
-karoonpc.com
+kambohmag.net
 kavacanada.ca
 kelvintahvieh.com
 khoancatbetong89.vn
@@ -211,12 +208,10 @@ landonirwin.com
 lawfirm.paperbirdtech.com
 lb.nigsv.com
 libss.0x504.com
-lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
-m.meta-dm.com
 maidforyou1985.com
 mail.dns2.vendasptg.com
 mail.pagar10.vendasptg.com
@@ -226,6 +221,7 @@ metrics.gocloudmaps.com
 mitreart.com
 mogimall.com
 mosselnet.co.za
+muaklekcoop.com
 muledo.com
 mundocarnes.cl
 mx9x.com
@@ -234,7 +230,6 @@ n.vs108.com
 ncxps.com
 new.quranushaiqer.org.sa
 nmo1ivv6.akhlagvaahkam.xyz
-no7shmh.shop
 noithaticon.vn
 nusatoyota.co.id
 nxbv.sabad724.bio
@@ -256,6 +251,7 @@ pffvv3yw.22bahis-tr.com
 pid.fly160.com
 planetariumobil.ro
 plasteredplayn.com
+pns.org.pk
 postelnini.mk
 preciosasjoyitas.com.mx
 propertymgmtsoft.com
@@ -305,7 +301,6 @@ sjc3.sabad724.bio
 sk-comtel.com
 smart.abuse.st
 smartermail.host
-soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spasopro.at
@@ -322,7 +317,6 @@ streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 sydneyaffordablecremations.com.au
 t1x1vby3.ahkam.xyz
 talentrecruitments.com
@@ -385,7 +379,6 @@ www.backupallfresh2030.com
 www.basefile.click
 www.benshamcentre.co.uk
 www.blackhattoolz.com
-www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
 www.controliumbt.com
 www.crazywickedaddiction.com
@@ -401,7 +394,6 @@ www.medises.co.kr
 www.mobimpex.ro
 www.myvcart.com
 www.namuvpn.com
-www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
@@ -427,7 +419,6 @@ www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
 xb.bet1bonus.com
-xemhang.vn
 xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
