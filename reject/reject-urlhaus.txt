@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-06-30 05:51:27 (UTC)                      #
+# Last updated: 2026-06-30 16:43:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 399
+# Number of entries: 396
 0022a601.pphost.net
 0dahrppq.taktikbet.bio
 123.ywxww.net
@@ -28,6 +28,7 @@
 8zdusrwn.xbetone.com
 9lw19l8l.betbuf.live
 aaronart.com
+abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 admin.byte.in.ua
@@ -37,10 +38,10 @@ alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
+anakort32ew.site
 app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
-ashahaarmans.nl
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
@@ -75,6 +76,7 @@ christophercheung.com
 chuguadventures.co.tz
 chungminhtaichinhsaigon.net
 cl.ssouy.com
+cloud.pearlpeel.com
 clubdetiroelpicarcho.com
 co-emas.com
 compuserviceonline.com.br
@@ -104,7 +106,6 @@ dexios.co.za
 dezcom.com
 dialkwik.in
 digital-magicians.com
-disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
@@ -146,8 +147,9 @@ farschid.de
 fd.v2downf.shop
 figural.pro
 file.blackint3.com
-file.uhsea.com
 filerit.com
+fileza.xyz
+finpremium.ru
 first-security-verden.de
 fjy9zygx.1xsignupbet.com
 flyingmutts.com
@@ -166,7 +168,6 @@ gmyaxgk8.yekshart.app
 grantexx.com
 greenf.alexion.rs
 grupomcperu.com
-gsx.life
 gutando.com
 hasalltalent.com
 hi4ztw3j.vip1xbet.org
@@ -189,6 +190,7 @@ jlwz.cn
 joyeriatauro.com
 js.byxly.eu.cc
 jyothishmathi.in
+kambohmag.net
 kavacanada.ca
 khoancatbetong89.vn
 kimyen.net
@@ -206,7 +208,6 @@ local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
-m.meta-dm.com
 maidforyou1985.com
 mamigummy.com
 meetvideogoogle.com
@@ -219,18 +220,20 @@ muaklekcoop.com
 muledo.com
 mundocarnes.cl
 mx9x.com
-n.vs108.com
 ncxps.com
 new.quranushaiqer.org.sa
 nightmare-cheats.pw
+node2-py-store.com
 noithaticon.vn
 nqxr9m1i.iranfitness.top
+nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
 o2rfpbnw.vip1xbet.net
 obzs81jf.fagaheestedlali.xyz
 ojang.pe.kr
 okhan.net
+oknoplastik.sk
 onfiltre.com.tr
 p3.zbjimg.com
 palharesinformatica.com.br
@@ -239,7 +242,6 @@ pcupd.com
 pid.fly160.com
 planetariumobil.ro
 plasteredplayn.com
-pns.org.pk
 postelnini.mk
 preciosasjoyitas.com.mx
 public.demo.securecloudsandbox.com
@@ -267,13 +269,13 @@ ryo.gamer.free
 sablayan.seasonshotelmindoro.com
 samiksha.com.sg
 scainseto.com.br
-scanbot.me
 scoala1gherla.ro
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
 seismophonic.com
 separadordecc.com
+sergiotrabuccocineasta.com
 sg123.net
 shaderm.com
 shahamanatme.com
@@ -290,17 +292,14 @@ spgint.com
 spoar.org.in
 ss70wuy0.jarayemaleyhamval.xyz
 static.249.223.175.5.nextregister.eu
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steam66.cn
 stonecradle.com
-streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 sydneyaffordablecremations.com.au
 talentrecruitments.com
 tanscarattorneys.co.tz
@@ -310,6 +309,7 @@ tehnomag.rs
 temirtau-adm.ru
 tengfeidn.cn
 test.peperoncinochepassione.it
+thebrighttable.com
 theholidayroads.com
 thementordirectory.com
 theoremaoliveoil.com
@@ -321,14 +321,12 @@ top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
 tu.feyhaum.com
-twu-hwt.org
+tuasesoriadigital.es
 uhaita1o.1x303.casino
-un1rw11q4u.com
 uni.site.je
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-updateservice1-telegramweb.com
 uzdating1.shop
 versaclean.com.br
 veryboys.com
@@ -357,7 +355,6 @@ www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
-www.code-beautify.com
 www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
@@ -386,13 +383,13 @@ www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.vuelaviajero.com
 www.website.mypetapp.co.za
-www.websitedesigningindia.biz
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
