@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-05 05:54:07 (UTC)                      #
+# Last updated: 2026-07-05 15:54:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 473
+# Number of entries: 478
 0022a601.pphost.net
 07vh2ie1.jozve.download
 0pkit2tt.prozhedownload.net
@@ -58,7 +58,6 @@ bip.priestsw.com
 blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
-bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 bombayonline.in
@@ -101,6 +100,7 @@ corporacioncrf.com
 cpofficial.com
 creativevoltage.com
 crescentegramas.com.br
+crimefreesoftware.com
 cronicasdelcentro.com
 crystalpvp.ru
 cs.go.kg
@@ -219,7 +219,6 @@ jenkinsmoving.com
 jenniferloeffler.com
 jessespridecharters.com
 jkltnrm.alohawatersports.com
-jlwz.cn
 joyeriatauro.com
 jrfuwpw.megaparii.pro
 js.byxly.eu.cc
@@ -279,7 +278,6 @@ o24o.ru
 ob0fix15.1xgame.org
 ojang.pe.kr
 okhan.net
-oknoplastik.sk
 onfiltre.com.tr
 otlqkiy.betmiz.bet
 ovrrdtl.ace90.casino
@@ -297,6 +295,7 @@ pg1mu94o.yek.baby
 pid.fly160.com
 planetariumobil.ro
 plasteredplayn.com
+pns.org.pk
 postelnini.mk
 preciosasjoyitas.com.mx
 primaflor-sby.com
@@ -321,12 +320,14 @@ reutilizemais.co.mz
 rheddh.com
 riderspin.com
 robertrowe.com
+royalindiancurryclub.com
 rucuxpv.acbet.poker
 rxquickpay.com
 rxyvhv1x.1xforward.cash
 ryo.gamer.free
 sablayan.seasonshotelmindoro.com
 samiksha.com.sg
+sarafinance.in
 scainseto.com.br
 scanbot.me
 scoala1gherla.ro
@@ -356,6 +357,7 @@ static.youdm.cn
 stdown.dinju.com
 steam66.cn
 stonecradle.com
+streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -387,6 +389,7 @@ tu.feyhaum.com
 tuasesoriadigital.es
 twu-hwt.org
 uni.site.je
+upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 urqvdqc.dreambet.casino
@@ -439,6 +442,7 @@ www.medises.co.kr
 www.mobimpex.ro
 www.myvcart.com
 www.namuvpn.com
+www.nccommunication.be
 www.newkey.co.kr
 www.nomadtrade.app
 www.notbak.com
@@ -452,6 +456,7 @@ www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
