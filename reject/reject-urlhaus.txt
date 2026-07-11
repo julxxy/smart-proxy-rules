@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-11 04:47:07 (UTC)                      #
+# Last updated: 2026-07-11 15:31:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 462
+# Number of entries: 464
 0022a601.pphost.net
 078ia1jh.ace90betyek.bet
 0mx8cbge.fa1xbet.vip
@@ -28,6 +28,7 @@ aftelecom.com.br
 airyvineic.help
 akvy.20sport.ir
 alarmline.com.br
+alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
 anglingforimages.com
@@ -58,13 +59,11 @@ bombayonline.in
 book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
-bunnellmc.com
 bvaco.com
 caewscad.fileboroo.com
 cambodiatouristservice.com
 cat.dashabi.in
 cat.xiaojiji.nl
-cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
 celebratingseniors.net
@@ -82,10 +81,11 @@ cniqfzhe.riskybet.casino
 co-emas.com
 compuserviceonline.com.br
 continentalgroup.net.in
+coralasargetia.ro
 corporacioncrf.com
 cpofficial.com
 creativevoltage.com
-cronicasdelcentro.com
+crimefreesoftware.com
 crypter.howto.rocks
 crystalpvp.ru
 cs.go.kg
@@ -140,7 +140,6 @@ epanpano.com
 ertt.bahigo90bet.com
 estudio.ythan.com.br
 evangroup.ru
-everycarebd.com
 eznvrdxc.footbalpersian.ir
 fakers.co.jp
 farschid.de
@@ -151,6 +150,7 @@ fhbd.golibet.page
 file.blackint3.com
 file.uhsea.com
 filerit.com
+files-storage.su
 filezox.xyz
 first-security-verden.de
 flyingmutts.com
@@ -164,6 +164,7 @@ gabyagozetim.com
 galerisenimutiara.com
 gboutros.howto.rocks
 genddos.st
+genesis-softs.com
 gestionycobranzas.com
 getsolara.live
 ggittwjb.irantop.bet
@@ -176,8 +177,10 @@ goldland8.com
 grantexx.com
 greenf.alexion.rs
 grgsg.onexbet.best
+grupomcperu.com
 gsx.life
 gutando.com
+hasalltalent.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
@@ -221,12 +224,14 @@ landonirwin.com
 lawfirm.paperbirdtech.com
 lb.nigsv.com
 libss.0x504.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lttazjwo.pishbini90bet.bet
 luizmatoso.com.br
 lynxsecurity.ru
 m.jkoa.co.kr
+m.meta-dm.com
 maidforyou1985.com
 mamigummy.com
 mdazhynx.btyek.site
@@ -242,10 +247,10 @@ muaklekcoop.com
 muledo.com
 mundocarnes.cl
 mx9x.com
-n.vs108.com
 ncvhdwcq.medsalamat.ir
 ncxps.com
 nfvh.1pishbini.com
+nightmare-download.pw
 nkzajnx4.pablobet.bet
 nnxhoedm.onjabet1.com
 noithaticon.vn
@@ -258,7 +263,6 @@ oj7f87i3.radioshartbandi.casino
 ojang.pe.kr
 ojvh.barcelona11.com
 okhan.net
-oknoplastik.sk
 oksz.ozabet.casino
 omani-disputes.com
 omjsikzk.irantop.bet
@@ -275,12 +279,13 @@ pcupd.com
 pdlaw.com.ph
 peachcity.si
 pfatrivandrum.org
-pid.fly160.com
 planetariumobil.ro
 plasteredplayn.com
+pocopaco.co.za
 postelnini.mk
 ppdp.oza.bet
 preciosasjoyitas.com.mx
+pritinder.ifree.page
 psqj.app888starz.download
 public.demo.securecloudsandbox.com
 purmed.ro
@@ -293,7 +298,6 @@ qowmn9c8.iranvibes.ir
 qv.co.ke
 ramirex.ro
 rdm.91yunma.cn
-reauthenticator.com
 records.dennisign.se
 redlk.com
 refaccionesalma.com.mx
@@ -311,12 +315,12 @@ ryo.gamer.free
 s8p4n4bz.behtarin-site-shartbandi-football.bet
 sablayan.seasonshotelmindoro.com
 samiksha.com.sg
+sc.c1s.su
 scainseto.com.br
 scanbot.me
 scoala1gherla.ro
 sec.dashabi.in
 sec.xiaojiji.nl
-sec.xiaoshabi.nl
 seismophonic.com
 semencepourlavie.org
 separadordecc.com
@@ -331,6 +335,7 @@ snmg.bahigo90bet.com
 soft.110route.com
 softcatalog.ru
 solar-sanat.net
+spgint.com
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -376,7 +381,6 @@ ujxjvdku.catsandcarp.com
 un1rw11q4u.com
 undh.ofoghchat.ir
 uni.site.je
-universami.ge
 unix-technology.com
 upaicdn.xinmei365.com
 upchemicals.co.in
@@ -385,7 +389,6 @@ vbhm.one1winbet.com
 vblr.barcelona11.com
 ventaslll.com
 versaclean.com.br
-veryboys.com
 vgd.vg
 vgjb.bahsegel90.com
 videomeetgoogle.com
@@ -440,7 +443,6 @@ www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
-www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
