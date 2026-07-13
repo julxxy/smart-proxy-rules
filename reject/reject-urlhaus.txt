@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-13 05:16:22 (UTC)                      #
+# Last updated: 2026-07-13 17:02:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 498
+# Number of entries: 505
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -27,8 +27,10 @@ admin.gestroom.it
 aftelecom.com.br
 airyvineic.help
 akvz.behtarin-site-shartbandi.com
+alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
+alternativas.ru
 ap9nqrjc.jadoou.christmas
 app.appzcvb.com
 arcanemods.top
@@ -43,8 +45,8 @@ backupso.com
 balconyresidences.com.br
 basegrid.cfd
 beoauto.alexion.rs
+bito.com.pk
 bjmd.bahsegel90.com
-blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
@@ -56,6 +58,7 @@ bqvojtsj.betgar.bet
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bvaco.com
+cambodiatouristservice.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
@@ -66,6 +69,7 @@ cdba.bet90forward.win
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
+chinaapper.com
 chiptune.com
 christophercheung.com
 chuguadventures.co.tz
@@ -96,6 +100,7 @@ deagroup-ks.com
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
+disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
@@ -116,7 +121,6 @@ download.suxiazai.com
 dowonline.ru
 dozco.com
 dreamapp.xyz
-dreamwatchevent.com
 dudqylyo.jadoou.art
 dusttv.com
 dynga.pl
@@ -143,6 +147,7 @@ fggcvmnq.jadoobet.forum
 fhqc.backgammon.download
 fibvhxte.bekabet.casino
 file.blackint3.com
+file.uhsea.com
 filerit.com
 files-storage.su
 first-security-verden.de
@@ -159,11 +164,13 @@ gabyagozetim.com
 galerisenimutiara.com
 gboutros.howto.rocks
 genddos.st
+genesis-cheats.com
 genesis-softs.com
 gestionycobranzas.com
 gglosnig.betewin.poker
 ggnytlvj.betnef.bet
 globalbank.us
+gogolfonline.com
 goldland8.com
 gpukjn7z.betraca.bet
 grantexx.com
@@ -180,7 +187,6 @@ hitstation.nl
 hksv.bahigo90bet.com
 hlhmjajy.onjabet1.com
 hlme.bet90forward.app
-hobobot.net
 hseda.com
 i-like-ele-phants-verification.live
 ichnwcqh.jadoobet.live
@@ -192,7 +198,6 @@ ircftp.net
 isiore.com.co
 itssprout.com
 iwyx.bekabet.casino
-jawaratekno.com
 jbiyqacd.bcgame.shop
 jbqh.betaverse.casino
 jcttadgn.betlivo90.bet
@@ -216,7 +221,6 @@ kokkpxut.jadoobet.vip
 kokorostore.it
 konsor.ru
 kyqwfrjr.betturkey.bet
-kzaa.co.za
 landonirwin.com
 lawfirm.paperbirdtech.com
 lb.nigsv.com
@@ -236,13 +240,13 @@ ltvz.jadoou.biz
 luizmatoso.com.br
 lwqeujgc.jadoobet.xyz
 m.jkoa.co.kr
-m.meta-dm.com
 maidforyou1985.com
 mdzt.behtarin-site-shartbandi-football.bet
 meetvideogoogle.com
 metrics.gocloudmaps.com
 mfej25tu.jadoou.cyou
 micfybfh.jadoobet.ink
+microsoftupdater.info
 mitreart.com
 mjbpgp3k.jadoou.cfd
 mogimall.com
@@ -255,9 +259,11 @@ mx9x.com
 mypwk0n2.jadoou.click
 n.vs108.com
 ncxps.com
+nexrogcapital.xyz
 nightmare-download.pw
 nisosznd.jadoobet.club
 noithaticon.vn
+noventis8.com
 nsuoqcej.betturkey.bet
 nusatoyota.co.id
 nwhygnbt.behtarin-site-shartbandi.com
@@ -289,9 +295,9 @@ planetariumobil.ro
 plasteredplayn.com
 plzm.onjabet1.com
 pmhy.gorgbet.net
-pns.org.pk
 pocopaco.co.za
 postelnini.mk
+powershell-storage.vg
 pqyajjta.betgar.bet
 preciosasjoyitas.com.mx
 pritinder.ifree.page
@@ -360,6 +366,7 @@ soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spgint.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdcamtp.behtarin-site-shartbandi-football.bet
@@ -371,12 +378,12 @@ sunix-technology.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 sydneyaffordablecremations.com.au
 syqi.bahigo.casino
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-taxassessment.cyou
 tcxc.behtarin-site-shartbandi.com
 tecunonline.com
 tehnomag.rs
