@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-15 04:39:17 (UTC)                      #
+# Last updated: 2026-07-15 15:59:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 516
+# Number of entries: 525
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -37,6 +37,7 @@ alternativas.ru
 app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
+arromaseis.com.tr
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
@@ -98,6 +99,7 @@ corporacioncrf.com
 cpofficial.com
 creativevoltage.com
 crehmoqz.bekabet.casino
+crimefreesoftware.com
 crystalpvp.ru
 cs.go.kg
 cvjd.fileboroo.com
@@ -131,7 +133,7 @@ download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
 dowonline.ru
-dreamapp.xyz
+dreamwatchevent.com
 drij.bahsegel90.com
 dscf.radioshartbandi.bet
 dusttv.com
@@ -160,6 +162,7 @@ fairth.dev
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
+felomint.click
 fesold.com
 feulntzw.site-shartbandi-farsi.com
 file.blackint3.com
@@ -196,6 +199,7 @@ greenf.alexion.rs
 grupomcperu.com
 gsx.life
 gufbylzl.site-takhtenard-sharti-betland.com
+gurdjieff-philadelphia.org
 gutando.com
 gwix.bethazarat.app
 haqkrygx.site-takhtenard-sharti.online
@@ -236,7 +240,6 @@ kclujyvd.jadoou.one
 kcpj.bahigo.casino
 keitarosofts.com
 kenwillzltd.com
-khoancatbetong89.vn
 kimyen.net
 kits.frog.tw
 klsv.betturkey.bet
@@ -250,17 +253,19 @@ kzjx.betropol.bet
 landonirwin.com
 lawfirm.paperbirdtech.com
 lb.nigsv.com
+lebsons.space
 lgmkszyl.site-shartbandi-farsi.com
 libss.0x504.com
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
-londonairportstransfer.co.uk
 lqljywai.jadoou.christmas
 lqom.bet90forward.win
 luizmatoso.com.br
 m.jkoa.co.kr
+m.meta-dm.com
 m55uqh6r.daddybetiran.live
+magsa.com.pe
 maidforyou1985.com
 marjdl.pro
 meetvideogoogle.com
@@ -310,6 +315,7 @@ pbcx.jadoou.lat
 pbhwzixj.boro1.bet
 pcupd.com
 pdkj.betkhaneiran.com
+pdlaw.com.ph
 peachcity.si
 phantomcheats.lol
 planetariumobil.ro
@@ -318,7 +324,6 @@ pns.org.pk
 pnurgmjx.boro3.bet
 pocopaco.co.za
 postelnini.mk
-powershell-storage.vg
 pqxhifiu.jadoou.sbs
 prb02wy1.bingobet.bingo
 preciosasjoyitas.com.mx
@@ -335,6 +340,7 @@ ramirex.ro
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
+redhiban.cfd
 redlk.com
 refaccionesalma.com.mx
 reifenquick.de
@@ -344,7 +350,6 @@ ringmycellphone.com
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
-ryo.gamer.free
 s645gfw3.bahsegel90.com
 sablayan.seasonshotelmindoro.com
 samiksha.com.sg
@@ -361,6 +366,7 @@ separadordecc.com
 sg123.net
 shop.mediasova.ru
 shqdown.ggzuhao.com
+siaasesoria.com.mx
 sk-comtel.com
 smartermail.host
 soft.110route.com
@@ -378,9 +384,11 @@ steam66.cn
 sth4xz5f.pacificcrestforaging.com
 stonecradle.com
 streammobs.com
+studiogioeli.it
 stvdwyqw.site-asli-bedon-filter-1xbet.com
 sunix-technology.com
 support.clz.kr
+surgeonperth.com.au
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
@@ -439,6 +447,7 @@ vxqz.bahigo90bet.com
 vzcr.bahigo.casino
 wcwe.onjabet1.com
 we.aibotnet.su
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -498,7 +507,6 @@ xc1y2oam.jetbet.download
 xenon.studio
 xevzora.cfd
 xmpjsaza.boro3.bet
-xn--yh4bx88a.com
 xprba39f.jadoou.space
 xshop.com.tr
 xt19c0ua.casinomhub.bet
@@ -522,4 +530,5 @@ zwtocirl.site-shartbandi-farsi.com
 zxco.madgal.life
 zxx1gpmw.pars90.download
 zycdjz.com
+zynimg.com
 zzcg.bet90forward.win
