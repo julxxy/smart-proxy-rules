@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,claude,PROXY
 DOMAIN-KEYWORD,intercom,PROXY
 DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,clau.de,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,claude.run,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
@@ -14,3 +15,4 @@ DOMAIN-SUFFIX,intercom.io,PROXY
 DOMAIN-SUFFIX,intercomcdn.com,PROXY
 DOMAIN-SUFFIX,statsig.com,PROXY
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
+DOMAIN,anthropic.com.cdn.cloudflare.net,PROXY
