@@ -1,13 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-16 04:47:35 (UTC)                      #
+# Last updated: 2026-07-16 15:46:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 536
+# Number of entries: 541
 0022a601.pphost.net
+01pr.com.tr
 078zq932.betyek.bio
 0rlxki7g.bordbett10.com
 123.ywxww.net
@@ -22,7 +23,6 @@
 6fk656iq.irani-music.com
 6kqr6pgl.jadoou.lat
 a9fh521j.bazisangkaqazgeychidancepoli.com
-abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acnuzqcgq.daddybetiran.live
@@ -67,6 +67,7 @@ brightworks.cz
 brmzm.jadoou.space
 btlbbyxf.bet90forward.win
 bujybzpn.site-shartbandi-takhtenard.com
+businesseconomics.in
 bvaco.com
 bxto.site-shartbandi-variz-kam.com
 byqxztkz.bethazarat.app
@@ -91,7 +92,6 @@ ckugvmkpg.hazarat.now
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
-cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
 continentalgroup.net.in
@@ -113,12 +113,12 @@ dbeasxyp.derbi.football
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
+deliverymailreport.co.za
 delp-heizungsbau.de
 destinationanywhere.ca
 dexios.co.za
 dezcom.com
 disk.accord1key.cn
-divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
@@ -156,6 +156,7 @@ en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 estudio.ythan.com.br
+eugencogroup.com
 euspwbzy.bet90forward.win
 evangroup.ru
 evfdqijee.efbetfarsi.com
@@ -182,7 +183,6 @@ furystaff.tech
 fz.tiansys.cn
 gabyagozetim.com
 gai1ehyu.jetboro.fun
-galerisenimutiara.com
 gbij.betbuf90.com
 gbntwgmi.boro2.bet
 gboutros.howto.rocks
@@ -246,6 +246,7 @@ kdfjhkykz.site-shartbandi-farsi.com
 keitarosofts.com
 kenwillzltd.com
 khavar.com
+khoancatbetong89.vn
 kimyen.net
 kits.frog.tw
 kokorostore.it
@@ -261,15 +262,16 @@ lawfirm.paperbirdtech.com
 lb.nigsv.com
 lebsons.space
 libss.0x504.com
+lindnerelektroanlagen.de
 litwpjrq.casinomhub.bet
 llgrzomtw.hazaratbet.games
 local-update.com
 lomejordesalamanca.es
 lqom.bet90forward.win
 lucciodontologiaintegrada.com.br
-luizmatoso.com.br
 lzlptqkwc.site-shartbandi-farsi.com
 m.jkoa.co.kr
+m.meta-dm.com
 m55uqh6r.daddybetiran.live
 magsa.com.pe
 maidforyou1985.com
@@ -291,6 +293,7 @@ mx9x.com
 n.vs108.com
 ncfgesrw.derbi.football
 ncxps.com
+nightmare-loader.cc
 nkqj.behtarin-site-shartbandi-football.com
 nlxmperk.behtarin-site-shartbandi.com
 noithaticon.vn
@@ -304,7 +307,6 @@ ny.lshdw.cc
 o24o.ru
 ojang.pe.kr
 okhan.net
-oknoplastik.sk
 onfiltre.com.tr
 opeendacc.efcasino.bet
 oqfrcpbn.site-shartbandi-farsi.com
@@ -323,6 +325,7 @@ peachcity.si
 phantomcheats.lol
 planetariumobil.ro
 plasteredplayn.com
+pns.org.pk
 pnsc.radioshartbandi.bet
 pnurgmjx.boro3.bet
 postelnini.mk
@@ -386,6 +389,7 @@ solar-sanat.net
 spgint.com
 sqbw.jadoou.makeup
 ssefhahu.bahsegel90.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -399,6 +403,7 @@ surgeonperth.com.au
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 sw10j5d9.behtarin-site-shartbandi-football.com
+swiftfusion.tech
 sycr.betforward90.com
 sydneyaffordablecremations.com.au
 tafhu17n.nextbahis.blog
@@ -430,6 +435,7 @@ tsexoxslh.nextbahis.free
 tssjiwjfx.hazzarat.com
 tuasesoriadigital.es
 tvknglirv.jadoou.space
+twu-hwt.org
 u1uo84tz.dadyybet.com
 ucpwcpfl.jadoou.lat
 ueirqemz.behtarin-site-shartbandi-football.com
@@ -441,6 +447,7 @@ un1rw11q4u.com
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
+usafansweepstakes2026.us
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -479,7 +486,6 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
-www.faster-cdn-hk.click
 www.first-security-verden.de
 www.hostingcloud.science
 www.hseda.com
@@ -487,7 +493,6 @@ www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.konsor.ru
-www.mbowen.org
 www.medises.co.kr
 www.mobimpex.ro
 www.myvcart.com
@@ -500,11 +505,11 @@ www.okhan.net
 www.rbcfort.com
 www.reifenquick.de
 www.saf-oil.ru
-www.salonmarketing.ca
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
@@ -512,7 +517,7 @@ www.test.peperoncinochepassione.it
 www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
-www.zhikey.com
+www.zamilgroups.com
 wxxlppea.onjabet1.com
 xenon.studio
 xevzora.cfd
