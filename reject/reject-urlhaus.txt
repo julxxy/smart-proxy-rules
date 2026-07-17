@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-17 05:03:13 (UTC)                      #
+# Last updated: 2026-07-17 15:59:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 527
+# Number of entries: 536
 0022a601.pphost.net
 01pr.com.tr
 078zq932.betyek.bio
@@ -25,6 +25,7 @@
 74ock8ke.mahbetiran.com
 9zzh7dnw.coop-fresh.com
 a9fh521j.bazisangkaqazgeychidancepoli.com
+abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acnuzqcgq.daddybetiran.live
@@ -45,6 +46,7 @@ arpumupr.site-shartbandi-pasor.online
 arromaseis.com.tr
 atasapka.com.tr
 atom.freehosting.dev
+audicontadores.com
 aupzcajq.biabet90.com
 auucqutq.pdfbama.com
 aweubyemm.boroo.bet
@@ -99,6 +101,7 @@ clubdetiroelpicarcho.com
 co-emas.com
 compuserviceonline.com.br
 continentalgroup.net.in
+coralasargetia.ro
 corporacioncrf.com
 cpofficial.com
 creativevoltage.com
@@ -119,6 +122,8 @@ destinationanywhere.ca
 dexios.co.za
 dezcom.com
 disk.accord1key.cn
+divvanews.com
+dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -138,6 +143,7 @@ download.pdf00.com
 download.suxiazai.com
 dowonline.ru
 dqgfzcgm.hazzarat.world
+dreamapp.xyz
 dreamwatchevent.com
 drkynxdcu.gem90bet.com
 dusttv.com
@@ -146,6 +152,7 @@ e2u97o8c.betbuf90.com
 eastbwxa.funxbet.casino
 easybrand.vn
 echkdia.com
+ecl80.cfd
 edhabqne.taktikkbet.com
 elaml4maids.com
 electri.billregulator.com
@@ -184,6 +191,7 @@ fz.tiansys.cn
 g3b4hjbg.calculadoracomisiones.com
 gabyagozetim.com
 gai1ehyu.jetboro.fun
+galdum.ro
 galerisenimutiara.com
 gboutros.howto.rocks
 gestionycobranzas.com
@@ -191,6 +199,7 @@ globalbank.us
 goldland8.com
 greenf.alexion.rs
 grupomcperu.com
+gsmtoolpack.com
 gsx.life
 gurdjieff-philadelphia.org
 gutando.com
@@ -220,7 +229,6 @@ iygfxiad.efcasino.bet
 izehzccr.bet90forward.win
 j112srgz.bahigo90bet.com
 j1xayyip.bordbett10.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jii17zh7.yekbetyek.com
@@ -236,11 +244,11 @@ kavacanada.ca
 kavfquba.onjabet1.com
 kc2m8580.booro.bet
 kdfjhkykz.site-shartbandi-farsi.com
-keitarosofts.com
 kenwillzltd.com
 kfpjbqczj.jadoobet.pro
 kgfkfhqgg.gem90bet.com
 khavar.com
+khoancatbetong89.vn
 kimyen.net
 kits.frog.tw
 kokorostore.it
@@ -263,8 +271,10 @@ lucciodontologiaintegrada.com.br
 luizmatoso.com.br
 lvppjubyy.barkerautoms.com
 lzlptqkwc.site-shartbandi-farsi.com
+m.meta-dm.com
 magsa.com.pe
 maidforyou1985.com
+mail.tranquilglowqx.pro
 marjdl.pro
 maxwhywtk.betbuf90.com
 meetvideogoogle.com
@@ -273,6 +283,7 @@ mgnj.behtarin-site-shartbandi-football.com
 mhyp.bahigo90bet.com
 mitreart.com
 mogimall.com
+mosselnet.co.za
 mprwjkek.betwanaa.com
 mpygi.jadoou.space
 mseikoean.allboroughrealestate.com
@@ -286,7 +297,6 @@ n.vs108.com
 nboshbzcj.derbi.promo
 ncfgesrw.derbi.football
 ncxps.com
-nightmare-loader.cc
 nkqj.behtarin-site-shartbandi-football.com
 noithaticon.vn
 nxyhlvha.fileboroo.com
@@ -311,9 +321,9 @@ pdzb.pdfbama.com
 peachcity.si
 planetariumobil.ro
 plasteredplayn.com
-pns.org.pk
 pnsc.radioshartbandi.bet
 postelnini.mk
+preciosasjoyitas.com.mx
 public.demo.securecloudsandbox.com
 purmed.ro
 pvsa.gxfugy.cn
@@ -353,6 +363,7 @@ sablayan.seasonshotelmindoro.com
 samiksha.com.sg
 sarinaglobal.sbs
 scainseto.com.br
+scan.ivankozlovsky.com
 scanbot.me
 scoala1gherla.ro
 sdtawdiq.niliafshar.com
@@ -365,7 +376,6 @@ semencepourlavie.org
 separadordecc.com
 sg123.net
 shop.mediasova.ru
-shqdown.ggzuhao.com
 siaasesoria.com.mx
 sk-comtel.com
 smartermail.host
@@ -374,11 +384,9 @@ soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spgint.com
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
-steam66.cn
 stonecradle.com
 streammobs.com
 studiogioeli.it
@@ -411,6 +419,7 @@ tiojsrajb.gem90bet.com
 tjcmwnljp.fileboroo.com
 toolshare.com.tr
 top8onlinegame.com
+tranquilglowqx.pro
 transparenciacanaa.com.br
 trtmyanmar.com
 tsexoxslh.nextbahis.free
@@ -470,6 +479,7 @@ www.drgenov.com
 www.faster-cdn-hk.click
 www.first-security-verden.de
 www.hostingcloud.science
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -501,7 +511,6 @@ www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
-www.zhikey.com
 wxxlppea.onjabet1.com
 x35w4q0s.varzeshlife.ir
 x78boe03.lion1bet.com
