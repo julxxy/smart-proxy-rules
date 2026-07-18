@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-18 04:32:20 (UTC)                      #
+# Last updated: 2026-07-18 15:39:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 508
+# Number of entries: 502
 0022a601.pphost.net
 01pr.com.tr
 123.ywxww.net
@@ -19,7 +19,6 @@
 5m1ugnlr.yekbetyek.com
 5uat7o6m.pdfbama.com
 694j5tdy.behtarin-site-shartbandi-football.com
-6ak-tehnik.si
 6j7gyyz9.barkerautoms.com
 6lphdepl.sibbet90iran.com
 6mhijma6.tampabayspin.com
@@ -45,7 +44,6 @@ app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
 arpumupr.site-shartbandi-pasor.online
-arromaseis.com.tr
 arvujwijm.irani-music.com
 atasapka.com.tr
 atom.freehosting.dev
@@ -87,12 +85,10 @@ cdaonline.com.ar
 cdbxemdoq.toofan90bet.com
 cdctvukr.taktikkbet.com
 cdmke7zf.sky7bet.casino
-celebratingseniors.net
 cfplyjmq.efcasino.bet
 cgavi.derbi.promo
 chat-server.maverickpreviews.com
 checkfivem.com
-chinaapper.com
 chiptune.com
 christophercheung.com
 chsxhscsh.tampabayspin.com
@@ -125,7 +121,6 @@ dezcom.com
 disk.accord1key.cn
 divvanews.com
 djqiyxyx.calirayalake.com
-dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 dlylkjaji.jetboro.fun
@@ -134,7 +129,6 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -144,7 +138,7 @@ download.pdf00.com
 download.suxiazai.com
 dowonline.ru
 dqgfzcgm.hazzarat.world
-dreamapp.xyz
+dreamwatchevent.com
 drkynxdcu.gem90bet.com
 dsdvsvqgy.jetbet.download
 dtsmmaphe.tampabayspin.com
@@ -180,7 +174,6 @@ fcmznlck.hazaratbet.games
 fd.v2downf.shop
 fesold.com
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 fiwvrsju.yekbetyek.com
@@ -255,6 +248,7 @@ lb.nigsv.com
 leo-deluca.gamer.gd
 lhozmsokb.nextbahis.coupons
 libss.0x504.com
+lindnerelektroanlagen.de
 lmkxs.imagederm.com
 local-update.com
 lomejordesalamanca.es
@@ -263,7 +257,6 @@ lucciodontologiaintegrada.com.br
 luizmatoso.com.br
 lvdit.jenderalkito.xyz
 lvppjubyy.barkerautoms.com
-m.meta-dm.com
 maidforyou1985.com
 mail.tranquilglowqx.pro
 maxwhywtk.betbuf90.com
@@ -307,7 +300,6 @@ peachcity.si
 pgfiv.jbgroup21.com
 planetariumobil.ro
 plasteredplayn.com
-pns.org.pk
 postelnini.mk
 preciosasjoyitas.com.mx
 prl0ivfr.hazaratbet.games
@@ -366,18 +358,19 @@ soft.110route.com
 softcatalog.ru
 solar-sanat.net
 spgint.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steam66.cn
 stonecradle.com
-streammobs.com
 studiogioeli.it
 sunix-technology.com
 support.clz.kr
 surgeonperth.com.au
 sutterpoint.com
 suwqmlyd.efbetfarsi.com
+svganchordev.net
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
 sydneyaffordablecremations.com.au
@@ -394,6 +387,7 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thepullmanfolkestone.com
+ths.lat
 thtp2.volamngayxua.net
 tiacreation.club
 tiojsrajb.gem90bet.com
