@@ -1,13 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-20 05:22:31 (UTC)                      #
+# Last updated: 2026-07-20 16:11:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 646
+# Number of entries: 644
 0022a601.pphost.net
+123.ywxww.net
 1717.1000uc.com
 47sat9ax.corpuschristiairporthotel.com
 4dc5hwj8.nextbahis.poker
@@ -23,7 +24,6 @@
 a2wk5fd0.purity-pharmaceuticals.net
 aabqjhcdf.quickandcleanfetish.com
 abandoned-asylum-expedition.garden
-abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acvwd.lunapizzaco.com
@@ -157,9 +157,9 @@ docsfan-flora-ability-system.garden
 dogfrpygx.hazzarat.com
 donkeytourscroatia.com
 donsoft.xyz
-down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -180,7 +180,6 @@ edge-network-on-hub.garden
 edge-processing-network.wiki
 edtbi.jetbet.download
 ekjcg.gettalloway.com
-elaml4maids.com
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
@@ -243,7 +242,6 @@ graphnewclass.christmas
 greenf.alexion.rs
 greenhousemanagementengine.garden
 grupomcperu.com
-gsmtoolpack.com
 gsx.life
 gutando.com
 gwcs.bolesfarms.com
@@ -296,6 +294,7 @@ jfwh.hazzarat.com
 jifyi.gamehazarat.com
 jjg.abt90shart.com
 jkiw.1pishbini.com
+jlwz.cn
 joyeriatauro.com
 jppxuuhae.imagederm.com
 js.byxly.eu.cc
@@ -309,6 +308,7 @@ kenwillzltd.com
 kft.betball90kade.com
 kgptwmgqf.taktikkbet.com
 khavar.com
+khoancatbetong89.vn
 khob.formonstore.com
 kimyen.net
 kits.frog.tw
@@ -345,6 +345,7 @@ meadowworkflowframework.garden
 meetvideogoogle.com
 meta-data-shredding-cleanup-utility.wiki
 metrics.gocloudmaps.com
+miriamgualda.com.br
 mitreart.com
 mixed-on-storage-layer.garden
 mjca.fontanayoga.com
@@ -377,6 +378,7 @@ ocgziav.test-ranandegi.com
 ojang.pe.kr
 ojpqxkm.one1x.bet
 okhan.net
+oknoplastik.sk
 olotu.cardanaircraft.org
 olyqj.luxurygoodscaree.com
 onfiltre.com.tr
@@ -400,7 +402,6 @@ planetariumobil.ro
 plasteredplayn.com
 postelnini.mk
 pouulacmu.phogoldencow.com
-powershell-storage.vg
 preciosasjoyitas.com.mx
 productionai.shop
 pub-f3382215b.1x1.cash
@@ -420,6 +421,7 @@ reauthenticator.com
 recaptcha.boit.cloud
 records.dennisign.se
 redlk.com
+refaccionesalma.com.mx
 reifenquick.de
 reutilizemais.co.mz
 riderspin.com
@@ -471,25 +473,23 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stealth-bomber-radar-cross.garden
-steam66.cn
 stg.1xfa.xyz
 stonecradle.com
 stp12.zabanenglishanari.xyz
 stqdx.gominhabjj.com
-streammobs.com
 studiogioeli.it
 subdermal-biometric-chip.garden
 submerged-continental-shelf.garden
 subterranean-mineral-map.garden
 sunix-technology.com
 support.clz.kr
-surgeonperth.com.au
 sutterpoint.com
 svganchordev.net
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
 sydneyaffordablecremations.com.au
 system-analytics-pro-guide.courses
+take-care.africa
 talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
@@ -607,7 +607,6 @@ www.silver-hubdachwohnwagen.de
 www.springhillmontessori.com
 www.ss-01.com
 www.starcountry.net
-www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
@@ -651,5 +650,4 @@ znnop.frisbeeburgerllc.com
 zuibs.jetbet.download
 zwhun.hazaratbet.bet
 zycdjz.com
-zynimg.com
 zzya.bigsertonnet.com
