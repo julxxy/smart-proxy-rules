@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-07-27 05:32:26 (UTC)                      #
+# Last updated: 2026-07-27 16:47:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 360
+# Number of entries: 365
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -15,6 +15,7 @@ acc.jiangsujiaxue.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
+aethersyncmatrix5.lol
 aftelecom.com.br
 airtickts.com
 alarmline.com.br
@@ -53,7 +54,6 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -75,7 +75,6 @@ corporacioncrf.com
 cpofficial.com
 creativevoltage.com
 crimefreesoftware.com
-cryptefilea.infy.click
 crystalpvp.ru
 cs.go.kg
 customcreationsmaine.com
@@ -111,6 +110,7 @@ download.suxiazai.com
 dowonline.ru
 dreamapp.xyz
 dreamwatchevent.com
+dsgagfsahkfsahfjs.shop
 dusttv.com
 dynga.pl
 electri.billregulator.com
@@ -127,6 +127,7 @@ fd.v2downf.shop
 femboykisser.sbs
 fesold.com
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -139,7 +140,6 @@ gabyagozetim.com
 galerisenimutiara.com
 gboutros.howto.rocks
 genddos.st
-geo-foundation.vg
 gestionycobranzas.com
 globalbank.us
 grantexx.com
@@ -147,6 +147,7 @@ greenf.alexion.rs
 grupomcperu.com
 gutando.com
 hasalltalent.com
+heroestales.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
@@ -158,7 +159,6 @@ indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -168,7 +168,6 @@ jyothishmathi.in
 kavacanada.ca
 kenwillzltd.com
 khavar.com
-khoancatbetong89.vn
 kimyen.net
 kits.frog.tw
 kokorostore.it
@@ -179,6 +178,7 @@ lapidorseposoalovbs2.com
 lawfirm.paperbirdtech.com
 lb.nigsv.com
 libss.0x504.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
@@ -217,7 +217,6 @@ peachcity.si
 planetariumobil.ro
 plasteredplayn.com
 postelnini.mk
-powershell-storage.vg
 preciosasjoyitas.com.mx
 public.demo.securecloudsandbox.com
 purmed.ro
@@ -230,13 +229,17 @@ rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
 redlk.com
+refaccionesalma.com.mx
 reifenquick.de
+reservphotoinstay.one
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
 robertrowe.com
+roblox-xeno.net
 royalindiancurryclub.com
 rxquickpay.com
+s3o65awrf56.net
 sablayan.seasonshotelmindoro.com
 samiksha.com.sg
 sandystudiogh.blog
@@ -278,10 +281,10 @@ tampareroofing.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
 tengfeidn.cn
+tenis-team-km.com
 test.peperoncinochepassione.it
 theholidayroads.com
 themaintechnician.us
@@ -315,6 +318,7 @@ website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
+wqok85qtq.net
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
@@ -335,7 +339,7 @@ www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
-www.mobimpex.ro
+www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
@@ -343,6 +347,7 @@ www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
 www.okhan.net
+www.rbcfort.com
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
@@ -351,6 +356,7 @@ www.silver-hubdachwohnwagen.de
 www.springhillmontessori.com
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
@@ -364,6 +370,5 @@ xenon.studio
 xshop.com.tr
 youtransfer.net
 zamilgroups.com
-zenglobalenerji.com
 zhigao5191.com
 zycdjz.com
