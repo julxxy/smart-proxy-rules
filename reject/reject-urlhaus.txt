@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-05 16:09:06 (UTC)                      #
+# Last updated: 2026-08-06 05:02:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -28,6 +28,7 @@ alineeleuterio.com.br
 allendaltonproduction.com
 allendostmen.com
 alternativas.ru
+amazom.my
 americanmanchester.org
 antleds.com
 app.appzcvb.com
@@ -54,7 +55,6 @@ bridgeroad.maverickpreviews.com
 brightworks.cz
 broadwalkindia.com
 bvaco.com
-c2.strikec2.wtf
 cambodiatouristservice.com
 canta-cn.com
 cashblaq.fit
@@ -72,6 +72,7 @@ chiptune.com
 chrome-windows.ru
 chuguadventures.co.tz
 cl.ssouy.com
+cla.stingold.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
@@ -80,10 +81,12 @@ compuserviceonline.com.br
 continentalgroup.net.in
 coralasargetia.ro
 corporacioncrf.com
+cpc188.day
 cpofficial.com
 cqylt.net
 creativevoltage.com
 crypter.gt.tc
+crypter00.gt.tc
 crystalpvp.ru
 cs.go.kg
 cxxz.co.za
@@ -104,7 +107,6 @@ divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
-dn-pdflite.lat
 doc.e-statements.app
 donal.gt.tc
 donkeytourscroatia.com
@@ -130,6 +132,7 @@ elisans.novayonetim.com
 en.taichuan.com
 endpoint.project0.cc
 enter-pverif-code.info
+epanpano.com
 evangroup.ru
 fakers.co.jp
 farschid.de
@@ -137,7 +140,6 @@ fd.v2downf.shop
 ferncurrent14.com
 fesold.com
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -151,7 +153,6 @@ galerisenimutiara.com
 gboutros.howto.rocks
 genddos.st
 gestionycobranzas.com
-gestroom.it
 globalbank.us
 googletagamnager.com
 grantexx.com
@@ -166,24 +167,20 @@ hitman-pro.ru
 hitstation.nl
 hjha.ao
 hobobot.net
-hseda.com
 hwykplqn.xyz
 icoffeecloud.com
 ignetwork.us
 igra123.com
-ijexgroup.com.br
 ikincielesyaciankara.com.tr
 indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
 ixirgroup.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 joyeriatauro.com
-kaiwyrey.eu.cc
 kavacanada.ca
 kenwillzltd.com
 khavar.com
@@ -196,24 +193,23 @@ lawfirm.paperbirdtech.com
 lenotecadiarqua.it
 libss.0x504.com
 lindnerelektroanlagen.de
+linktrap.co
 lion44.net
 local-update.com
 lomejordesalamanca.es
 lomiva.vu
+loosun.net
 luizmatoso.com.br
 lumacrea.com
 m.jkoa.co.kr
-m.meta-dm.com
 maidforyou1985.com
+mandarin.net.au
 meetvideogoogle.com
 metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mogimall.com
 mrsweaterltd.com
-mt-link.hxnxajp.club
-mt-link.jiosjcjp.club
-mt-link.qdhuzf.cc
 muaklekcoop.com
 muledo.com
 mundocarnes.cl
@@ -277,13 +273,12 @@ seputartuban.com
 sg123.net
 shipminttracking.net
 shop.mediasova.ru
-shqdown.ggzuhao.com
 siaasesoria.com.mx
 sk-comtel.com
 skript.club
 smartermail.host
 smoking-hot.net
-soap2dayfree.top
+sochibeer.ru
 soft.110route.com
 softcatalog.ru
 solar-sanat.net
@@ -322,10 +317,11 @@ transparenciacanaa.com.br
 trtmyanmar.com
 tuasesoriadigital.es
 twu-hwt.org
-un1rw11q4u.com
 universami.ge
+upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
+us.wind0ws.net
 vcc-library.uk
 versaclean.com.br
 veryboys.com
@@ -341,6 +337,7 @@ website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
+wp.ameyiando.com
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
@@ -356,6 +353,7 @@ www.dra.com.ve
 www.drgenov.com
 www.first-security-verden.de
 www.hostingcloud.science
+www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
@@ -369,6 +367,7 @@ www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
+www.propertiesofcayman.com
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
@@ -388,6 +387,7 @@ www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
 xenon.studio
+xiazaixitong8.com
 xn--yh4bx88a.com
 xshop.com.tr
 yd.lyjt.cc
