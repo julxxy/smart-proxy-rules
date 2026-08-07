@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-07 01:13:07 (UTC)                      #
+# Last updated: 2026-08-07 15:27:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 388
+# Number of entries: 384
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -110,7 +110,6 @@ down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
-download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
@@ -149,7 +148,6 @@ gestroom.it
 globalbank.us
 golvteametvarberg.se
 googletagamnager.com
-grantexx.com
 greenf.alexion.rs
 grupohenry1.com
 grupomcperu.com
@@ -167,10 +165,10 @@ hwykplqn.xyz
 icoffeecloud.com
 ignetwork.us
 igra123.com
+indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
-ixirgroup.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -183,6 +181,7 @@ kits.frog.tw
 kokorostore.it
 konsor.ru
 landonirwin.com
+lawfirm.paperbirdtech.com
 lenotecadiarqua.it
 lindnerelektroanlagen.de
 linktrap.co
@@ -191,11 +190,10 @@ local-update.com
 lomejordesalamanca.es
 loosun.net
 luizmatoso.com.br
-lumacrea.com
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-mailify.cc
+mailglobalsbg.com
 mandarin.net.au
 meetvideogoogle.com
 metrics.gocloudmaps.com
@@ -213,7 +211,6 @@ noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
 o24o.ru
-oim.doganltd.com.tr
 ojang.pe.kr
 oknoplastik.sk
 onfiltre.com.tr
@@ -221,7 +218,6 @@ orienttaxtile.com
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
-panel.b2brouter-secure.com
 pay.aqiu6.com
 paymentautomations.biz
 pcupd.com
@@ -234,6 +230,7 @@ public.demo.securecloudsandbox.com
 purmed.ro
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
+qv.co.ke
 ramirex.ro
 rcf.co.mz
 rdm.91yunma.cn
@@ -263,7 +260,6 @@ sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
 seismophonic.com
-semencepourlavie.org
 separadordecc.com
 seputartuban.com
 sg123.net
@@ -375,7 +371,6 @@ www.silver-hubdachwohnwagen.de
 www.springhillmontessori.com
 www.ss-01.com
 www.starcountry.net
-www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
@@ -389,6 +384,7 @@ xenon.studio
 xiazaixitong8.com
 xn--yh4bx88a.com
 xshop.com.tr
+yakult-hk.com
 youtransfer.net
 zamilgroups.com
 zenglobalenerji.com
