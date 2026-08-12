@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-12 03:43:23 (UTC)                      #
+# Last updated: 2026-08-12 15:36:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 365
+# Number of entries: 374
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -117,8 +117,10 @@ dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
+en.taichuan.com
 endpoint.project0.cc
 epanpano.com
+essizs.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -136,18 +138,17 @@ gabyagozetim.com
 galerisenimutiara.com
 genddos.st
 gestionycobranzas.com
-gestroom.it
 globalbank.us
 golvteametvarberg.se
 grantexx.com
 greenf.alexion.rs
-grupohenry1.com
 grupomcperu.com
 gutando.com
 hasalltalent.com
 heroestales.com
 hitman-pro.ru
 hitstation.nl
+hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
@@ -155,6 +156,7 @@ ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 iloveboats.st
+indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -163,6 +165,7 @@ jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
+joker.aec944b68370194a50.link
 joyeriatauro.com
 kavacanada.ca
 kenwillzltd.com
@@ -173,9 +176,11 @@ kokorostore.it
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
+lumacrea.com
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
@@ -215,6 +220,7 @@ privrawmirai.privnetwork.tech
 public.demo.securecloudsandbox.com
 purmed.ro
 pvsa.gxfugy.cn
+qiniuyunxz.yxflzs.com
 quietsurfwi.help
 qv.co.ke
 ramirex.ro
@@ -261,9 +267,10 @@ sochibeer.ru
 soft.110route.com
 solar-sanat.net
 spgint.com
-static.topxgun.com
+static.ilclock.com
 static.youdm.cn
 stdown.dinju.com
+streammobs.com
 studiogioeli.it
 suavasua.vn
 sumiko.vu
@@ -294,6 +301,7 @@ top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
 tuasesoriadigital.es
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -316,6 +324,7 @@ windomstatetheater.com
 wittenhorst.eu
 wp.ameyiando.com
 wqok85qtq.net
+www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
