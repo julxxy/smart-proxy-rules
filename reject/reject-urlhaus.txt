@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-11 15:42:10 (UTC)                      #
+# Last updated: 2026-08-12 03:43:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 358
+# Number of entries: 365
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -14,6 +14,7 @@
 abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
+admetricslab.org
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
@@ -23,16 +24,21 @@ alarmline.com.br
 alineeleuterio.com.br
 allendaltonproduction.com
 allendostmen.com
+alphalkenya.com
 alternativas.ru
 americanmanchester.org
 antleds.com
+api.mineblack.lol
 app.appzcvb.com
+archivoscrosoft.com
 areyouready.co.za
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
 awarenessexhibition.com
 backupso.com
+bapak178.org
+beak.in
 beoauto.alexion.rs
 bito.com.pk
 blankeyeo.com
@@ -94,6 +100,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -101,16 +108,15 @@ download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
+download.tfyxzai.com
 dreamwatchevent.com
 duct-master.com
 durakutihs.com
 dusttv.com
 dynga.pl
-easycryptos.org
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
-en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 fakers.co.jp
@@ -129,6 +135,8 @@ fz.tiansys.cn
 gabyagozetim.com
 galerisenimutiara.com
 genddos.st
+gestionycobranzas.com
+gestroom.it
 globalbank.us
 golvteametvarberg.se
 grantexx.com
@@ -140,7 +148,6 @@ hasalltalent.com
 heroestales.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
@@ -148,10 +155,10 @@ ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 iloveboats.st
-indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
+ixirgroup.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
@@ -166,8 +173,6 @@ kokorostore.it
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
-lenotecadiarqua.it
-lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
@@ -176,7 +181,6 @@ m.meta-dm.com
 maidforyou1985.com
 mail.quietsurfwi.help
 mandarin.net.au
-meteorclient.shop
 metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
@@ -186,20 +190,23 @@ mukabar.co.mz
 muledo.com
 mundocarnes.cl
 mx9x.com
+myissuereport.live
 n.vs108.com
 ncxps.com
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
-o24o.ru
-oim.doganltd.com.tr
 ojang.pe.kr
 oknoplastik.sk
 onfiltre.com.tr
+orienttaxtile.com
 outpost.co.ke
+ownnewstoday.live
 p3.zbjimg.com
 palharesinformatica.com.br
+parquelosencinos.cl
 pay.aqiu6.com
+pcupd.com
 pfatrivandrum.org
 planetariumobil.ro
 postelnini.mk
@@ -208,7 +215,6 @@ privrawmirai.privnetwork.tech
 public.demo.securecloudsandbox.com
 purmed.ro
 pvsa.gxfugy.cn
-qiniuyunxz.yxflzs.com
 quietsurfwi.help
 qv.co.ke
 ramirex.ro
@@ -234,6 +240,7 @@ samiksha.com.sg
 scainseto.com.br
 scanbot.me
 scoala1gherla.ro
+scrroeder.com
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -242,6 +249,7 @@ semencepourlavie.org
 seniorsushi.com
 separadordecc.com
 seputartuban.com
+server.servermsn.life
 sg123.net
 shipminttracking.net
 shqdown.ggzuhao.com
@@ -249,7 +257,6 @@ siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
 smartermail.host
-smoking-hot.net
 sochibeer.ru
 soft.110route.com
 solar-sanat.net
@@ -257,8 +264,8 @@ spgint.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
-streammobs.com
 studiogioeli.it
+suavasua.vn
 sumiko.vu
 sunix-technology.com
 support.clz.kr
@@ -285,10 +292,8 @@ tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
 transparenciacanaa.com.br
-triflackcom.com
 trtmyanmar.com
 tuasesoriadigital.es
-twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -309,6 +314,7 @@ website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
+wp.ameyiando.com
 wqok85qtq.net
 www.ardguisser.com
 www.astenterprises.com.pk
@@ -327,6 +333,7 @@ www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
+www.huttprimax.partners
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
