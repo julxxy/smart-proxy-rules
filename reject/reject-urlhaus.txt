@@ -1,22 +1,25 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-19 02:44:17 (UTC)                      #
+# Last updated: 2026-08-19 15:07:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 360
+# Number of entries: 369
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
 abdulahad.net
+abitcoinbull.com
 acc.jiangsujiaxue.com
 acms.saleseos.com
-acrilicoporto.pt
+adctanzania.co.tz
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
+airtickts.com
+alahlam.sa
 alarmline.com.br
 alineeleuterio.com.br
 allendaltonproduction.com
@@ -29,18 +32,22 @@ atom.freehosting.dev
 audicontadores.com
 awarenessexhibition.com
 backupso.com
+baileyemas.com
 beak.in
 beoauto.alexion.rs
+bigs.bikershop.biz
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
+bmpincorporated.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
 brandtinoda.com
 bridgeroad.maverickpreviews.com
+brightworks.cz
 bserail.com
 bvaco.com
 cambodiatouristservice.com
@@ -49,6 +56,7 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -68,7 +76,6 @@ coralasargetia.ro
 corporacioncrf.com
 cpc188.day
 cpofficial.com
-cresvin.com
 cryptomeshforge10.lol
 crystalpvp.ru
 cs.go.kg
@@ -84,7 +91,6 @@ delp-heizungsbau.de
 dexios.co.za
 dezcom.com
 disk.accord1key.cn
-divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.faster-cdn-hk.click
@@ -104,16 +110,17 @@ download.pdf00.com
 download.suxiazai.com
 download.tfyxzai.com
 dreamwatchevent.com
+duct-master.com
 dynga.pl
 easyrentbyowner.com
 electri.billregulator.com
 elisans.novayonetim.com
-elmejorlocal.com.co
 embedone.com
 en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 ergotherapeia-kalamata.gr
+everycarebd.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -125,13 +132,11 @@ flyingmutts.com
 fmrio.com
 fukt.link
 fullstacknir.com
-funneldiy.com
 furystaff.tech
 fz.tiansys.cn
 gabyagozetim.com
 galerisenimutiara.com
 game.dualuoilocphu.com
-genddos.st
 gestroom.it
 globalbank.us
 grantexx.com
@@ -139,10 +144,14 @@ grapemundo.com
 greenf.alexion.rs
 grupomcperu.com
 gutando.com
+hasalltalent.com
 hewadexchange.com
 hitman-pro.ru
 hitstation.nl
+hobobot.net
 hseda.com
+htdentshop.com
+hypercorevector5.lol
 icoffeecloud.com
 ignetwork.us
 igra123.com
@@ -176,10 +185,11 @@ luxcar-24.com
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-medica-me.com
+mail1.mycollege.com.my
 metrics.gocloudmaps.com
 miriamgualda.com.br
-mitreart.com
+mkconstructions.net
+mnurlogistics.az
 mogimall.com
 muaklekcoop.com
 muledo.com
@@ -188,18 +198,18 @@ mx9x.com
 n.vs108.com
 ncxps.com
 noithaticon.vn
+nusatoyota.co.id
 ny.lshdw.cc
 ojang.pe.kr
 oknoplastik.sk
 onfiltre.com.tr
-onyx-medical.com
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
 parquelosencinos.cl
 pay.aqiu6.com
 pcupd.com
-pfatrivandrum.org
+physicsbyfiziks.org
 planetariumobil.ro
 postelnini.mk
 preciosasjoyitas.com.mx
@@ -253,25 +263,24 @@ sochibeer.ru
 soft.110route.com
 solar-sanat.net
 spgint.com
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
-stdown.dinju.com
+stepupnetworks.com
 streammobs.com
 studiogioeli.it
-sultanaexecutive.com
+suavasua.vn
+sudariocontabilidade.com.br
+sunix-technology.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
 sydneyaffordablecremations.com.au
-tabak.hr
 talentrecruitments.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-tarkioweb.com
-tecunonline.com
+tattinamecheap.com
 tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
@@ -288,7 +297,6 @@ toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
-trtmyanmar.com
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
@@ -305,9 +313,9 @@ vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
 waf.proxytunnel.co
-webcstore.pw
 website.mypetapp.co.za
-windomstatetheater.com
+widexenmexico.com.mx
+winds11.site
 wittenhorst.eu
 wqok85qtq.net
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
@@ -319,14 +327,14 @@ www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
-www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gemrazorback.com
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
-www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -365,5 +373,6 @@ xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
+zenglobalenerji.com
 zhigao5191.com
 zycdjz.com
