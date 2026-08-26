@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-26 02:43:14 (UTC)                      #
+# Last updated: 2026-08-26 15:54:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 351
+# Number of entries: 367
 0022a601.pphost.net
 123.ywxww.net
 1717.1000uc.com
@@ -23,10 +23,12 @@ airtickts.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
+alphapicaficagency.com
 alternativas.ru
 app.appzcvb.com
 architekten-schreiner.de
 areyouready.co.za
+asdsocial.pt
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
@@ -60,7 +62,6 @@ cheatclients.com
 checkfivem.com
 chiptune.com
 chuguadventures.co.tz
-cl.ssouy.com
 cloud.pearlpeel.com
 cloudsenterprise26.com
 clubdetiroelpicarcho.com
@@ -73,8 +74,10 @@ coralasargetia.ro
 corporacioncrf.com
 cpc188.day
 cpofficial.com
+crazy2cdn.com
 crystalpvp.ru
 cs.go.kg
+cta.edu.pe
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
@@ -93,15 +96,16 @@ dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
+down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.suxiazai.com
 download.tfyxzai.com
 dreamwatchevent.com
 duct-master.com
@@ -116,10 +120,10 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
 final-aura.top
 first-security-verden.de
+fiscalizarais.xyz
 flicargo.com
 flyingmutts.com
 fmrio.com
@@ -127,10 +131,10 @@ fukt.link
 fullstacknir.com
 funneldiy.com
 furystaff.tech
-fz.tiansys.cn
 gabyagozetim.com
 gaiadeqi.com
 galerisenimutiara.com
+ghanioilandgas.com
 globalbank.us
 grantexx.com
 grupomcperu.com
@@ -142,16 +146,15 @@ hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
+idylliccreations.net
 ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 imagehopeag.com
-indusenterprises.co
+impectorinternational.com
 ircftp.net
 isiore.com.co
 itssprout.com
-ixirgroup.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -165,7 +168,9 @@ kolpa.lol
 konsor.ru
 kramersmarionnettes.com
 landonirwin.com
+lavos.life
 lawfirm.paperbirdtech.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lomeqpe.com
@@ -175,6 +180,7 @@ luxcar-24.com
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
+medicosantiagomarrero.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -190,6 +196,7 @@ n.vs108.com
 ncxps.com
 noithaticon.vn
 nusatoyota.co.id
+nw.almfwb.com
 ny.lshdw.cc
 ojang.pe.kr
 oknoplastik.sk
@@ -197,6 +204,7 @@ onfiltre.com.tr
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
+pancar.lol
 pay.aqiu6.com
 pcupd.com
 pic.li
@@ -211,6 +219,7 @@ pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
 ramirex.ro
+rcf.co.mz
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
@@ -225,6 +234,7 @@ riderspin.com
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
+ryanborn.net
 safeuploadz.com
 sales.ifree.page
 samiksha.com.sg
@@ -251,8 +261,10 @@ soft.110route.com
 solar-sanat.net
 somostask.co
 spgint.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
+stdown.dinju.com
 streammobs.com
 studiogioeli.it
 support.clz.kr
@@ -277,15 +289,19 @@ thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
 tiacreation.club
+tmcksa.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
 triapfog.com
+trtmyanmar.com
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 us.wind0ws.net
+vc.tnygbw.com
 vcc-library.uk
 versaclean.com.br
 veryboys.com
@@ -314,7 +330,6 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -328,6 +343,7 @@ www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
+www.nishiwaki.ne.jp
 www.notbak.com
 www.ojang.pe.kr
 www.reifenquick.de
@@ -352,9 +368,9 @@ xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
 xxpro.dev
+yakult-hk.com
 youtransfer.net
 zamilgroups.com
 zcalton.com
 zenglobalenerji.com
-zhigao5191.com
 zycdjz.com
