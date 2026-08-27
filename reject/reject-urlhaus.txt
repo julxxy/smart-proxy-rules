@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-27 14:52:11 (UTC)                      #
+# Last updated: 2026-08-27 15:23:32 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -117,7 +117,6 @@ download.pdf00.com
 download.tfyxzai.com
 dreamwatchevent.com
 duct-master.com
-dy.dpwqwaapp.xyz
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
@@ -164,6 +163,7 @@ ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 impectorinternational.com
+indusenterprises.co
 inventorychanger.com
 iploglab.store
 ircftp.net
@@ -200,6 +200,7 @@ maidforyou1985.com
 manita.lol
 medicosantiagomarrero.com
 meissner.ae
+metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -336,7 +337,6 @@ vizyonuniversitesi.web.tr
 vrajras.com
 wappingerbicornshaps.com
 website.mypetapp.co.za
-weybli.com
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
