@@ -226,6 +226,12 @@ payload:
   - 'DOMAIN,featuregates.org,PROXY'
   - 'DOMAIN,prodregistryv2.org,PROXY'
 
+  # Source: pikpak
+  - 'DOMAIN-SUFFIX,mypikpak.com,PROXY'
+  - 'DOMAIN-SUFFIX,mypikpak.net,PROXY'
+  - 'DOMAIN-SUFFIX,pikpak.me,PROXY'
+  - 'DOMAIN-SUFFIX,pikpakdrive.com,PROXY'
+
   # Source: the-browser-company
   - 'DOMAIN-KEYWORD,dia,PROXY'
   - 'DOMAIN-KEYWORD,browserinc,PROXY'
