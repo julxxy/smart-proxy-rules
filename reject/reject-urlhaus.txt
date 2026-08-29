@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-28 23:35:23 (UTC)                      #
+# Last updated: 2026-08-29 08:05:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 410
+# Number of entries: 392
 0022a601.pphost.net
 0x1x2x3.top
 123.ywxww.net
@@ -15,33 +15,28 @@
 1h.xeteloi4.ru
 acc.jiangsujiaxue.com
 acms.saleseos.com
-adctanzania.co.tz
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
-aftelecom.com.br
 airtickts.com
-alahlam.sa
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alphapicaficagency.com
+alphasaling.site
 alternativas.ru
 amparolarsonpw.com
-andrewtreks.com
 app.appzcvb.com
-app.static-file.lol
 archivoscrosoft.com
 areyouready.co.za
-asdsocial.pt
 atasapka.com.tr
 atom.freehosting.dev
-attention-check.online
 audicontadores.com
 azhu.cakkaao.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 baomma.kmmiiaaa.com
+beak.in
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
@@ -50,6 +45,7 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
@@ -61,6 +57,7 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -82,7 +79,6 @@ corporacioncrf.com
 cpc188.day
 cpofficial.com
 crazy2cdn.com
-creativevoltage.com
 cryptovectorhub1.lol
 crystalpvp.ru
 cs.go.kg
@@ -98,15 +94,13 @@ deliverymailreport.co.za
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
+dipre.com.tr
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
-dl.dzqzd.com
 dl.natgo.cn
-dl.unicron-dl.click
 doc.e-statements.app
 donkeytourscroatia.com
-down.54nb.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
@@ -127,35 +121,34 @@ eldertechsupport.com
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
-en.taichuan.com
 endpoint.project0.cc
 epanpano.com
+faceit-cdn.org
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
 femade.co.uk
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
-fiscalizarais.xyz
 flicargo.com
 flyingmutts.com
 fmrio.com
-fujiarte.com
 fukt.link
 fullstacknir.com
-funneldiy.com
 furystaff.tech
-fz.tiansys.cn
 gabyagozetim.com
 gaiadeqi.com
 galerisenimutiara.com
 gd.ozzhlb.net
-gestroom.it
+gestionycobranzas.com
 ghanioilandgas.com
 github-software.su
 globalbank.us
 google-meet-verification.icu
+goxlr.io
+goxlrutility.net
 graficaminascard.com.br
 grantexx.com
 grupomcperu.com
@@ -165,16 +158,15 @@ hitman-pro.ru
 hitstation.nl
 hobobot.net
 hseda.com
+htdentshop.com
 hypercorevector4.lol
 icoffeecloud.com
-idylliccreations.net
 ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 impectorinternational.com
 indusenterprises.co
 inventorychanger.com
-iploglab.store
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -186,6 +178,7 @@ jlwz.cn
 joyeriatauro.com
 kavacanada.ca
 kenwillzltd.com
+killurself1337-cdn.doxbin.mom
 kimyen.net
 kits.frog.tw
 kmmiiaaa.com
@@ -196,9 +189,9 @@ landonirwin.com
 laofa.kaoaaapc.cc
 lavos.life
 lawfirm.paperbirdtech.com
+leanmaestro.com
 lilong.kmmiiaaa.com
 lindnerelektroanlagen.de
-linen-harbor.com
 lion.kmmiiaaa.com
 local-update.com
 lomejordesalamanca.es
@@ -209,8 +202,6 @@ luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-manita.lol
-medicosantiagomarrero.com
 meissner.ae
 metricgw.com
 metrics.gocloudmaps.com
@@ -225,7 +216,6 @@ mundocarnes.cl
 munihuacho.gob.pe
 mx9x.com
 mysura.it
-n.vs108.com
 ncxps.com
 noithaticon.vn
 nusatoyota.co.id
@@ -238,8 +228,6 @@ outpost.co.ke
 p3.zbjimg.com
 packmate.in
 palharesinformatica.com.br
-pancar.lol
-paste.mangsud.org
 pay.aqiu6.com
 pcupd.com
 pic.li
@@ -264,6 +252,7 @@ redlk.com
 refaccionesalma.com.mx
 reifenquick.de
 reservphotoinstay.one
+reservphotoinstaynow.shop
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
@@ -271,7 +260,6 @@ robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
 ryanborn.net
-safe-pdf-viewer.lat
 safeifm.com
 safeuploadz.com
 sales.ifree.page
@@ -294,9 +282,8 @@ sixmexicos.com
 sk-comtel.com
 smartermail.host
 smarthomy.cl
-smsechodata.cc
 sochibeer.ru
-soft.110route.com
+soft-update.dev
 solar-sanat.net
 somostask.co
 spgint.com
@@ -314,9 +301,9 @@ tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tarkioweb.com
-tattinamecheap.com
 tecunonline.com
 tehnomag.rs
+telemetryloop.net
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
@@ -324,9 +311,9 @@ theholidayroads.com
 themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
-thtp2.volamngayxua.net
 tiacreation.club
 tmcksa.com
+tokidsa.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
@@ -340,7 +327,6 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 us.wind0ws.net
-vc.tnygbw.com
 vcc-library.uk
 versaclean.com.br
 veryboys.com
@@ -350,7 +336,6 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-wappingerbicornshaps.com
 website.mypetapp.co.za
 weybli.com
 widexenmexico.com.mx
@@ -362,7 +347,6 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
-www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -370,6 +354,7 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.eleganceclub.xyz
 www.first-security-verden.de
 www.hostingcloud.science
 www.hqsblog.com
@@ -379,7 +364,6 @@ www.jozefinskiatelje.si
 www.kaoaaapc.cc
 www.kenwillzltd.com
 www.kmmiiaaa.com
-www.knockknock.top
 www.konsor.ru
 www.mediocasavolponi.com
 www.medises.co.kr
@@ -387,9 +371,9 @@ www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
-www.nishiwaki.ne.jp
 www.notbak.com
 www.ojang.pe.kr
+www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
@@ -406,7 +390,6 @@ www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
-www.zhikey.com
 xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
@@ -415,5 +398,4 @@ yakult-hk.com
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
-zhimaly.com
 zycdjz.com
