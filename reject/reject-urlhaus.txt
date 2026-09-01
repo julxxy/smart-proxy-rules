@@ -1,15 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-08-31 19:46:18 (UTC)                      #
+# Last updated: 2026-09-01 06:55:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 362
+# Number of entries: 375
 0022a601.pphost.net
 0following.com
-123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
@@ -22,6 +21,7 @@ addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
+aidlifempowerment.com
 airtickts.com
 alarmline.com.br
 alineeleuterio.com.br
@@ -56,6 +56,7 @@ cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -73,7 +74,6 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
-cpofficial.com
 crazy2cdn.com
 crystalpvp.ru
 cs.go.kg
@@ -104,6 +104,7 @@ down.qqfarmer.com.cn
 download-sougou.com.cn
 download.caihong.com
 download.doumaibiji.cn
+download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
@@ -122,7 +123,7 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-filequanticore.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -130,15 +131,18 @@ fmrio.com
 fukt.link
 fullstacknir.com
 funneldiy.com
-furystaff.tech
 fz.tiansys.cn
 gaiadeqi.com
 galerisenimutiara.com
 gd.ozzhlb.net
+geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
 ghanioilandgas.com
 github-software.su
+gla.ge
 globalbank.us
+goododeqvip.com
 grantexx.com
 grupomcperu.com
 gutando.com
@@ -148,8 +152,8 @@ hindustancargologistic.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
+hotelmate.asia
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
@@ -175,24 +179,26 @@ konsor.ru
 kramersmarionnettes.com
 landonirwin.com
 lawfirm.paperbirdtech.com
+leanmaestro.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lomeqpe.com
+lp.afonsonobreadv.com.br
 luizmatoso.com.br
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mnurlogistics.az
 mogimall.com
-mon-xxx-02.cfd
 muaklekcoop.com
 muledo.com
 mundocarnes.cl
 munihuacho.gob.pe
+muriaspetin.es
 mx9x.com
 mysura.it
 n.vs108.com
@@ -211,10 +217,12 @@ pcupd.com
 pic.li
 planetariumobil.ro
 plutotvshow.biz
+porterneuman.mx
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+promnet.jp
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -228,7 +236,6 @@ records.dennisign.se
 redlk.com
 refaccionesalma.com.mx
 reifenquick.de
-render-6.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
@@ -263,6 +270,7 @@ solar-sanat.net
 somostask.co
 spgint.com
 sportssurgeon.org.pk
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -276,6 +284,7 @@ tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tarkioweb.com
+taunahi.st
 tecunonline.com
 tehnomag.rs
 tengfeidn.cn
@@ -292,13 +301,14 @@ top8onlinegame.com
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
-trekworkshop3.com
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
+upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 us.wind0ws.net
+usertunelaccount1.royalbnkmail.com
 vcc-library.uk
 versaclean.com.br
 veryboys.com
@@ -314,6 +324,7 @@ windomstatetheater.com
 wittenhorst.eu
 wordtax.ink
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
+www.agcestksa.com
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
@@ -327,6 +338,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -355,6 +367,7 @@ www.ss-01.com
 www.starcountry.net
 www.support-data.com
 www.tdejb.com
+www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.vuelaviajero.com
 www.website.mypetapp.co.za
