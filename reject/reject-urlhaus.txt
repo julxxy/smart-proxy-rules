@@ -1,20 +1,21 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-01 06:55:08 (UTC)                      #
+# Last updated: 2026-09-01 17:59:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 375
+# Number of entries: 380
 0022a601.pphost.net
 0following.com
+123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
-1h.xeteloi4.ru
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
+31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 addurltogoogle.com
@@ -35,6 +36,7 @@ areyouready.co.za
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
+awarenessexhibition.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
@@ -46,17 +48,16 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
+bvaco.com
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
-cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -74,6 +75,7 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
+cpofficial.com
 crazy2cdn.com
 crystalpvp.ru
 cs.go.kg
@@ -85,6 +87,7 @@ data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
+delii.icu
 deliverymailreport.co.za
 delp-heizungsbau.de
 dexios.co.za
@@ -116,7 +119,6 @@ dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
-en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 fakers.co.jp
@@ -137,10 +139,7 @@ galerisenimutiara.com
 gd.ozzhlb.net
 geoxsecurity.ro
 gestionycobranzas.com
-gestroom.it
-ghanioilandgas.com
 github-software.su
-gla.ge
 globalbank.us
 goododeqvip.com
 grantexx.com
@@ -154,6 +153,7 @@ hitstation.nl
 hobobot.net
 hotelmate.asia
 hseda.com
+htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
@@ -179,13 +179,12 @@ konsor.ru
 kramersmarionnettes.com
 landonirwin.com
 lawfirm.paperbirdtech.com
-leanmaestro.com
-lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lomeqpe.com
 lp.afonsonobreadv.com.br
 luizmatoso.com.br
+lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
@@ -194,6 +193,7 @@ miriamgualda.com.br
 mitreart.com
 mnurlogistics.az
 mogimall.com
+mrsweaterltd.com
 muaklekcoop.com
 muledo.com
 mundocarnes.cl
@@ -214,7 +214,10 @@ p3.zbjimg.com
 palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
+pfatrivandrum.org
 pic.li
+pingu.business
+pingu.ltd
 planetariumobil.ro
 plutotvshow.biz
 porterneuman.mx
@@ -261,6 +264,7 @@ separadordecc.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
+siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
 smartermail.host
@@ -298,12 +302,12 @@ thtp2.volamngayxua.net
 tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
+topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
-twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -318,6 +322,8 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+w.zhzy999.net
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -354,8 +360,7 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
-www.ojang.pe.kr
-www.pakstones.com
+www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
 www.ryzhe.com
