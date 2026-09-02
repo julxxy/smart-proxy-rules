@@ -1,14 +1,15 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-02 06:22:20 (UTC)                      #
+# Last updated: 2026-09-02 17:49:31 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 382
+# Number of entries: 388
 0022a601.pphost.net
 0following.com
+123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
@@ -50,6 +51,7 @@ bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
+brightroseax.blog
 brightworks.cz
 bserail.com
 bvaco.com
@@ -58,7 +60,6 @@ casasmediterraneas.com
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
-catbaparadisehotel.com.vn
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -103,6 +104,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download-sougou.com.cn
 download.caihong.com
 download.doumaibiji.cn
@@ -113,16 +115,20 @@ download.pdf00.com
 download.suxiazai.com
 download.tfyxzai.com
 dreamwatchevent.com
+dreemix.com
 duct-master.com
 dynga.pl
 electri.billregulator.com
+elisans.novayonetim.com
 embedone.com
+emeraldstonegc.blog
 en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
+fdstat.vip
 file.blackint3.com
 file.uhsea.com
 filerit.com
@@ -136,11 +142,9 @@ funneldiy.com
 fz.tiansys.cn
 gaiadeqi.com
 galerisenimutiara.com
-gd.ozzhlb.net
 geoxsecurity.ro
 gestionycobranzas.com
 globalbank.us
-gobiotechpestcontrol.com
 goododeqvip.com
 grantexx.com
 grupomcperu.com
@@ -150,6 +154,7 @@ hasalltalent.com
 hindustancargologistic.com
 hitman-pro.ru
 hitstation.nl
+hobobot.net
 hotelmate.asia
 hseda.com
 htdentshop.com
@@ -158,6 +163,7 @@ ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 impectorinternational.com
+indeanapolice.cc
 indusenterprises.co
 ircftp.net
 isiore.com.co
@@ -166,26 +172,30 @@ ixirgroup.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
+jlwz.cn
 joyeriatauro.com
 kavacanada.ca
 kenwillzltd.com
 khavar.com
 kimyen.net
+kis.marketing
 kits.frog.tw
 kokorostore.it
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
-lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lomeqpe.com
 lp.afonsonobreadv.com.br
 luizmatoso.com.br
+lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
+mail.brightroseax.blog
+mail.emeraldstonegc.blog
 mailify.cc
 metrics.gocloudmaps.com
 miriamgualda.com.br
@@ -205,12 +215,12 @@ ngyusa.com
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
+odinclient.dev
 ojang.pe.kr
 oknoplastik.sk
 onfiltre.com.tr
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
@@ -218,14 +228,12 @@ pic.li
 pingu.business
 pingu.ltd
 planetariumobil.ro
-plutotvshow.biz
 porterneuman.mx
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 promnet.jp
-protherapycenter.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -252,7 +260,6 @@ safeuploadz.com
 sales.ifree.page
 samiksha.com.sg
 satinmaple4.com
-scainseto.com.br
 scanbot.me
 scoala1gherla.ro
 scrroeder.com
@@ -274,7 +281,6 @@ soft.110route.com
 solar-sanat.net
 spgint.com
 sportssurgeon.org.pk
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -283,11 +289,11 @@ studiogioeli.it
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tarkioweb.com
+taskerempresascol.co
 taunahi.st
 tecunonline.com
 tehnomag.rs
@@ -298,6 +304,7 @@ theholidayroads.com
 themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
+theservice4u.com
 thtp2.volamngayxua.net
 tiacreation.club
 toolshare.com.tr
@@ -305,7 +312,6 @@ top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 tr.zhzy999.net
-traderhype.com
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
