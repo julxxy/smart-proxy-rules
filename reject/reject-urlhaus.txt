@@ -1,18 +1,18 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-01 17:59:17 (UTC)                      #
+# Last updated: 2026-09-02 06:22:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 380
+# Number of entries: 382
 0022a601.pphost.net
 0following.com
-123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
+1h.xeteloi4.ru
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
@@ -39,6 +39,7 @@ audicontadores.com
 awarenessexhibition.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beacon.ltdglobal.co.uk
 beak.in
 bito.com.pk
 blankeyeo.com
@@ -82,7 +83,6 @@ cs.go.kg
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
-dasgems.com
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
@@ -103,7 +103,6 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download-sougou.com.cn
 download.caihong.com
 download.doumaibiji.cn
@@ -117,8 +116,8 @@ dreamwatchevent.com
 duct-master.com
 dynga.pl
 electri.billregulator.com
-elisans.novayonetim.com
 embedone.com
+en.taichuan.com
 endpoint.project0.cc
 epanpano.com
 fakers.co.jp
@@ -128,6 +127,7 @@ file.blackint3.com
 file.uhsea.com
 filerit.com
 first-security-verden.de
+flint-32.com
 flyingmutts.com
 fmrio.com
 fukt.link
@@ -139,8 +139,8 @@ galerisenimutiara.com
 gd.ozzhlb.net
 geoxsecurity.ro
 gestionycobranzas.com
-github-software.su
 globalbank.us
+gobiotechpestcontrol.com
 goododeqvip.com
 grantexx.com
 grupomcperu.com
@@ -150,7 +150,6 @@ hasalltalent.com
 hindustancargologistic.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hotelmate.asia
 hseda.com
 htdentshop.com
@@ -167,7 +166,6 @@ ixirgroup.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
-jlwz.cn
 joyeriatauro.com
 kavacanada.ca
 kenwillzltd.com
@@ -176,19 +174,20 @@ kimyen.net
 kits.frog.tw
 kokorostore.it
 konsor.ru
-kramersmarionnettes.com
 landonirwin.com
 lawfirm.paperbirdtech.com
+lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 lomeqpe.com
 lp.afonsonobreadv.com.br
 luizmatoso.com.br
-lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
+mailify.cc
+metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mnurlogistics.az
@@ -196,13 +195,13 @@ mogimall.com
 mrsweaterltd.com
 muaklekcoop.com
 muledo.com
-mundocarnes.cl
 munihuacho.gob.pe
 muriaspetin.es
 mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
+ngyusa.com
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
@@ -226,6 +225,7 @@ practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 promnet.jp
+protherapycenter.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -251,6 +251,7 @@ safeifm.com
 safeuploadz.com
 sales.ifree.page
 samiksha.com.sg
+satinmaple4.com
 scainseto.com.br
 scanbot.me
 scoala1gherla.ro
@@ -271,7 +272,6 @@ smartermail.host
 sochibeer.ru
 soft.110route.com
 solar-sanat.net
-somostask.co
 spgint.com
 sportssurgeon.org.pk
 static.ilclock.com
@@ -305,9 +305,11 @@ top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 tr.zhzy999.net
+traderhype.com
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -323,7 +325,6 @@ vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
 w.zhzy999.net
-webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -344,7 +345,6 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -355,11 +355,13 @@ www.khavar.com
 www.knockknock.top
 www.konsor.ru
 www.medises.co.kr
+www.movy.bz
 www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
+www.ojang.pe.kr
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
