@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-07 18:37:59 (UTC)                      #
+# Last updated: 2026-09-08 06:39:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 369
+# Number of entries: 383
 0022a601.pphost.net
 0following.com
 0rder-ver1f2345.com
@@ -14,12 +14,17 @@
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
+1h.xeteloi4.ru
+3.zhzy999.net
+3.zhzy999.net3.zhzy999.net
+31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 PEDIANOW.ORG
 acc.jiangsujiaxue.com
 acms.saleseos.com
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
+adps.pro
 aftelecom.com.br
 aidlifempowerment.com
 airtickts.com
@@ -29,6 +34,7 @@ allendostmen.com
 alphapicaficagency.com
 alphasaling.site
 alternativas.ru
+api.cdn22.net
 app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
@@ -36,6 +42,8 @@ atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
 aura.tcplegit.space
+authgen.deals
+b2b.jewmailer.net
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
@@ -47,9 +55,11 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
+c2.mc-live.online
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
@@ -57,6 +67,7 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -74,7 +85,6 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
-cpofficial.com
 crystalpvp.ru
 cs.go.kg
 cu.srijanajha.com.np
@@ -90,8 +100,8 @@ deliverymailreport.co.za
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
+dfd.zhzy999.net
 dinamikakargo.com
-disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
@@ -102,29 +112,31 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
+download.suxiazai.com
 dreamwatchevent.com
 dreemix.com
 duct-master.com
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
-embedone.com
+en.taichuan.com
 endpoint.project0.cc
 envs.sh
 epanpano.com
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
-fdstat.vip
 file.blackint3.com
 file.uhsea.com
 filerit.com
+filmchill.net
 first-security-verden.de
 flyingmutts.com
 fmrio.com
@@ -155,11 +167,10 @@ impectorinternational.com
 indusenterprises.co
 ircftp.net
 itssprout.com
-jalebel7abeb.com
+jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
-joyeriatauro.com
 jswen.com
 kavacanada.ca
 kenwillzltd.com
@@ -169,18 +180,16 @@ kits.frog.tw
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
+leanmaestro.com
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
-lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 mail.quietsurfwi.help
-mailify.cc
 malupieng.com.br
-metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -191,22 +200,24 @@ muaklekcoop.com
 muledo.com
 multiplay.at
 munihuacho.gob.pe
-mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
+oim.doganltd.com.tr
 ojang.pe.kr
 oknoplastik.sk
-one-graup.com
 onfiltre.com.tr
+opalcraftsmp.com
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
+pdf-editore.com
+pdfmun.software
 pfatrivandrum.org
 pic.li
 pingu.ltd
@@ -258,8 +269,10 @@ sg123.net
 shqdown.ggzuhao.com
 siaasesoria.com.mx
 signageinsignia.co.za
+signaturenib.rest
 sk-comtel.com
 smartermail.host
+snowproject.lol
 sochibeer.ru
 soft.110route.com
 spgint.com
@@ -272,7 +285,6 @@ studiogioeli.it
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
@@ -290,7 +302,6 @@ theoremaoliveoil.com
 theservice4u.com
 thtp2.volamngayxua.net
 tiacreation.club
-ticpc8a.com
 toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
@@ -299,6 +310,7 @@ transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
+universami.ge
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -312,8 +324,8 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+w.zhzy999.net
 waveplus.mediabyte.be
-webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -333,6 +345,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -349,6 +362,7 @@ www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
+www.oringosmod.com
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
