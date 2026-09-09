@@ -1,18 +1,19 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-09 06:43:25 (UTC)                      #
+# Last updated: 2026-09-09 18:08:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 371
+# Number of entries: 367
 0following.com
 123.ywxww.net
 1717.1000uc.com
 198348.gl
 1h.vuregyy1.ru
 1h.xeteloi4.ru
+4eclient.com
 PEDIANOW.ORG
 acc.jiangsujiaxue.com
 acms.saleseos.com
@@ -20,7 +21,6 @@ addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
 adps.pro
-aftelecom.com.br
 aidlifempowerment.com
 airtickts.com
 alarmline.com.br
@@ -30,6 +30,7 @@ alphapicaficagency.com
 alphasaling.site
 alternativas.ru
 api.cdn22.net
+app.appzcvb.com
 archivoscrosoft.com
 archway.cozyvistany.com
 areyouready.co.za
@@ -45,13 +46,11 @@ beak.in
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
-blit.co.za
 blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
@@ -61,7 +60,6 @@ cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
-ccleaner.gl
 cdaonline.com.ar
 celebratingseniors.net
 chat-server.maverickpreviews.com
@@ -71,6 +69,7 @@ chiroartist.com
 chuguadventures.co.tz
 cl.ssouy.com
 cloud.pearlpeel.com
+clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
 coconutoficial.com.br
@@ -104,7 +103,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-download.caihong.com
+down.qqfarmer.com.cn
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
@@ -124,7 +123,6 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
 filmchill.net
 first-security-verden.de
@@ -132,7 +130,9 @@ flyingmutts.com
 fmrio.com
 fukt.link
 fullstacknir.com
+fz.tiansys.cn
 gaiadeqi.com
+galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
 globalbank.us
@@ -147,17 +147,14 @@ hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
-ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 iloveboats.st
 impectorinternational.com
-indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
 jawaratekno.com
-jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 jswen.com
@@ -181,7 +178,6 @@ m.meta-dm.com
 maidforyou1985.com
 mail.quietsurfwi.help
 malupieng.com.br
-metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -195,8 +191,8 @@ munihuacho.gob.pe
 mysura.it
 n.vs108.com
 ncxps.com
+neilshairdressers.co.uk
 noithaticon.vn
-nusatoyota.co.id
 ny.lshdw.cc
 ojang.pe.kr
 okhan.net
@@ -205,7 +201,6 @@ onfiltre.com.tr
 opalcraftsmp.com
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pdf-editore.com
@@ -248,8 +243,8 @@ scainseto.com.br
 scanbot.me
 scoala1gherla.ro
 scooter.cozyvistany.com
+screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -267,6 +262,7 @@ sk-comtel.com
 smartermail.host
 snowproject.lol
 soft.110route.com
+software-gateway.click
 spa-com.com
 spgint.com
 static.ilclock.com
@@ -299,7 +295,7 @@ toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
-traderhype.com
+tr.zhzy999.net
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
@@ -316,6 +312,7 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -330,16 +327,15 @@ www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
+www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
 www.iloveboats.st
-www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
 www.khavar.com
@@ -348,13 +344,14 @@ www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
-www.newkey.co.kr
 www.notbak.com
+www.ojang.pe.kr
 www.okhan.net
 www.oringosmod.com
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
+www.ryzhe.com
 www.saf-oil.ru
 www.salonmarketing.ca
 www.sgeseducation.com
@@ -377,4 +374,3 @@ yakult-hk.com
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
-zycdjz.com
