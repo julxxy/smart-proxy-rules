@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-10 06:43:19 (UTC)                      #
+# Last updated: 2026-09-10 16:18:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 377
+# Number of entries: 373
 02teste.cc
 0following.com
 123.ywxww.net
@@ -14,6 +14,7 @@
 198348.gl
 1h.vuregyy1.ru
 1h.xeteloi4.ru
+3brosstore.com
 4eclient.com
 PEDIANOW.ORG
 abilityindisabilityindia.org
@@ -31,9 +32,8 @@ alineeleuterio.com.br
 allendostmen.com
 alphapicaficagency.com
 alphasaling.site
-altamoorgoods.com
 alternativas.ru
-api.vexxuhq.site
+api.wipmania.net
 app.appzcvb.com
 archivoscrosoft.com
 archway.cozyvistany.com
@@ -41,6 +41,7 @@ areyouready.co.za
 atasapka.com.tr
 atom.freehosting.dev
 audicontadores.com
+auravibes04ko.shop
 b2b.jewmailer.net
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
@@ -48,13 +49,13 @@ beak.in
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
+blit.co.za
 blogs.sokun.jp
 blueoceanealtd.co.ke
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
@@ -84,15 +85,12 @@ coralasargetia.ro
 cpc188.day
 crystalpvp.ru
 cs.go.kg
-ctsfactory.com
 d.14yaa.com
-d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
-deliverymailreport.co.za
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
@@ -107,6 +105,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -128,6 +127,7 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 flyingmutts.com
@@ -139,9 +139,9 @@ gaiadeqi.com
 galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
 globalbank.us
 globalsupportupdate.top
-gobiotechpestcontrol.com
 grantexx.com
 grupomcperu.com
 gutando.com
@@ -151,9 +151,9 @@ hip-hop-comms.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
-hseda.com
 htdentshop.com
 icoffeecloud.com
+ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 impectorinternational.com
@@ -164,7 +164,6 @@ itssprout.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
-jlwz.cn
 jswen.com
 kavacanada.ca
 kenwillzltd.com
@@ -186,6 +185,7 @@ m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 malupieng.com.br
+metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -199,7 +199,6 @@ mysura.it
 n.vs108.com
 ncxps.com
 noithaticon.vn
-northernvirginiaeyeassociates.com
 nusatoyota.co.id
 ny.lshdw.cc
 ojang.pe.kr
@@ -220,6 +219,7 @@ planetariumobil.ro
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
+productoslili.cl
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
@@ -231,7 +231,6 @@ rcf.co.mz
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
-redlk.com
 refaccionesalma.com.mx
 reifenquick.de
 reservphotoinstay.one
@@ -252,7 +251,6 @@ scoala1gherla.ro
 scooter.cozyvistany.com
 screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -270,6 +268,7 @@ smartermail.host
 snowproject.lol
 soft.110route.com
 software-gateway.click
+solar-sanat.net
 spa-com.com
 spgint.com
 static.ilclock.com
@@ -277,6 +276,7 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 studiogioeli.it
+sumnitasinvestment.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -287,7 +287,6 @@ tapestryoftruth.com
 taunahi.st
 tecunonline.com
 tehnomag.rs
-teleabonent.ru
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
@@ -303,13 +302,13 @@ topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
+tripfarely.com
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-us.wind0ws.net
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -318,7 +317,6 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -358,14 +356,12 @@ www.okhan.net
 www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
-www.ryzhe.com
 www.saf-oil.ru
 www.salonmarketing.ca
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
-www.support-data.com
 www.tdejb.com
 www.tecunonline.com
 www.test.peperoncinochepassione.it
