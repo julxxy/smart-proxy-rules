@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-11 17:33:23 (UTC)                      #
+# Last updated: 2026-09-12 06:31:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 363
-02teste.cc
+# Number of entries: 367
 0following.com
 123.ywxww.net
 1717.1000uc.com
@@ -40,6 +39,7 @@ areyouready.co.za
 atasapka.com.tr
 audicontadores.com
 auravibes04ko.shop
+awarenessexhibition.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
@@ -47,12 +47,10 @@ bito.com.pk
 blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
-blueoceanealtd.co.ke
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
@@ -63,14 +61,13 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-celebratingseniors.net
+cdn.file6.goodid.com
 chat-server.maverickpreviews.com
 checkfivem.com
 chiptune.com
 chiroartist.com
 chuguadventures.co.tz
 cid.gov.so
-cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
@@ -87,6 +84,7 @@ d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
+dcwblida.dz
 deagroup-ks.com
 delp-heizungsbau.de
 dexios.co.za
@@ -110,6 +108,7 @@ download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 download.pocketbitcoindesktop.com
+download.suxiazai.com
 dreamwatchevent.com
 duct-master.com
 dugovicova.sk
@@ -128,32 +127,35 @@ file.blackint3.com
 file.uhsea.com
 fileget.plumbco.co.nz
 filerit.com
+firojkhan.com.np
 first-security-verden.de
 flyingmutts.com
 fmrio.com
+fotosdepuebla.org
 fukt.link
 fullstacknir.com
 fz.tiansys.cn
 galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
+glbeletronica.com.br
 globalbank.us
-globalsupportupdate.top
 grantexx.com
 grupomcperu.com
 gutando.com
 harmeetmotors.com
 hasalltalent.com
-hip-hop-comms.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
+ikincielesyaciankara.com.tr
 impectorinternational.com
+indonesias.me
 indusenterprises.co
 ircftp.net
 isiore.com.co
@@ -189,7 +191,6 @@ mitreart.com
 mkconstructions.net
 mnurlogistics.az
 mogimall.com
-motorhomecinema.com
 mrsweaterltd.com
 muaklekcoop.com
 muledo.com
@@ -199,6 +200,7 @@ mysura.it
 n.vs108.com
 ncxps.com
 noithaticon.vn
+nusatoyota.co.id
 ny.lshdw.cc
 ojang.pe.kr
 okhan.net
@@ -208,7 +210,7 @@ opalcraftsmp.com
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
-panel.mkk9991999912.observer
+pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 pic.li
@@ -257,14 +259,13 @@ separadordecc.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
-siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
 smartermail.host
 soft.110route.com
-software-gateway.click
 solar-sanat.net
 spgint.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -274,6 +275,7 @@ sumnitasinvestment.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
@@ -288,15 +290,16 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
+tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
-tr.zhzy999.net
 transparenciacanaa.com.br
 tripfarely.com
 trtmyanmar.com
 twitch.tj
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -331,6 +334,7 @@ www.drgenov.com
 www.first-security-verden.de
 www.hostingcloud.science
 www.hqsblog.com
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
@@ -342,6 +346,7 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
+www.ojang.pe.kr
 www.okhan.net
 www.pingu.surf
 www.pointtohealth.com
@@ -366,7 +371,6 @@ xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
-zetaval.metcalfphoto.com
 zhigao5191.com
 zunimar.cl
 zycdjz.com
