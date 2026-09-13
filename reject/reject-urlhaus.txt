@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-12 17:09:34 (UTC)                      #
+# Last updated: 2026-09-13 06:47:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 358
+# Number of entries: 352
 0following.com
 123.ywxww.net
 1717.1000uc.com
@@ -21,7 +21,6 @@ acms.saleseos.com
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
-adopdf.shop
 aftelecom.com.br
 aidlifempowerment.com
 airtickts.com
@@ -31,18 +30,15 @@ allendostmen.com
 alphapicaficagency.com
 alphasaling.site
 alternativas.ru
-api.vexxuhq.site
 api.wipmania.net
 app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
 atasapka.com.tr
 audicontadores.com
-auravibes04ko.shop
 awarenessexhibition.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-beak.in
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
@@ -51,11 +47,9 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
-c2.mc-live.online
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
@@ -63,7 +57,6 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -74,7 +67,6 @@ cid.gov.so
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
-cn.unionlever.com
 coconutoficial.com.br
 compuserviceonline.com.br
 continentalgroup.net.in
@@ -88,6 +80,7 @@ d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
+dcwblida.dz
 deagroup-ks.com
 delp-heizungsbau.de
 dexios.co.za
@@ -110,14 +103,13 @@ download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.pocketbitcoindesktop.com
 download.suxiazai.com
 dreamwatchevent.com
 duct-master.com
-dugovicova.sk
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
+en.taichuan.com
 endpoint.project0.cc
 envs.sh
 epanpano.com
@@ -127,18 +119,20 @@ farschid.de
 fd.v2downf.shop
 file.blackint3.com
 file.uhsea.com
-fileget.plumbco.co.nz
 filerit.com
 firojkhan.com.np
 first-security-verden.de
 flyingmutts.com
 fmrio.com
+friendsofsclarc.org
 fukt.link
 fullstacknir.com
 fz.tiansys.cn
 galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
+get.acttivated.win
 globalbank.us
 grantexx.com
 grupomcperu.com
@@ -146,7 +140,6 @@ harmeetmotors.com
 hasalltalent.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
@@ -154,7 +147,6 @@ ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -177,12 +169,13 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
+lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 malupieng.com.br
-metrics.gocloudmaps.com
+massgravel.dev
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -203,9 +196,11 @@ okhan.net
 oknoplastik.sk
 onfiltre.com.tr
 opalcraftsmp.com
+oss.cop.lat
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
+pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 pic.li
@@ -214,7 +209,6 @@ planetariumobil.ro
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
-productoslili.cl
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
@@ -263,17 +257,16 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 studiogioeli.it
-sumnitasinvestment.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 taunahi.st
 tecunonline.com
 tehnomag.rs
+tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
 theholidayroads.com
@@ -282,19 +275,19 @@ thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
 tiacreation.club
+tinyurls.in
 toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
-tr.zhzy999.net
 transparenciacanaa.com.br
-tripfarely.com
 trtmyanmar.com
+true-soft.su
 twitch.tj
-twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
+v7yp4wts.fourstarcampground.com
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -303,11 +296,11 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
-wwalucircle.com
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www.0akw8w.com
 www.ardguisser.com
@@ -324,6 +317,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -338,6 +332,7 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
+www.ojang.pe.kr
 www.okhan.net
 www.pingu.surf
 www.pointtohealth.com
@@ -363,5 +358,4 @@ yakult-hk.com
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
-zunimar.cl
 zycdjz.com
