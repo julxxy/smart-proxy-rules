@@ -1,22 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-13 17:39:24 (UTC)                      #
+# Last updated: 2026-09-14 07:17:14 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 353
+# Number of entries: 370
 0following.com
 123.ywxww.net
 1717.1000uc.com
 198348.gl
-1h.vuregyy1.ru
-1h.xeteloi4.ru
-4eclient.com
 PEDIANOW.ORG
 abilityindisabilityindia.org
 acc.jiangsujiaxue.com
+accesstelematics.com
 acms.saleseos.com
 addurltogoogle.com
 admin.byte.in.ua
@@ -29,14 +27,17 @@ alineeleuterio.com.br
 allendostmen.com
 alphapicaficagency.com
 alphasaling.site
+alternativas.ru
 api.wipmania.net
 app.appzcvb.com
 archivoscrosoft.com
 areyouready.co.za
 atasapka.com.tr
 audicontadores.com
-awarenessexhibition.com
+authshipup.net
+backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 bito.com.pk
 blankeyeo.com
 blessdayservices.org
@@ -95,6 +96,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -117,9 +119,8 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
-firojkhan.com.np
+fingerprint-veri.info
 first-security-verden.de
 flyingmutts.com
 fmrio.com
@@ -129,14 +130,31 @@ fz.tiansys.cn
 galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
+get.acitvated.win
+get.acivated.win
+get.acrivated.win
+get.actiated.win
+get.activaed.win
+get.activatd.win
+get.activatedd.win
+get.activates.win
+get.activtaed.win
+get.activted.win
+get.acttivated.win
+get.actvated.win
+get.ativated.win
+get.cativated.win
+get.ctivated.win
+get.sctivated.win
 globalbank.us
+gobiotechpestcontrol.com
 grantexx.com
 grupomcperu.com
 harmeetmotors.com
 hasalltalent.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
@@ -144,34 +162,33 @@ ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
+jlwz.cn
 jswen.com
 kavacanada.ca
 kenwillzltd.com
 khavar.com
 kimyen.net
-kits.frog.tw
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
-letstalkhomes.ca
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
-lumacrea.com
 luminouspower.com.pk
+m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 malupieng.com.br
 massgravel.dev
+meteorrejects.net
 metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
@@ -185,6 +202,7 @@ munihuacho.gob.pe
 mysura.it
 n.vs108.com
 ncxps.com
+ndigitals.in
 noithaticon.vn
 nusatoyota.co.id
 ny.lshdw.cc
@@ -201,13 +219,11 @@ pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 pic.li
-pingu.ltd
 planetariumobil.ro
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
-protherapycenter.com
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -236,14 +252,13 @@ scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
 seismophonic.com
 semencepourlavie.org
-separadordecc.com
 seputartuban.com
+server.miranarts-top.cc
 sg123.net
 shqdown.ggzuhao.com
 signageinsignia.co.za
@@ -252,6 +267,7 @@ smartermail.host
 soft.110route.com
 solar-sanat.net
 spgint.com
+startvsgame.com
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -261,10 +277,11 @@ studiogioeli.it
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
-taunahi.st
+tapped.top
 tecunonline.com
 tehnomag.rs
 tengfeidn.cn
@@ -283,12 +300,14 @@ topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
+trouserstreak.net
 trtmyanmar.com
 true-soft.su
 twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
+update-notif.com
 update.cg100iii.com
 v7yp4wts.fourstarcampground.com
 versaclean.com.br
@@ -302,6 +321,7 @@ website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
+workerstats.net
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www.0akw8w.com
 www.ardguisser.com
@@ -312,7 +332,6 @@ www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
-www.controliumbt.com
 www.craftsparkdimensions.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
@@ -333,9 +352,7 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
-www.ojang.pe.kr
 www.okhan.net
-www.pingu.surf
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
