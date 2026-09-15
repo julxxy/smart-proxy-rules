@@ -1,21 +1,22 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-14 19:24:31 (UTC)                      #
+# Last updated: 2026-09-15 06:58:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 360
+# Number of entries: 389
 0following.com
+123.ywxww.net
 1717.1000uc.com
 198348.gl
-4eclient.com
 PEDIANOW.ORG
 abilityindisabilityindia.org
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acrilicoporto.pt
+acrobat.proposal.name.ng
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
@@ -40,12 +41,14 @@ backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
 bito.com.pk
+blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
 botcheck-cf.top
 bridgeroad.maverickpreviews.com
 brightworks.cz
@@ -71,8 +74,10 @@ clubdetiroelpicarcho.com
 cn.unionlever.com
 coconutoficial.com.br
 compuserviceonline.com.br
+contididit.conti.pk
 continentalgroup.net.in
 coolairesgroup.com
+copiose.org
 coralasargetia.ro
 cpc188.day
 crystalpvp.ru
@@ -87,6 +92,7 @@ deagroup-ks.com
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
+digitalisonesapps.com
 dinamikakargo.com
 disk.accord1key.cn
 divvanews.com
@@ -134,13 +140,33 @@ galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
 gestroom.it
+get.acitvated.win
+get.acivated.win
+get.acrivated.win
+get.actiated.win
+get.actiavted.win
+get.activaed.win
+get.activatd.win
+get.activatde.win
+get.activatedd.win
+get.activates.win
+get.activeted.win
+get.activtaed.win
+get.activted.win
+get.actrivated.win
 get.acttivated.win
-glbeletronica.com.br
+get.actvated.win
+get.atcivated.win
+get.ativated.win
+get.cativated.win
+get.ctivated.win
+get.sctivated.win
 globalbank.us
 grantexx.com
 grupomcperu.com
 harmeetmotors.com
 hasalltalent.com
+hashedsolver.icu
 hitman-pro.ru
 hitstation.nl
 hobobot.net
@@ -160,6 +186,7 @@ jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
+jokely.icu
 jswen.com
 kavacanada.ca
 kenwillzltd.com
@@ -173,21 +200,23 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
+lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 malupieng.com.br
+mandarin.net.au
 massgravel.dev
 meteorrejects.net
 metrics.gocloudmaps.com
+minpop.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
 mnurlogistics.az
 mogimall.com
 muaklekcoop.com
-muledo.com
 multiplay.at
 munihuacho.gob.pe
 mysura.it
@@ -202,20 +231,22 @@ okhan.net
 oknoplastik.sk
 onfiltre.com.tr
 opalcraftsmp.com
-oss.cop.lat
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
+pic.li
 planetariumobil.ro
 portal.onepansol.site
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+protherapycenter.com
 public.demo.securecloudsandbox.com
+pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
 rabbitfuns.su
@@ -237,11 +268,11 @@ sablayan.seasonshotelmindoro.com
 safeifm.com
 sales.ifree.page
 samiksha.com.sg
+scainseto.com.br
 scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -285,22 +316,20 @@ thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
 tiacreation.club
-tinyurls.in
 toolshare.com.tr
 top8onlinegame.com
 topmark-tuitioncentre.co.uk
 tpp.om-stock.com
 transparenciacanaa.com.br
 tripfarely.com
+trouserstreak.net
 trtmyanmar.com
-true-soft.su
 twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update-notif.com
 update.cg100iii.com
-v7yp4wts.fourstarcampground.com
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -310,9 +339,9 @@ vizyonuniversitesi.web.tr
 vrajras.com
 website.mypetapp.co.za
 widexenmexico.com.mx
-windomstatetheater.com
+wir.consultingics.com
 wittenhorst.eu
-www-connect-secure-wellcfargo.sekolahkejarpaket.com
+workerstats.net
 www.0akw8w.com
 www.ardguisser.com
 www.astenterprises.com.pk
@@ -323,7 +352,6 @@ www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
 www.controliumbt.com
-www.craftsparkdimensions.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
@@ -333,6 +361,7 @@ www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
+www.kammwv.cc
 www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
