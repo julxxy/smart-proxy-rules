@@ -1,21 +1,24 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-17 18:05:30 (UTC)                      #
+# Last updated: 2026-09-18 06:43:26 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 421
+# Number of entries: 412
 0following.com
+123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198348.gl
 22qq-client.com
 4eclient.com
+6ak-tehnik.si
 abilityindisabilityindia.org
 acc.jiangsujiaxue.com
 acms.saleseos.com
+acrilicoporto.pt
 addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
@@ -26,9 +29,9 @@ alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alphapicaficagency.com
-alphasaling.site
 alternativas.ru
 amaamn.com
+api-relay.cc
 api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
@@ -75,7 +78,6 @@ compuserviceonline.com.br
 contididit.conti.pk
 continentalgroup.net.in
 coolairesgroup.com
-copiose.org
 coralasargetia.ro
 cpc188.day
 crystalpvp.ru
@@ -89,7 +91,6 @@ dcfpp.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
-debloatex.com
 debugify.net
 delp-heizungsbau.de
 dexios.co.za
@@ -102,7 +103,6 @@ dl.dzqzd.com
 dl.natgo.cn
 dnswwt.club
 doc.e-statements.app
-docmntageant.com
 donkeytourscroatia.com
 donutclients.net
 down.54nb.com
@@ -127,23 +127,22 @@ envs.sh
 epanpano.com
 epibenie.dz
 epsinf.com
-eventourarte.cl
 fakers.co.jp
 familyaddons.com
 farschid.de
 fd.v2downf.shop
-ficus.in
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
 flyingmutts.com
 fmrio.com
+foundrysourcings.co.uk
 fukt.link
 fullstacknir.com
 funnymap.net
 fz.tiansys.cn
-galerisenimutiara.com
 gamblerigmod.org
 gboutros.howto.rocks
 geoxsecurity.ro
@@ -153,19 +152,12 @@ get.acitvated.win
 get.acivated.win
 get.acrivated.win
 get.actiated.win
-get.actiavted.win
-get.activaed.win
 get.activatd.win
-get.activatde.win
 get.activatedd.win
 get.activates.win
-get.activeted.win
 get.activtaed.win
-get.activted.win
 get.actrivated.win
 get.acttivated.win
-get.actvated.win
-get.atcivated.win
 get.ativated.win
 get.cativated.win
 get.ctivated.win
@@ -173,6 +165,8 @@ get.sctivated.win
 ghostclient.net
 glbeletronica.com.br
 globalbank.us
+gobiotechpestcontrol.com
+gonzaskid-1.paiza-user-free.cloud
 gpsmarocpro.com
 grupomcperu.com
 harmeetmotors.com
@@ -180,24 +174,26 @@ hasalltalent.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
+hpfile.cyou
 hseda.com
 htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
+imap.usslimsounds.com
 impectorinternational.com
+indonesias.me
 indusenterprises.co
 invmove.com
 ircftp.net
 isiore.com.co
+ita-airwaysva.com
 itssprout.com
-iyn4ce9o.casero.store
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 jswen.com
-k3p8wz1n.bvcbx.store
 kavacanada.ca
 kenwillzltd.com
 khavar.com
@@ -212,7 +208,6 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
-lumacrea.com
 luminexclient.com
 luminouspower.com.pk
 m.jkoa.co.kr
@@ -220,9 +215,9 @@ m.meta-dm.com
 maidforyou1985.com
 malupieng.com.br
 marlowclient.com
-massgravel.dev
-meteorclientplus.com
+massgravel.net
 meteorclients.com
+metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -239,14 +234,12 @@ ncxps.com
 noamaddons.com
 noithaticon.vn
 nova-client.com
-nusatoyota.co.id
 ny.lshdw.cc
 odinclient.com
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
 onfiltre.com.tr
-onlocity.com
 opalcraftsmp.com
 outpost.co.ke
 p3.zbjimg.com
@@ -266,7 +259,6 @@ prestige-client.org
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
-q7k2m9xb.us-theeloncode.com
 qiniuyunxz.yxflzs.com
 qv.co.ke
 ramirex.ro
@@ -280,6 +272,7 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
 robertrowe.com
+roptik.com
 royalindiancurryclub.com
 rxquickpay.com
 sablayan.seasonshotelmindoro.com
@@ -308,19 +301,16 @@ skyblock-addons.com
 skyblock-extras.org
 smartermail.host
 soft.110route.com
-speddebug.com
 spgint.com
 srsorvete.com.br
 srv.conti.pk
 star.zcnet.net
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 streammobs.com
 studiogioeli.it
 support.clz.kr
-surun.info
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
@@ -337,6 +327,7 @@ theholidayroads.com
 themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
+thisisafalsepositive.st
 thtp2.volamngayxua.net
 tiacreation.club
 toolshare.com.tr
@@ -348,12 +339,14 @@ transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
-uno-play.online
+uasputnik.com
 uno-play.xyz
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 userhotels.org
+vdsina.vg
+velvetcanyonline.xyz
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -361,13 +354,13 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
 windomstatetheater.com
 windowsdiagnostics.st
 wittenhorst.eu
-wizzyaddon.com
 workerstats.net
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www.2bxvrc1.com
@@ -385,7 +378,6 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -401,6 +393,7 @@ www.namuvpn.com
 www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
+www.ojang.pe.kr
 www.okhan.net
 www.pointtohealth.com
 www.reifenquick.de
@@ -418,13 +411,11 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
-x9v2mq4t.bossbey.store
 xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
-zenithclient.com
 zhigao5191.com
 zycdjz.com
