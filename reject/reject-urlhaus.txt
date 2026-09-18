@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-18 06:43:26 (UTC)                      #
+# Last updated: 2026-09-18 17:32:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 412
+# Number of entries: 397
 0following.com
 123.ywxww.net
 1717.1000uc.com
@@ -14,7 +14,6 @@
 198348.gl
 22qq-client.com
 4eclient.com
-6ak-tehnik.si
 abilityindisabilityindia.org
 acc.jiangsujiaxue.com
 acms.saleseos.com
@@ -31,8 +30,6 @@ allendostmen.com
 alphapicaficagency.com
 alternativas.ru
 amaamn.com
-api-relay.cc
-api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
 atasapka.com.tr
@@ -48,6 +45,7 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
 breezeclient.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
@@ -93,7 +91,6 @@ dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
-dexios.co.za
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
@@ -105,16 +102,15 @@ dnswwt.club
 doc.e-statements.app
 donkeytourscroatia.com
 donutclients.net
-down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.suxiazai.com
 dreamwatchevent.com
 duct-master.com
 dulkir-mod.com
@@ -131,6 +127,7 @@ fakers.co.jp
 familyaddons.com
 farschid.de
 fd.v2downf.shop
+fdstat.vip
 file.blackint3.com
 file.uhsea.com
 filerit.com
@@ -143,29 +140,15 @@ fukt.link
 fullstacknir.com
 funnymap.net
 fz.tiansys.cn
+galerisenimutiara.com
 gamblerigmod.org
 gboutros.howto.rocks
 geoxsecurity.ro
 gestionycobranzas.com
 gestroom.it
-get.acitvated.win
-get.acivated.win
-get.acrivated.win
-get.actiated.win
-get.activatd.win
-get.activatedd.win
-get.activates.win
-get.activtaed.win
-get.actrivated.win
-get.acttivated.win
-get.ativated.win
-get.cativated.win
-get.ctivated.win
-get.sctivated.win
 ghostclient.net
 glbeletronica.com.br
 globalbank.us
-gobiotechpestcontrol.com
 gonzaskid-1.paiza-user-free.cloud
 gpsmarocpro.com
 grupomcperu.com
@@ -187,9 +170,7 @@ indusenterprises.co
 invmove.com
 ircftp.net
 isiore.com.co
-ita-airwaysva.com
 itssprout.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -200,6 +181,7 @@ khavar.com
 kimyen.net
 konsor.ru
 kryptonclient-cracked.com
+kryptonclient-donutsmp.com
 kryptonclient.vip
 landonirwin.com
 lawfirm.paperbirdtech.com
@@ -208,6 +190,7 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
+lumacrea.com
 luminexclient.com
 luminouspower.com.pk
 m.jkoa.co.kr
@@ -217,7 +200,6 @@ malupieng.com.br
 marlowclient.com
 massgravel.net
 meteorclients.com
-metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -234,8 +216,10 @@ ncxps.com
 noamaddons.com
 noithaticon.vn
 nova-client.com
+nusatoyota.co.id
 ny.lshdw.cc
 odinclient.com
+oim.doganltd.com.tr
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
@@ -253,6 +237,7 @@ polarclient.net
 polinexclient.org
 portal.onepansol.site
 postelnini.mk
+powershell-storage.vg
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 prestige-client.org
@@ -261,6 +246,7 @@ public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
+radium-client.org
 ramirex.ro
 rcf.co.mz
 rdm.91yunma.cn
@@ -305,6 +291,7 @@ spgint.com
 srsorvete.com.br
 srv.conti.pk
 star.zcnet.net
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -318,7 +305,6 @@ tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 taunahi.st
-tecunonline.com
 tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
@@ -345,7 +331,6 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 userhotels.org
-vdsina.vg
 velvetcanyonline.xyz
 versaclean.com.br
 veryboys.com
@@ -354,7 +339,6 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
@@ -378,6 +362,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
