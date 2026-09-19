@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-19 06:20:24 (UTC)                      #
+# Last updated: 2026-09-19 06:46:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 388
+# Number of entries: 387
 0following.com
 123.ywxww.net
 1717.1000uc.com
@@ -182,7 +182,6 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
-lumacrea.com
 luminexclient.com
 luminouspower.com.pk
 m.jkoa.co.kr
