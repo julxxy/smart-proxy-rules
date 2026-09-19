@@ -6,6 +6,10 @@ payload:
   - 'DOMAIN,apple-relay.fastly-edge.com,PROXY'
   - 'DOMAIN,cp4.cloudflare.com,PROXY'
   - 'DOMAIN,apple-relay.apple.com,PROXY'
+  - 'DOMAIN,gspe1-ssl.ls.apple.com,PROXY'
+  - 'DOMAIN,inference.issuer.apple.com,Proxy'
+  - 'DOMAIN,waitlist.issuer.apple.com,Proxy'
+  - 'DOMAIN,mask-api.icloud.com,Proxy'
 
   # Source: bybit
   - 'DOMAIN-SUFFIX,bybit.com,PROXY'

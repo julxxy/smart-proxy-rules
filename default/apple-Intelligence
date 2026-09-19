@@ -9,3 +9,7 @@ DOMAIN,cp4.cloudflare.com,PROXY
 # Apple Intelligence Extension
 DOMAIN,apple-relay.apple.com,PROXY
 DOMAIN,gspe1-ssl.ls.apple.com,PROXY
+# Siri AI / PCC 令牌签发端点
+DOMAIN,inference.issuer.apple.com,Proxy
+DOMAIN,waitlist.issuer.apple.com,Proxy
+DOMAIN,mask-api.icloud.com,Proxy
