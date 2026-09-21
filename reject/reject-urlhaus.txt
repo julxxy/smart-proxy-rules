@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-21 14:06:26 (UTC)                      #
+# Last updated: 2026-09-21 15:17:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -47,7 +47,6 @@ book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
-buruujtech.com
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
@@ -61,6 +60,7 @@ checkfivem.com
 cheetoclient.com
 chiroartist.com
 chuguadventures.co.tz
+cid.gov.so
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
@@ -110,6 +110,7 @@ easycryptos.org
 easyrentbyowner.com
 electri.billregulator.com
 elisans.novayonetim.com
+elmejorlocal.com.co
 en.taichuan.com
 endpoint.project0.cc
 envs.sh
@@ -120,8 +121,10 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
+fluidfilm.bg
 flyingmutts.com
 fmrio.com
 forgewillow.com
@@ -130,6 +133,7 @@ fullstacknir.com
 fz.tiansys.cn
 galerisenimutiara.com
 gboutros.howto.rocks
+geeconglobal.com
 genovaw.com
 geoxsecurity.ro
 gestionycobranzas.com
@@ -164,13 +168,12 @@ khavar.com
 kimyen.net
 kineticlenz.com
 konsor.ru
-lahoreshoes.com
 landonirwin.com
 lawfirm.paperbirdtech.com
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
-loop-lumen.com
+luizmatoso.com.br
 lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
@@ -192,13 +195,12 @@ mysura.it
 n.vs108.com
 ncxps.com
 noithaticon.vn
-nusatoyota.co.id
+northernvirginiaeyeassociates.com
 ny.lshdw.cc
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
 onfiltre.com.tr
-onyx-medical.com
 opalcraftsmp.com
 opsecmod.st
 outpost.co.ke
@@ -206,7 +208,9 @@ p3.zbjimg.com
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
+physicsbyfiziks.org
 planetariumobil.ro
+plenia.pt
 polinexclient.org
 portal.onepansol.site
 postelnini.mk
@@ -220,7 +224,6 @@ pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
 ramirex.ro
-raqmnh.com
 rathodsoftware.in
 rcf.co.mz
 rdm.91yunma.cn
@@ -258,6 +261,7 @@ sk-comtel.com
 skymoders.top
 smartermail.host
 soft.110route.com
+spgint.com
 srsorvete.com.br
 srv.conti.pk
 star.zcnet.net
@@ -282,7 +286,6 @@ tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
-thehaider.com
 theholidayroads.com
 themaintechnician.us
 thementordirectory.com
@@ -303,7 +306,6 @@ twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-vdsina.vg
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -311,13 +313,11 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webcstore.pw
 website.mypetapp.co.za
 windomstatetheater.com
 windowsdiagnostics.st
 wittenhorst.eu
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
-www.2bxvrc1.com
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
