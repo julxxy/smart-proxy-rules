@@ -1,14 +1,18 @@
 payload:
   # Source: apple-Intelligence
-  - 'DOMAIN,guzzoni.apple.com,PROXY'
-  - 'DOMAIN-SUFFIX,smoot.apple.com,PROXY'
-  - 'DOMAIN,apple-relay.cloudflare.com,PROXY'
-  - 'DOMAIN,apple-relay.fastly-edge.com,PROXY'
-  - 'DOMAIN,cp4.cloudflare.com,PROXY'
-  - 'DOMAIN,apple-relay.apple.com,PROXY'
-  - 'DOMAIN,gspe1-ssl.ls.apple.com,PROXY'
+  - 'DOMAIN-SUFFIX,guzzoni.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,smoot.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,api-siri-prod.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,apple-relay.cloudflare.com,Proxy'
+  - 'DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Proxy'
+  - 'DOMAIN-SUFFIX,cp4.cloudflare.com,Proxy'
+  - 'DOMAIN-SUFFIX,apple-relay.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,apple-relay.akamaized.net,Proxy'
+  - 'DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,Proxy'
   - 'DOMAIN,inference.issuer.apple.com,Proxy'
   - 'DOMAIN,waitlist.issuer.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Proxy'
+  - 'DOMAIN-SUFFIX,gateway.icloud.com,Proxy'
   - 'DOMAIN,mask-api.icloud.com,Proxy'
 
   # Source: bybit
