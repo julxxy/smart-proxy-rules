@@ -1,14 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-23 07:02:58 (UTC)                      #
+# Last updated: 2026-09-23 18:32:16 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 382
+# Number of entries: 383
 03teste.com
-0following.com
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -17,10 +16,8 @@
 4eclient.com
 acc.jiangsujiaxue.com
 acms.saleseos.com
-acrilicoporto.pt
 activatef.win
 adcentral.com.mx
-addurltogoogle.com
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
@@ -38,6 +35,7 @@ audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 basequill9.com
+beak.in
 beoauto.alexion.rs
 blankeyeo.com
 blessdayservices.org
@@ -46,6 +44,8 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
+bratarfood.com
 breezeclient.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
@@ -70,7 +70,6 @@ cloud.pearlpeel.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 compuserviceonline.com.br
-contididit.conti.pk
 continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
@@ -81,18 +80,18 @@ crystalpvp.ru
 cs.go.kg
 d.14yaa.com
 d.wanyouxi7.com
+dailyushistory.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
-dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
+detierra.cl
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
 divvanews.com
-dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -102,7 +101,6 @@ down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
 download.caihong.com
-download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
@@ -123,6 +121,7 @@ escrowbank.co
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
+ficus.in
 file.blackint3.com
 file.uhsea.com
 filerit.com
@@ -132,6 +131,7 @@ fmrio.com
 fukt.link
 fullstacknir.com
 funnymap.net
+funrat.co
 fz.tiansys.cn
 galerisenimutiara.com
 gamblerigmod.org
@@ -152,13 +152,11 @@ hitman-pro.ru
 hitstation.nl
 hobobot.net
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-indusenterprises.co
 iniciaonline.com
 invmove.com
 ircftp.net
@@ -176,6 +174,7 @@ kimyen.net
 kineticlenz.com
 konsor.ru
 kryptonclient-cracked.com
+kupunasvolpiano.com
 landonirwin.com
 lawfirm.paperbirdtech.com
 lindnerelektroanlagen.de
@@ -189,6 +188,7 @@ luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
+makemewin.club
 malupieng.com.br
 massgravel.net
 masterplasticpack.com
@@ -201,15 +201,14 @@ mkconstructions.net
 mnurlogistics.az
 mogimall.com
 muaklekcoop.com
+muledo.com
 munihuacho.gob.pe
 mysura.it
 n.vs108.com
 ncxps.com
-neilshairdressers.co.uk
 noamaddons.com
 noithaticon.vn
 nova-client.com
-nusatoyota.co.id
 ny.lshdw.cc
 obearo.com
 odinclient.com
@@ -235,12 +234,10 @@ portal.onepansol.site
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
-prestige-client.org
 prestigeclient.st
 proalamir.dz
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
-pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
 ramirex.ro
@@ -253,7 +250,9 @@ reifenquick.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
+rheddh.com
 robertrowe.com
+romeopirlanta.com
 royalcuts.co.uk
 royalindiancurryclub.com
 rxquickpay.com
@@ -275,6 +274,7 @@ seputartuban.com
 sg123.net
 shipminttracking.net
 shqdown.ggzuhao.com
+sirenasultana.com
 sk-comtel.com
 skyblock-addons.com
 skyblock-extras.org
@@ -283,9 +283,12 @@ soft.110route.com
 spgint.com
 srsorvete.com.br
 star.zcnet.net
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
+streammobs.com
+support.clz.kr
 surun.info
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -309,18 +312,15 @@ tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
-tr.zhzy999.net
 trabzonmegareklamllc.shop
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
-twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 versaclean.com.br
 veryboys.com
-vgd.vg
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
@@ -348,6 +348,7 @@ www.first-security-verden.de
 www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
+www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
