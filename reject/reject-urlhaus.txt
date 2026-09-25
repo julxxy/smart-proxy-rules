@@ -1,18 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-24 18:32:16 (UTC)                      #
+# Last updated: 2026-09-25 06:46:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 392
+# Number of entries: 396
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198348.gl
+198macros.org
 22qq-client.com
 4eclient.com
+KONAKONACRICKET.COM
 acc.jiangsujiaxue.com
 acms.saleseos.com
 activegrp.co.za
@@ -25,15 +27,13 @@ alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
-amc-us.mprevive.com
 app.appzcvb.com
 areyouready.co.za
-astraia.co.za
+armoniamiddleeast.ae
 atasapka.com.tr
 audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-basequill9.com
 beak.in
 beoauto.alexion.rs
 blankeyeo.com
@@ -46,6 +46,7 @@ book.rollingvideogames.com
 brasilengenhariaecom.store
 bratarfood.com
 breezeclient.com
+breezeclient.org
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
@@ -57,23 +58,28 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
 cheetoclient.com
 chiroartist.com
+chrome.windows-browser.net
 chuguadventures.co.tz
 cid.gov.so
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
+cn.unionlever.com
+communication-hub.vg
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
+corzclient.net
+cotecsecuritygroup.com
 cpc188.day
 crazypianoswebshop.nl
-croco.cx
 crystalpvp.ru
 cs.go.kg
 cyberleak.top
@@ -91,8 +97,6 @@ delta-canvas.com
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
-divvanews.com
-dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -101,6 +105,7 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -121,6 +126,7 @@ epsinf.com
 escrowbank.co
 fakers.co.jp
 familyaddons.com
+familyaddons.org
 farschid.de
 fastsrunners.com
 fd.v2downf.shop
@@ -130,50 +136,49 @@ file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
+floppaclient.org
 flyingmutts.com
 fmrio.com
 freeclients.net
 fukt.link
+fullinstall.sbs
 fullstacknir.com
 funnymap.net
+funnymap.org
 funrat.co
 fz.tiansys.cn
 galerisenimutiara.com
 gamblerigmod.org
 gboutros.howto.rocks
+geo-foundation.vg
 geoxsecurity.ro
 gestionycobranzas.com
-gestroom.it
-glbeletronica.com.br
+gfgxcx.com
 globalbank.us
-gobiotechpestcontrol.com
+gmxx.online
 greenf.alexion.rs
 grupomcperu.com
 harmeetmotors.com
 hasalltalent.com
 helpdesk09-26.com
-hf-offshores.cc
-hhtdyj.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
-hseda.com
 htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-indusenterprises.co
 iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
 itssprout.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
+jointaxel.online
 journeylake11.com
 kavacanada.ca
 kenwillzltd.com
@@ -193,16 +198,14 @@ loop-lumen.com
 luizmatoso.com.br
 lumacrea.com
 luminexclient.com
+luminexclient.net
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
-masterplasticpack.com
 meteorclients.com
-metrics.gocloudmaps.com
-mhmehadi.top
 mibd.org
 miriamgualda.com.br
 mitreart.com
@@ -215,6 +218,7 @@ munihuacho.gob.pe
 mysura.it
 n.vs108.com
 ncxps.com
+nebula-client.org
 noamaddons.com
 noithaticon.vn
 nova-client.com
@@ -222,6 +226,7 @@ nusatoyota.co.id
 ny.lshdw.cc
 obearo.com
 odinclient.com
+odinmod.org
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
@@ -230,7 +235,7 @@ opalcraftsmp.com
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
+pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 phantom-client.com
@@ -240,9 +245,11 @@ polarclient.net
 polinexclient.org
 portal.onepansol.site
 postelnini.mk
+powershell-storage.vg
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 prestigeclient.st
+profileone.jo3.org
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
@@ -273,9 +280,11 @@ scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
+sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
+seguranca.versionnova.site
 seismophonic.com
 semencepourlavie.org
 seputartuban.com
@@ -283,6 +292,7 @@ sg123.net
 shipminttracking.net
 shqdown.ggzuhao.com
 sigmaclient.net
+sigmaclient.org
 sirenasultana.com
 sk-comtel.com
 skyblock-addons.com
@@ -292,14 +302,14 @@ soft.110route.com
 spgint.com
 spitandmalachite.com
 srsorvete.com.br
-static.topxgun.com
+static.ilclock.com
 static.youdm.cn
 stdown.dinju.com
 streammobs.com
 support.clz.kr
-surun.info
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -320,7 +330,6 @@ tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
 tr.zhzy999.net
-trabzonmegareklamllc.shop
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
@@ -328,7 +337,6 @@ twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-vdsina.vg
 versaclean.com.br
 veryboys.com
 visam.info
@@ -338,6 +346,7 @@ vrajras.com
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
+wielixclient.net
 windomstatetheater.com
 windowsdiagnostics.st
 wittenhorst.eu
@@ -355,7 +364,6 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -367,7 +375,6 @@ www.konsor.ru
 www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
-www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
@@ -392,10 +399,7 @@ xenon.studio
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
-yoauction.com
 youtransfer.net
-zaluposs.com
 zamilgroups.com
-zanderrealestate.com
 zhigao5191.com
 zycdjz.com
