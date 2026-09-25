@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-25 06:46:17 (UTC)                      #
+# Last updated: 2026-09-25 18:47:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 396
+# Number of entries: 395
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -14,6 +14,7 @@
 198macros.org
 22qq-client.com
 4eclient.com
+Cn.devglobal.biz
 KONAKONACRICKET.COM
 acc.jiangsujiaxue.com
 acms.saleseos.com
@@ -34,7 +35,6 @@ atasapka.com.tr
 audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-beak.in
 beoauto.alexion.rs
 blankeyeo.com
 blessdayservices.org
@@ -43,6 +43,7 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+booking.captcha-message-extranet.com
 brasilengenhariaecom.store
 bratarfood.com
 breezeclient.com
@@ -70,14 +71,10 @@ cid.gov.so
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
-cn.unionlever.com
-communication-hub.vg
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
-corzclient.net
-cotecsecuritygroup.com
 cpc188.day
 crazypianoswebshop.nl
 crystalpvp.ru
@@ -97,6 +94,7 @@ delta-canvas.com
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
+dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
@@ -124,6 +122,7 @@ envs.sh
 epanpano.com
 epsinf.com
 escrowbank.co
+eventourarte.cl
 fakers.co.jp
 familyaddons.com
 familyaddons.org
@@ -150,10 +149,11 @@ fz.tiansys.cn
 galerisenimutiara.com
 gamblerigmod.org
 gboutros.howto.rocks
-geo-foundation.vg
 geoxsecurity.ro
 gestionycobranzas.com
+gestroom.it
 gfgxcx.com
+glbeletronica.com.br
 globalbank.us
 gmxx.online
 greenf.alexion.rs
@@ -164,17 +164,18 @@ helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
 hobobot.net
+hseda.com
 htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
-indonesias.me
 iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
 itssprout.com
+jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -196,7 +197,6 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
-lumacrea.com
 luminexclient.com
 luminexclient.net
 luminouspower.com.pk
@@ -206,6 +206,7 @@ maidforyou1985.com
 makemewin.club
 malupieng.com.br
 meteorclients.com
+metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
 mitreart.com
@@ -245,7 +246,6 @@ polarclient.net
 polinexclient.org
 portal.onepansol.site
 postelnini.mk
-powershell-storage.vg
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 prestigeclient.st
@@ -260,7 +260,6 @@ rcf.co.mz
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
-refaccionesalma.com.mx
 reifenquick.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -287,7 +286,6 @@ sec.xiaoshabi.nl
 seguranca.versionnova.site
 seismophonic.com
 semencepourlavie.org
-seputartuban.com
 sg123.net
 shipminttracking.net
 shqdown.ggzuhao.com
@@ -302,10 +300,9 @@ soft.110route.com
 spgint.com
 spitandmalachite.com
 srsorvete.com.br
-static.ilclock.com
+static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
-streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -329,7 +326,8 @@ thtp2.volamngayxua.net
 tiacreation.club
 toolshare.com.tr
 top8onlinegame.com
-tr.zhzy999.net
+tpp.om-stock.com
+traderhype.com
 transparenciacanaa.com.br
 trtmyanmar.com
 twitch.tj
@@ -364,6 +362,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
