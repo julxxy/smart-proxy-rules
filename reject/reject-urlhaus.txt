@@ -1,21 +1,24 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-26 18:01:18 (UTC)                      #
+# Last updated: 2026-09-27 07:17:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 383
+# Number of entries: 386
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198348.gl
 198macros.org
 22qq-client.com
+31.shaderzone.org
+3brosstore.com
 4eclient.com
 Cn.devglobal.biz
 KONAKONACRICKET.COM
+a.hbweb.icu
 acc.jiangsujiaxue.com
 acms.saleseos.com
 activegrp.co.za
@@ -30,11 +33,11 @@ allendostmen.com
 alternativas.ru
 app.appzcvb.com
 areyouready.co.za
-armoniamiddleeast.ae
 atasapka.com.tr
 audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 beoauto.alexion.rs
 blankeyeo.com
 blessdayservices.org
@@ -48,8 +51,8 @@ breezeclient.org
 bridgeroad.maverickpreviews.com
 brightworks.cz
 bserail.com
-cablewireltd.site
 cambodiatouristservice.com
+capricecapitalpartners.com
 casasmediterraneas.com
 cat.dashabi.in
 cat.xiaojiji.nl
@@ -62,13 +65,11 @@ chat-server.maverickpreviews.com
 checkfivem.com
 cheetoclient.com
 chiroartist.com
-chrome.windows-browser.net
 chuguadventures.co.tz
 cid.gov.so
 cl.ssouy.com
 cloud.pearlpeel.com
 clubdetiroelpicarcho.com
-cn.unionlever.com
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
@@ -78,7 +79,6 @@ cpc188.day
 crazypianoswebshop.nl
 crystalpvp.ru
 cs.go.kg
-ctsfactory.com
 d.14yaa.com
 d.wanyouxi7.com
 dailyushistory.com
@@ -92,17 +92,19 @@ delp-heizungsbau.de
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
-dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
+down.54nb.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
+download.pdf00.cn
 download.pdf00.com
 duct-master.com
 dynga.pl
@@ -110,6 +112,7 @@ electri.billregulator.com
 elisans.novayonetim.com
 elrneba.com
 en.taichuan.com
+endpoint.project0.cc
 envs.sh
 epanpano.com
 epsinf.com
@@ -120,6 +123,7 @@ familyaddons.org
 farschid.de
 fastsrunners.com
 fd.v2downf.shop
+fdstat.vip
 ficus.in
 file.blackint3.com
 file.uhsea.com
@@ -130,20 +134,15 @@ floppaclient.org
 flyingmutts.com
 fmrio.com
 fukt.link
-fullinstall.sbs
 fullstacknir.com
 funnymap.net
-funnymap.org
 fz.tiansys.cn
 galerisenimutiara.com
 gamblerigmod.org
 gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
-gfgxcx.com
-glbeletronica.com.br
 globalbank.us
-gmxx.online
 greenf.alexion.rs
 grupomcperu.com
 harmeetmotors.com
@@ -153,7 +152,6 @@ hitman-pro.ru
 hitstation.nl
 hobobot.net
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
@@ -168,12 +166,13 @@ jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
-jointaxel.online
 kabarberita.eu.cc
 kavacanada.ca
 kenwillzltd.com
 khavar.com
+kimdoo-app.top
 kimyen.net
+kiss.a-dog.top
 konsor.ru
 kryptonclient-cracked.com
 landonirwin.com
@@ -193,7 +192,10 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
+maple30.com
 meteorclients.com
+metrics.agoxpathbet.one
+metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
 mitreart.com
@@ -224,7 +226,6 @@ opalcraftsmp.com
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
@@ -233,15 +234,16 @@ photolivebook.pro
 planetariumobil.ro
 polarclient.net
 polinexclient.org
-portal.onepansol.site
 postelnini.mk
+power.belyxhost.in
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
 prestigeclient.st
-profileone.jo3.org
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
+qiniuyunxz.yxflzs.com
+quillchant14.com
 qv.co.ke
 ramirex.ro
 rcf.co.mz
@@ -272,7 +274,6 @@ sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
-seguranca.versionnova.site
 seismophonic.com
 semencepourlavie.org
 seputartuban.com
@@ -284,19 +285,18 @@ sigmaclient.org
 sirenasultana.com
 sk-comtel.com
 skyblock-addons.com
-skyblock-extras.org
 smartermail.host
 soft.110route.com
 spgint.com
 srsorvete.com.br
 static.ilclock.com
-static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 streammobs.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swatting.wiki
 swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
@@ -320,6 +320,8 @@ top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
 trtmyanmar.com
+tryclix.com
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -329,6 +331,7 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
@@ -349,9 +352,9 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.duelvalenza.it
 www.first-security-verden.de
 www.gestroom.it
-www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
