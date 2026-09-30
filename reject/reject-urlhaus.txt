@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-09-29 19:38:19 (UTC)                      #
+# Last updated: 2026-09-30 07:44:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 374
+# Number of entries: 397
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -14,7 +14,7 @@
 198macros.org
 22qq-client.com
 4eclient.com
-4flng-filedrive.sbs
+6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion
 Cn.devglobal.biz
 acc.jiangsujiaxue.com
 acms.saleseos.com
@@ -29,11 +29,13 @@ allendostmen.com
 alternativas.ru
 app.appzcvb.com
 areyouready.co.za
+argon-client.com
 astraluxclient.com
 atasapka.com.tr
 audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 beoauto.alexion.rs
 blankeyeo.com
 blaxllantas.com
@@ -85,7 +87,7 @@ dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
-delta-canvas.com
+delphiaonline.top
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
@@ -97,7 +99,6 @@ donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -109,18 +110,21 @@ dreamwatchevent.com
 electri.billregulator.com
 elisans.novayonetim.com
 elrneba.com
+embedone.com
 en.taichuan.com
-endpoint.project0.cc
 envs.sh
 epanpano.com
 epsinf.com
 escrowbank.co
+evacompltd.site
 fakers.co.jp
 familyaddons.com
 familyaddons.org
 farschid.de
 fd.v2downf.shop
+ficus.in
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
@@ -134,9 +138,12 @@ funnymap.net
 fz.tiansys.cn
 galerisenimutiara.com
 gamblerigmod.org
+gammanort.thekielement.com
 gboutros.howto.rocks
 geoxsecurity.ro
+gestroom.it
 globalbank.us
+gobiotechpestcontrol.com
 greenf.alexion.rs
 grupomcperu.com
 harmeetmotors.com
@@ -144,27 +151,28 @@ hasalltalent.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
+hjha.ao
 hobobot.net
 hseda.com
 htdentshop.com
 icoffeecloud.com
+idid.pl
 ignetwork.us
 igra123.com
-ijbfi.pk
 impectorinternational.com
 indonesias.me
 iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
+itco.pe
 itssprout.com
 jessespridecharters.com
 jlwz.cn
-kabarberita.eu.cc
 kavacanada.ca
+kazdiyden.ru
 kenwillzltd.com
 khavar.com
-kimdoo-app.top
 kimyen.net
 konsor.ru
 kryptonclient-cracked.com
@@ -184,12 +192,14 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
+maple30.com
 meteorclients.com
-metrics.gocloudmaps.com
+meteorrejects.net
 mibd.org
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
+mm-mvshahacademy.ac.ke
 mnurlogistics.az
 mogimall.com
 moniquejhingon.com
@@ -202,6 +212,7 @@ ncxps.com
 noamaddons.com
 noithaticon.vn
 nova-client.com
+noxxclient.org
 nusatoyota.co.id
 ny.lshdw.cc
 obearo.com
@@ -213,11 +224,12 @@ okhan.net
 oknoplastik.sk
 onfiltre.com.tr
 opsecmod.st
+otkrytkadnya.ru
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
+pevrix.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
@@ -226,11 +238,13 @@ polarclient.net
 polinexclient.org
 postelnini.mk
 practisingcertificateprotection.com
+preciosasjoyitas.com.mx
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
+quillchant14.com
 qv.co.ke
 rabbids.cc
 ramirex.ro
@@ -239,10 +253,12 @@ rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
 reifenquick.de
+reinigung-kosanke.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
 rheddh.com
+riderspin.com
 robertrowe.com
 romeopirlanta.com
 royalcuts.co.uk
@@ -268,6 +284,7 @@ sg123.net
 shqdown.ggzuhao.com
 sigmaclient.net
 sigmaclient.org
+simplecheck.online
 sirenasultana.com
 sk-comtel.com
 skyblock-addons.com
@@ -276,14 +293,13 @@ soft.110route.com
 spgint.com
 srsorvete.com.br
 star.zcnet.net
-static.topxgun.com
+static.ilclock.com
 static.youdm.cn
 stdown.dinju.com
-streammobs.com
 support.clz.kr
+sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swatting.wiki
 swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
@@ -303,13 +319,17 @@ thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
 tiacreation.club
+tmcksa.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
 trtmyanmar.com
 trust-soft.cc
+tutpaste.com
+twitch.tj
 twu-hwt.org
+uasputnik.com
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -319,6 +339,7 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+webpagehelp.online
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
@@ -334,6 +355,7 @@ www.backupallfresh2030.com
 www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
+www.cakkaao.com
 www.chenwangqiao.com
 www.controliumbt.com
 www.crazywickedaddiction.com
@@ -341,6 +363,7 @@ www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
