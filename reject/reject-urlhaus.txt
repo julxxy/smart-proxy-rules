@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-02 07:41:17 (UTC)                      #
+# Last updated: 2026-10-02 19:32:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 399
+# Number of entries: 397
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -22,6 +22,7 @@ admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
 ahsniper.org
+aidlifempowerment.com
 aksiyononline.best
 alarmline.com.br
 alineeleuterio.com.br
@@ -38,8 +39,8 @@ awarenessexhibition.com
 b.9-9-11.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-beak.in
 beoauto.alexion.rs
+betwotech.com
 bins.oceanic-node.su
 blankeyeo.com
 blaxllantas.com
@@ -63,7 +64,6 @@ celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
 chiroartist.com
-chrome.browserdownloads.ru
 chrome.windows-browser.net
 chuguadventures.co.tz
 cid.gov.so
@@ -77,9 +77,9 @@ coralasargetia.ro
 cpc188.day
 crazypianoswebshop.nl
 crystalpvp.ru
+cs.go.kg
 d.14yaa.com
 d.wanyouxi7.com
-dailyushistory.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
@@ -108,6 +108,7 @@ download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 dreamwatchevent.com
+dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
@@ -141,7 +142,6 @@ gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
 globalbank.us
-gobiotechpestcontrol.com
 grantexx.com
 greenf.alexion.rs
 grupocaprem.com
@@ -158,15 +158,14 @@ hotelhungry.com
 hseda.com
 htdentshop.com
 icoffeecloud.com
-icupsa.com.mx
 ignetwork.us
 igra123.com
 impectorinternational.com
-indonesias.me
 iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
+itco.pe
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
@@ -212,14 +211,15 @@ muaklekcoop.com
 muledo.com
 munihuacho.gob.pe
 muriaspetin.es
+mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
-noamaddons.com
 noithaticon.vn
 nota-fical-online.lat
 noxxclient.org
 nsci.space
+nusatoyota.co.id
 ny.lshdw.cc
 obearo.com
 odinclient.com
@@ -251,7 +251,6 @@ profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
 pvphood.cc
 pvsa.gxfugy.cn
-qiniuyunxz.yxflzs.com
 quillchant14.com
 qv.co.ke
 rabbids.cc
@@ -288,7 +287,6 @@ semencepourlavie.org
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
-sirenasultana.com
 sk-comtel.com
 skyblock-addons.com
 smartermail.host
@@ -334,6 +332,7 @@ tutpaste.com
 twitch.tj
 twu-hwt.org
 universami.ge
+upaicdn.xinmei365.com
 upchemicals.co.in
 update-acrobatdc.shop
 update.cg100iii.com
@@ -365,7 +364,6 @@ www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -399,10 +397,10 @@ www.zhikey.com
 xaerosminimap.com
 xenon.studio
 xenonclient.com
+xiangduck.sld.tw
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
-zhigao5191.com
 zycdjz.com
