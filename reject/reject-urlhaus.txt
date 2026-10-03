@@ -1,22 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-03 07:18:11 (UTC)                      #
+# Last updated: 2026-10-03 18:17:31 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 389
+# Number of entries: 392
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198348.gl
 22qq-client.com
-4eclient.com
 Cn.devglobal.biz
 acc.jiangsujiaxue.com
 acms.saleseos.com
-acrilicoporto.pt
 adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
@@ -25,6 +23,7 @@ aidlifempowerment.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
+allowcsxan2.site
 alternativas.ru
 api.wipmania.net
 app.appzcvb.com
@@ -32,7 +31,9 @@ areyouready.co.za
 argon-client.com
 atasapka.com.tr
 audicontadores.com
+autoflotte-vergabe.de
 awarenessexhibition.com
+baainbw-vergabe.de
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
@@ -55,10 +56,11 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
+chekcms432.cc
+chibomaydan.devs.surf
 chiroartist.com
 chrome.browserdownloads.ru
 chrome.windows-browser.net
@@ -73,7 +75,6 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
-cpofficial.com
 crazypianoswebshop.nl
 crystalpvp.ru
 cs.go.kg
@@ -95,6 +96,8 @@ dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
+donutclients.org
+donutsmpclient.com
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
@@ -110,18 +113,18 @@ dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
-en.taichuan.com
 endpoint.project0.cc
 envs.sh
 epanpano.com
 epsinf.com
 escrowbank.co
-expirience.icu
+fahrzeugvergabe.de
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
 ficus.in
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
@@ -152,17 +155,14 @@ hjha.ao
 hobobot.net
 hotelhungry.com
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
-itco.pe
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
@@ -188,12 +188,12 @@ m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 makemewin.club
-malupieng.com.br
 maple30.com
 meteorclients.com
 metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
+missysgym.com
 mitreart.com
 mkconstructions.net
 mnurlogistics.az
@@ -202,13 +202,14 @@ moniquejhingon.com
 mrsweaterltd.com
 muaklekcoop.com
 muledo.com
+multiplay.at
 munihuacho.gob.pe
-muriaspetin.es
 mysura.it
 n.vs108.com
 ncxps.com
 nfadealer.top
 noithaticon.vn
+nordmann-automobilgruppe.de
 nsci.space
 nusatoyota.co.id
 ny.lshdw.cc
@@ -222,9 +223,7 @@ onfiltre.com.tr
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
-pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
@@ -276,6 +275,7 @@ sec.xiaoshabi.nl
 seismophonic.com
 semencepourlavie.org
 seputartuban.com
+sesdigitalsolutions.com
 sg123.net
 shqdown.ggzuhao.com
 sk-comtel.com
@@ -322,6 +322,7 @@ tpp.om-stock.com
 tradingengineers.in
 transparenciacanaa.com.br
 trtmyanmar.com
+truswallet.foundation
 tutpaste.com
 twitch.tj
 twu-hwt.org
@@ -356,6 +357,7 @@ www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -383,6 +385,7 @@ www.tecunonline.com
 www.test.peperoncinochepassione.it
 www.vuelaviajero.com
 www.website.mypetapp.co.za
+www.wuming0.tech
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
