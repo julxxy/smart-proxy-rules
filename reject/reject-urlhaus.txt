@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-02 19:32:23 (UTC)                      #
+# Last updated: 2026-10-03 07:18:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 397
+# Number of entries: 389
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -21,27 +21,23 @@ adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
-ahsniper.org
 aidlifempowerment.com
-aksiyononline.best
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
 api.wipmania.net
 app.appzcvb.com
-app.ezmarketz.com
 areyouready.co.za
 argon-client.com
 atasapka.com.tr
 audicontadores.com
 awarenessexhibition.com
-b.9-9-11.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 beoauto.alexion.rs
 betwotech.com
-bins.oceanic-node.su
 blankeyeo.com
 blaxllantas.com
 blessdayservices.org
@@ -64,10 +60,12 @@ celebratingseniors.net
 chat-server.maverickpreviews.com
 checkfivem.com
 chiroartist.com
+chrome.browserdownloads.ru
 chrome.windows-browser.net
 chuguadventures.co.tz
 cid.gov.so
 cl.ssouy.com
+clownguard.us
 clubdetiroelpicarcho.com
 cn.unionlever.com
 compuserviceonline.com.br
@@ -75,6 +73,7 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
+cpofficial.com
 crazypianoswebshop.nl
 crystalpvp.ru
 cs.go.kg
@@ -96,7 +95,6 @@ dl.dzqzd.com
 dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
-donutsmpcheats.org
 down.54nb.com
 down.fwqlt.com
 down.pcclear.com
@@ -118,15 +116,13 @@ envs.sh
 epanpano.com
 epsinf.com
 escrowbank.co
-fa.windows32.men
+expirience.icu
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
 ficus.in
 file.blackint3.com
-file.uhsea.com
 filerit.com
-finmonologips.top
 first-security-verden.de
 floppaclient.com
 flyingmutts.com
@@ -161,6 +157,7 @@ icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
+indonesias.me
 iniciaonline.com
 invmove.com
 ircftp.net
@@ -171,16 +168,13 @@ jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
-johnsonsvalves.cam
 kavacanada.ca
 kenwillzltd.com
 khavar.com
 kimyen.net
 konsor.ru
 landonirwin.com
-larpaddon.net
 lawfirm.paperbirdtech.com
-limelight.ie
 lindnerelektroanlagen.de
 local-update.com
 localfiles.live
@@ -197,7 +191,6 @@ makemewin.club
 malupieng.com.br
 maple30.com
 meteorclients.com
-meteorrejects.net
 metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
@@ -211,13 +204,11 @@ muaklekcoop.com
 muledo.com
 munihuacho.gob.pe
 muriaspetin.es
-mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
+nfadealer.top
 noithaticon.vn
-nota-fical-online.lat
-noxxclient.org
 nsci.space
 nusatoyota.co.id
 ny.lshdw.cc
@@ -231,6 +222,7 @@ onfiltre.com.tr
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
+palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
@@ -238,7 +230,6 @@ phantom-client.com
 photolivebook.pro
 planetariumobil.ro
 playuno.me
-pokegard.com
 polarclient.net
 polinexclient.org
 porterneuman.mx
@@ -249,8 +240,8 @@ prestige-client.live
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 public.demo.securecloudsandbox.com
-pvphood.cc
 pvsa.gxfugy.cn
+qiniuyunxz.yxflzs.com
 quillchant14.com
 qv.co.ke
 rabbids.cc
@@ -264,6 +255,7 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
 rheddh.com
+riderspin.com
 robertrowe.com
 romeopirlanta.com
 royalcuts.co.uk
@@ -278,7 +270,6 @@ scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -299,6 +290,8 @@ static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
+stratos-delta.com
+streammobs.com
 support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
@@ -314,6 +307,7 @@ tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
+tetris-supdate.xyz
 thehaider.com
 theholidayroads.com
 themaintechnician.us
@@ -331,10 +325,8 @@ trtmyanmar.com
 tutpaste.com
 twitch.tj
 twu-hwt.org
-universami.ge
 upaicdn.xinmei365.com
 upchemicals.co.in
-update-acrobatdc.shop
 update.cg100iii.com
 veryboys.com
 visam.info
@@ -394,7 +386,6 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
-xaerosminimap.com
 xenon.studio
 xenonclient.com
 xiangduck.sld.tw
@@ -403,4 +394,5 @@ xshop.com.tr
 yakult-hk.com
 youtransfer.net
 zamilgroups.com
+zhigao5191.com
 zycdjz.com
