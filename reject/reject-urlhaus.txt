@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-04 07:31:15 (UTC)                      #
+# Last updated: 2026-10-04 18:17:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,6 +12,8 @@
 198-macros.com
 198348.gl
 22qq-client.com
+4eclient.com
+Cn.devglobal.biz
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acrilicoporto.pt
@@ -33,11 +35,10 @@ astroliper.ac
 atasapka.com.tr
 audicontadores.com
 autoflotte-vergabe.de
-awarenessexhibition.com
+b2b.jewmailer.net
 baainbw-vergabe.de
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-beak.in
 beoauto.alexion.rs
 betwotech.com
 blankeyeo.com
@@ -75,8 +76,6 @@ continentalgroup.net.in
 coolairesgroup.com
 coralasargetia.ro
 cpc188.day
-cpofficial.com
-crazypianoswebshop.nl
 crystalpvp.ru
 cs.go.kg
 d.14yaa.com
@@ -99,7 +98,7 @@ doc.e-statements.app
 donkeytourscroatia.com
 donutclients.org
 donutsmpclient.com
-down.54nb.com
+donutsmpdupe.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
@@ -108,13 +107,14 @@ download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
+download.pdf00.com
 dreamwatchevent.com
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
+embedone.com
 en.taichuan.com
 endpoint.project0.cc
-envs.sh
 epanpano.com
 epsinf.com
 escrowbank.co
@@ -125,7 +125,6 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
@@ -161,12 +160,12 @@ ignetwork.us
 igra123.com
 impectorinternational.com
 indonesias.me
-iniciaonline.com
 invmove.com
 ircftp.net
 isiore.com.co
 itco.pe
 itssprout.com
+jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -191,10 +190,9 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 maple30.com
-maverick174.org
-maxxlavalink.cyou
 meteorclients.com
 meteorrejects.net
+metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
 mitreart.com
@@ -208,15 +206,12 @@ muaklekcoop.com
 muledo.com
 multiplay.at
 munihuacho.gob.pe
-mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
 nfadealer.top
 noithaticon.vn
 nordmann-automobilgruppe.de
-nusatoyota.co.id
-nutrisc.com.br
 ny.lshdw.cc
 obearo.com
 odinclient.com
@@ -224,6 +219,7 @@ odinclient.st
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
+onfiltre.com.tr
 onlyfiles.com
 opsecmod.st
 outpost.co.ke
@@ -244,6 +240,7 @@ preciosasjoyitas.com.mx
 prestige-client.live
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
+project0.cc
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
@@ -260,6 +257,7 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
 rheddh.com
+riderspin.com
 robertrowe.com
 romeopirlanta.com
 royalcuts.co.uk
@@ -290,17 +288,16 @@ soft.110route.com
 spgint.com
 sqpengg.com
 srsorvete.com.br
+star.zcnet.net
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stratos-delta.com
-streammobs.com
 support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -323,6 +320,7 @@ tmcksa.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
+traderhype.com
 tradingengineers.in
 transparenciacanaa.com.br
 trtmyanmar.com
@@ -332,12 +330,14 @@ twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
+upload.filehost.lol
 veryboys.com
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
 website.mypetapp.co.za
+wicresetconnect.com
 widexenmexico.com.mx
 wielixclient.com
 wielixclient.net
