@@ -1,27 +1,24 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-07 20:08:13 (UTC)                      #
+# Last updated: 2026-10-08 08:14:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 403
+# Number of entries: 397
+123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198348.gl
 22qq-client.com
-3.zhzy999.net
-3.zhzy999.net3.zhzy999.net
-31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 4eclient.com
-Cn.devglobal.biz
 acc.jiangsujiaxue.com
 acms.saleseos.com
 acrilicoporto.pt
-adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
+aetherius.live
 aftelecom.com.br
 aidlifempowerment.com
 aksiyononline.best
@@ -32,16 +29,18 @@ alotic.net
 alternativas.ru
 andbake.cam
 aolgepacklng.com
-api.darkside.cy
 api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
 argon-client.com
-astroliper.ac
+atasapka.com.tr
 athuselevadores.com.br
+b.clu-e.eu
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beoauto.alexion.rs
+bergmann-automobile.de
+beschaffung-portal.de
 blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
@@ -59,7 +58,9 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
+cepde.org
 chat-server.maverickpreviews.com
 checkfivem.com
 chiroartist.com
@@ -69,6 +70,7 @@ cl.ssouy.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 compuserviceonline.com.br
+continentalgroup.net.in
 coolairesgroup.com
 cpc188.day
 cpofficial.com
@@ -82,16 +84,16 @@ dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
 debugify.net
+deffnelreports.bramblequarz.ru
 delp-heizungsbau.de
 delta-canvas.com
-devruntime.cy
 dezcom.com
-dfd.zhzy999.net
 dinamikakargo.com
 disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
+docs.cs-supplements.de
 donkeytourscroatia.com
 donutclients.st
 donutdupe.com
@@ -109,18 +111,19 @@ dreamwatchevent.com
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
+embedone.com
 en.taichuan.com
 epanpano.com
 escrowbank.co
-exo-api.tf
+evergabe-bund.de
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
 fibernetperu.pe
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
-fkjhsdfg478fdm.com
 flocmaterials.shop
 floppaclient.com
 flyingmutts.com
@@ -128,13 +131,12 @@ fmrio.com
 fucktermedfir.st
 fujeigroup.com
 fukt.link
-fullhouse.ae
 fullstacknir.com
 fz.tiansys.cn
 galerisenimutiara.com
 gboutros.howto.rocks
-geo-foundation.vg
 geoxsecurity.ro
+gestroom.it
 gitrm.cfd
 globalbank.us
 gloryhaven.org
@@ -144,34 +146,30 @@ greenf.alexion.rs
 growgreenhorizons.com
 grupomcperu.com
 gutando.com
-hand.genddos.st
 harmeetmotors.com
 hasalltalent.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 horno-rafelet.es
 hotelhungry.com
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 ikovrsps.com
 impectorinternational.com
 indonesias.me
+intelli-sys.co.zw
 invmove.com
 ircftp.net
 isiore.com.co
-itco.pe
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 kavacanada.ca
-kdglsj93fdslkg.com
 kenwillzltd.com
 khavar.com
 kimyen.net
@@ -189,11 +187,11 @@ luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-mailservicesgroup.org
 makemewin.club
 malupieng.com.br
 manmenduster.online
 maple30.com
+marlowclient.com
 meteorclients.com
 meteorrejects.net
 metrics.gocloudmaps.com
@@ -213,10 +211,8 @@ mysura.it
 n.vs108.com
 ncxps.com
 nd.tdpqnf.com
-new-orleans.pl
 noithaticon.vn
 nusatoyota.co.id
-ny.lshdw.cc
 obearo.com
 odinclient.st
 ohhhhhmoney.com
@@ -231,11 +227,11 @@ p3.zbjimg.com
 palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
-pee-files.nl
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
 planetariumobil.ro
+plf7x.valci.store
 polarclient.net
 polinexclient.org
 porterneuman.mx
@@ -266,7 +262,6 @@ rheddh.com
 riderspin.com
 robertrowe.com
 romeopirlanta.com
-royalcuts.co.uk
 royalindiancurryclub.com
 sablayan.seasonshotelmindoro.com
 safeifm.com
@@ -277,11 +272,11 @@ scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
+sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
 seismophonic.com
-seitinloelinsa.com
 semencepourlavie.org
 seputartuban.com
 severidades.cfd
@@ -294,6 +289,7 @@ soft.110route.com
 spgint.com
 sqpengg.com
 srsorvete.com.br
+stanarcservice.com
 star.zcnet.net
 static.ilclock.com
 static.topxgun.com
@@ -329,12 +325,10 @@ tmcksa.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
-tr.zhzy999.net
 transparenciacanaa.com.br
 trtmyanmar.com
 tttkkkssww.com
 twitch.tj
-twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -344,7 +338,6 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-w.zhzy999.net
 webcstore.pw
 website.mypetapp.co.za
 wicresetconnect.com
@@ -403,6 +396,7 @@ www.zamilgroups.com
 www.zhikey.com
 xenon.studio
 xenonclient.com
+xiazailianjie.com
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
