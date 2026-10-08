@@ -1,21 +1,20 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-08 08:14:21 (UTC)                      #
+# Last updated: 2026-10-08 20:14:10 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 397
+# Number of entries: 394
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
-198348.gl
 22qq-client.com
 4eclient.com
 acc.jiangsujiaxue.com
 acms.saleseos.com
-acrilicoporto.pt
+adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
 aetherius.live
@@ -33,11 +32,12 @@ api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
 argon-client.com
-atasapka.com.tr
+ascomsecurity.com.au
 athuselevadores.com.br
 b.clu-e.eu
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 beoauto.alexion.rs
 bergmann-automobile.de
 beschaffung-portal.de
@@ -51,6 +51,7 @@ book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
 bserail.com
 bumcoinc.site
+c2.mc-live.online
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
@@ -69,11 +70,9 @@ cid.gov.so
 cl.ssouy.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
-compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
 cpc188.day
-cpofficial.com
 crystalpvp.ru
 cs.go.kg
 d.14yaa.com
@@ -86,7 +85,6 @@ deagroup-ks.com
 debugify.net
 deffnelreports.bramblequarz.ru
 delp-heizungsbau.de
-delta-canvas.com
 dezcom.com
 dinamikakargo.com
 disk.accord1key.cn
@@ -96,6 +94,7 @@ dl.natgo.cn
 docs.cs-supplements.de
 donkeytourscroatia.com
 donutclients.st
+donutclientsmods.xyz
 donutdupe.com
 donutsmpclient.com
 down.fwqlt.com
@@ -151,19 +150,21 @@ hasalltalent.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
+hobobot.net
 horno-rafelet.es
 hotelhungry.com
 hseda.com
+htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 ikovrsps.com
 impectorinternational.com
 indonesias.me
-intelli-sys.co.zw
 invmove.com
 ircftp.net
 isiore.com.co
+itco.pe
 itssprout.com
 jawaratekno.com
 jenniferloeffler.com
@@ -205,7 +206,6 @@ moneylord.org
 mrsweaterltd.com
 muaklekcoop.com
 muledo.com
-multiplay.at
 munihuacho.gob.pe
 mysura.it
 n.vs108.com
@@ -224,7 +224,6 @@ onfiltre.com.tr
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
@@ -238,7 +237,6 @@ porterneuman.mx
 postelnini.mk
 preciosasjoyitas.com.mx
 prestigeclient.st
-primeemberq.cfd
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 project0.cc
 public.demo.securecloudsandbox.com
@@ -272,7 +270,6 @@ scanbot.me
 scoala1gherla.ro
 screenconnect.pro
 scrroeder.com
-sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
@@ -296,6 +293,7 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stellaspicy.org
+streammobs.com
 sugarfreedcup.co.za
 summitcapitalpatners.info
 support.clz.kr
@@ -307,6 +305,7 @@ talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
+tartaklegnica.pl
 taunahi.st
 tecunonline.com
 tehnomag.rs
@@ -319,7 +318,6 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thisisafalsepositive.st
-thtp2.volamngayxua.net
 tiacreation.club
 tmcksa.com
 toolshare.com.tr
@@ -329,6 +327,7 @@ transparenciacanaa.com.br
 trtmyanmar.com
 tttkkkssww.com
 twitch.tj
+twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
@@ -338,7 +337,6 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-webcstore.pw
 website.mypetapp.co.za
 wicresetconnect.com
 widexenmexico.com.mx
@@ -365,7 +363,6 @@ www.duelvalenza.it
 www.first-security-verden.de
 www.hostingcloud.science
 www.hqsblog.com
-www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.kenwillzltd.com
