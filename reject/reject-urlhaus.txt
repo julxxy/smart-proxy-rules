@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-09 08:13:19 (UTC)                      #
+# Last updated: 2026-10-09 19:47:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 398
+# Number of entries: 395
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -14,11 +14,9 @@
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
-3brosstore.com
 4eclient.com
 acc.jiangsujiaxue.com
 acms.saleseos.com
-acrilicoporto.pt
 adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
@@ -51,9 +49,11 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+briannacorporation.com
 bridgeroad.maverickpreviews.com
 bserail.com
 bumcoinc.site
+c2.teamzeroday.net
 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 cambodiatouristservice.com
 casasmediterraneas.com
@@ -62,7 +62,9 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
+cepde.org
 chat-server.maverickpreviews.com
 checkfivem.com
 chiroartist.com
@@ -76,7 +78,6 @@ compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
 cpc188.day
-cpofficial.com
 crystalpvp.ru
 cs.go.kg
 d.14yaa.com
@@ -89,11 +90,10 @@ deagroup-ks.com
 debugify.net
 deffnelreports.bramblequarz.ru
 delp-heizungsbau.de
-delta-canvas.com
 dezcom.com
 dfd.zhzy999.net
 dinamikakargo.com
-dl.1003b.56a.com
+disk.accord1key.cn
 dl.dzqzd.com
 dl.natgo.cn
 docs.cs-supplements.de
@@ -110,6 +110,7 @@ download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
+download.pdf00.com
 dreamwatchevent.com
 dynga.pl
 electri.billregulator.com
@@ -123,6 +124,7 @@ fakers.co.jp
 farschid.de
 fd.v2downf.shop
 fibernetperu.pe
+ficus.in
 file.blackint3.com
 filerit.com
 first-security-verden.de
@@ -138,7 +140,6 @@ galerisenimutiara.com
 gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
-gitrm.cfd
 globalbank.us
 gloryhaven.org
 grantexx.com
@@ -161,6 +162,7 @@ ignetwork.us
 igra123.com
 ikovrsps.com
 impectorinternational.com
+indeanapolice.cc
 indonesias.me
 intelli-sys.co.zw
 invmove.com
@@ -182,7 +184,6 @@ lawfirm.paperbirdtech.com
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
-loop-lumen.com
 luizmatoso.com.br
 lumacrea.com
 luminexclient.net
@@ -198,6 +199,7 @@ meteorclients.com
 meteorrejects.net
 metrics.gocloudmaps.com
 mibd.org
+micstndasap.world
 miriamgualda.com.br
 mitreart.com
 mkconstructions.net
@@ -214,16 +216,14 @@ n.vs108.com
 ncxps.com
 nd.tdpqnf.com
 noithaticon.vn
-nusatoyota.co.id
 obearo.com
 odinclient.st
-oim.doganltd.com.tr
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
-omskin.org
 onfiltre.com.tr
 opsecmod.st
+osbot.net
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
@@ -232,7 +232,6 @@ pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
-planetariumobil.ro
 plf7x.valci.store
 polarclient.net
 polinexclient.org
@@ -247,7 +246,6 @@ pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 quillchant14.com
 qv.co.ke
-qwfwhg4.lol
 rabbids.cc
 ramirex.ro
 razao.pt
@@ -283,7 +281,6 @@ semencepourlavie.org
 seputartuban.com
 severidades.cfd
 sg123.net
-shqdown.ggzuhao.com
 sk-comtel.com
 skyblock-addons.com
 smartermail.host
@@ -293,7 +290,6 @@ sqpengg.com
 srsorvete.com.br
 stanarcservice.com
 static.ilclock.com
-static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stellaspicy.org
@@ -303,7 +299,6 @@ support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -315,6 +310,7 @@ tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
+thehaider.com
 theholidayroads.com
 themaintechnician.us
 thementordirectory.com
@@ -327,9 +323,11 @@ top8onlinegame.com
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
+tronzadorasnng.com
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
+upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 uu.v2raynapps.com.cn
@@ -340,9 +338,7 @@ vizyonuniversitesi.web.tr
 vrajras.com
 w.zhzy999.net
 w5q.eu
-webcstore.pw
 website.mypetapp.co.za
-wicresetconnect.com
 widexenmexico.com.mx
 wielixclient.com
 wielixclient.net
@@ -380,6 +376,7 @@ www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
 www.okhan.net
+www.osmb.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
@@ -388,8 +385,8 @@ www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
 www.tdejb.com
-www.tecunonline.com
 www.test.peperoncinochepassione.it
+www.tmcksa.com
 www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
