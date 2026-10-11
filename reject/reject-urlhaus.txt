@@ -1,12 +1,14 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-10 18:56:17 (UTC)                      #
+# Last updated: 2026-10-11 08:02:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 398
+# Number of entries: 399
+035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
+0807.st
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -23,8 +25,6 @@ adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
-aidlifempowerment.com
-aksiyononline.best
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
@@ -32,27 +32,28 @@ alternativas.ru
 api.wipmania.net
 app.appzcvb.com
 areyouready.co.za
-ascomsecurity.com.au
+astroliper.ac
+atasapka.com.tr
 athuselevadores.com.br
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
 beoauto.alexion.rs
-bergmann-automobile.de
-beschaffung-portal.de
 blankeyeo.com
+blaze-x.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
+breezeclient.com
 briannacorporation.com
 bridgeroad.maverickpreviews.com
+brows-check.codes
 bserail.com
 bumcoinc.site
 c2.teamzeroday.net
-c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 cambodiatouristservice.com
 casasmediterraneas.com
 cat.dashabi.in
@@ -62,8 +63,10 @@ catbaparadisehotel.com.vn
 cdaonline.com.ar
 cdn.file6.goodid.com
 celebratingseniors.net
+cepde.org
 chat-server.maverickpreviews.com
 checkfivem.com
+cheetoclient.com
 chiroartist.com
 chuguadventures.co.tz
 cid.gov.so
@@ -88,17 +91,18 @@ deagroup-ks.com
 deathboundcraft.com
 debugify.net
 delp-heizungsbau.de
+delta-canvas.com
 dezcom.com
 dfd.zhzy999.net
 dinamikakargo.com
+disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
-dl.natgo.cn
 donkeytourscroatia.com
-donutclientsmods.xyz
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -110,21 +114,19 @@ dreamwatchevent.com
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
-embedone.com
 en.taichuan.com
 epanpano.com
 escrowbank.co
-evergabe-bund.de
 exec-roblox.com
+fable-shine.com
 fakers.co.jp
+familyaddons.com
 farschid.de
 fd.v2downf.shop
 ficus.in
 file.blackint3.com
-file.uhsea.com
 filerit.com
 first-security-verden.de
-flocmaterials.shop
 floppaclient.com
 flyingmutts.com
 fmrio.com
@@ -159,7 +161,6 @@ ignetwork.us
 igra123.com
 ikovrsps.com
 impectorinternational.com
-indonesias.me
 intelli-sys.co.zw
 invmove.com
 ircftp.net
@@ -175,6 +176,7 @@ kenwillzltd.com
 khavar.com
 kimyen.net
 konsor.ru
+kryptonclient-cracked.com
 landonirwin.com
 lawfirm.paperbirdtech.com
 lindnerelektroanlagen.de
@@ -182,6 +184,8 @@ local-update.com
 lomejordesalamanca.es
 loop-lumen.com
 luizmatoso.com.br
+lumacrea.com
+luminexclient.com
 luminexclient.net
 luminouspower.com.pk
 m.jkoa.co.kr
@@ -189,7 +193,6 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
-mandarin.net.au
 maple30.com
 marlowclient.com
 meteorclients.com
@@ -206,14 +209,15 @@ mogimall.com
 mrsweaterltd.com
 muaklekcoop.com
 muledo.com
+multiplay.at
 munihuacho.gob.pe
 mysura.it
-n.vs108.com
 natashamohan.com
 ncxps.com
 nd.tdpqnf.com
 niggersmp.net
 noithaticon.vn
+nova-client.com
 nusatoyota.co.id
 obearo.com
 odinclient.st
@@ -237,7 +241,6 @@ polinexclient.org
 porterneuman.mx
 postelnini.mk
 preciosasjoyitas.com.mx
-prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 project0.cc
 public.demo.securecloudsandbox.com
@@ -262,13 +265,12 @@ rheddh.com
 riderspin.com
 robertrowe.com
 romeopirlanta.com
+rosirs-edu.com
 royalindiancurryclub.com
 rxb.immortales.fun
 sablayan.seasonshotelmindoro.com
 safeifm.com
-sales.ifree.page
 samiksha.com.sg
-sayosay.cc
 scanbot.me
 scoala1gherla.ro
 screenconnect.pro
@@ -281,6 +283,7 @@ semencepourlavie.org
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
+sigmaclient.net
 sk-comtel.com
 skyblock-addons.com
 smartermail.host
@@ -302,13 +305,13 @@ sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swervimgbackj.top
-swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tartaklegnica.pl
 taunahi.st
+techbud.ro
 tecunonline.com
 tehnomag.rs
 tengfeidn.cn
@@ -324,7 +327,6 @@ tiacreation.club
 tmcksa.com
 toolshare.com.tr
 top8onlinegame.com
-tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
 tronzadorasnng.com
@@ -334,7 +336,6 @@ twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-uu.v2raynapps.com.cn
 veryboys.com
 visam.info
 vizyonuniversitesi.com.tr
@@ -342,6 +343,7 @@ vizyonuniversitesi.web.tr
 vrajras.com
 w.zhzy999.net
 w5q.eu
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
@@ -364,11 +366,10 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
-www.epibenie.dz
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
-www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
 www.kenwillzltd.com
 www.khavar.com
@@ -384,7 +385,6 @@ www.osmb.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
-www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
 www.ss-01.com
 www.starcountry.net
@@ -397,6 +397,7 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
+xeno-cheats.xyz
 xenon.studio
 xenonclient.com
 xshop.com.tr
