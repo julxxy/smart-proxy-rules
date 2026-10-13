@@ -1,15 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-12 22:11:17 (UTC)                      #
+# Last updated: 2026-10-13 08:38:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 419
-035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
-0807.st
-123.ywxww.net
+# Number of entries: 426
 1717.1000uc.com
 198-macros.com
 22qq-client.com
@@ -22,11 +19,12 @@
 OSMB.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
+acrilicoporto.pt
 activegrp.co.za
-adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
+ahsniper.org
 aidlifempowerment.com
 alarmline.com.br
 alineeleuterio.com.br
@@ -35,13 +33,13 @@ alternativas.ru
 app.appzcvb.com
 areyouready.co.za
 argon-client.com
-astroliper.ac
 atasapka.com.tr
 athuselevadores.com.br
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
+beamtechmacros.com
 beoauto.alexion.rs
-blankeyeo.com
 blaze-x.com
 blessdayservices.org
 blogs.sokun.jp
@@ -52,9 +50,10 @@ book.rollingvideogames.com
 breezeclient.com
 briannacorporation.com
 bridgeroad.maverickpreviews.com
-brows-check.codes
 bserail.com
 bumcoinc.site
+bvmatqnam.com.vn
+c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud
 c2.teamzeroday.net
 cambodiatouristservice.com
 casasmediterraneas.com
@@ -63,8 +62,8 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 celebratingseniors.net
+cepde.org
 chat-server.maverickpreviews.com
 checkfivem.com
 cheetoclient.com
@@ -75,15 +74,16 @@ cl.ssouy.com
 clownguard.us
 clubdetiroelpicarcho.com
 cn.unionlever.com
+cocuktekstil.com
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
-coralpac.com
 coreprotector.org
 cpc188.day
 cpofficial.com
 crystalpvp.ru
 cs.go.kg
+csgroup.host
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
@@ -92,6 +92,7 @@ dcrun.co.uk
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
+delta-canvas.com
 dezcom.com
 dfd.zhzy999.net
 dinamikakargo.com
@@ -114,15 +115,12 @@ download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 dreamwatchevent.com
-dudn.xyz
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
-embedone.com
 en.taichuan.com
 epanpano.com
 escrowbank.co
-exec-roblox.com
 fable-shine.com
 fakers.co.jp
 familyaddons.com
@@ -131,10 +129,12 @@ fd.v2downf.shop
 feed-delta.com
 fil.immortales.life
 file.blackint3.com
+file.uhsea.com
 filerit.com
 filezilla.cc
 first-security-verden.de
 floppaclient.com
+floppaclient.org
 flyingmutts.com
 fmrio.com
 fotoschop.cl
@@ -149,7 +149,6 @@ gestroom.it
 getoutofthebackseat.com
 globalbank.us
 gloryhaven.org
-goobaaclient.com
 grantexx.com
 greatwhite.me
 greenf.alexion.rs
@@ -169,9 +168,11 @@ ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
+ikovrsps.com
 immortales.fun
 impectorinternational.com
 intelli-sys.co.zw
+internetlouisiana.com
 invmove.com
 ircftp.net
 isiore.com.co
@@ -194,6 +195,7 @@ lindnerelektroanlagen.de
 livinginpurpose.co.za
 local-update.com
 lomejordesalamanca.es
+loop-lumen.com
 luizmatoso.com.br
 lumacrea.com
 luminexclient.com
@@ -226,7 +228,7 @@ mysura.it
 n.vs108.com
 ncxps.com
 nd.tdpqnf.com
-niggersmp.net
+new-orleans.pl
 noithaticon.vn
 nova-client.com
 nusatoyota.co.id
@@ -248,17 +250,15 @@ pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
-polar.moe
 polarclient.net
+polinex.org
 polinexclient.org
 porterneuman.mx
 postelnini.mk
-preciosasjoyitas.com.mx
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 project0.cc
 public.demo.securecloudsandbox.com
-pvphood.cc
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 quillchant14.com
@@ -278,7 +278,8 @@ riderspin.com
 robertrowe.com
 romeopirlanta.com
 royalindiancurryclub.com
-rxb.immortales.fun
+rs74ed.s.gy
+s1w21.comen.store
 sablayan.seasonshotelmindoro.com
 safeifm.com
 sales.ifree.page
@@ -292,6 +293,7 @@ sdufkghdfshds.cfd
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
+sedrezltd.best
 seismophonic.com
 semencepourlavie.org
 seputartuban.com
@@ -300,6 +302,7 @@ shqdown.ggzuhao.com
 sigmaclient.net
 sk-comtel.com
 skyblock-addons.com
+skynetwork.lat
 smartermail.host
 soft.110route.com
 sp.negrrwe.info
@@ -308,18 +311,18 @@ sqpengg.com
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
+stat.bestcompliance.net
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
-streammobs.com
+stellaspicy.org
 sugarfreedcup.co.za
 summitcapitalpatners.ink
 support.clz.kr
-sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swervimgbackj.top
+swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -338,20 +341,22 @@ themaintechnician.us
 thementordirectory.com
 theoremaoliveoil.com
 thisisafalsepositive.st
+threejrev.com
 tiacreation.club
 tmcksa.com
+tms.hazentransferllc.com
 toolshare.com.tr
 top8onlinegame.com
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
 trtmyanmar.com
+twejamaica.org
 twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-uu.v2raynapps.com.cn
 veryboys.com
 visam.info
 vizyonuniversitesi.com.tr
@@ -359,22 +364,24 @@ vizyonuniversitesi.web.tr
 voidgame.ink
 vrajras.com
 w.zhzy999.net
-w5q.eu
+wall.casajuanchos.com
+webcstore.pw
 website.mypetapp.co.za
 whisone.cc
 widexenmexico.com.mx
 wielixclient.com
 wielixclient.net
 windomstatetheater.com
-windowsdiagnostics.st
 wittenhorst.eu
 wp.fujeigroup.com
 wsd.immortales.fun
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
+www.2goelectricity.cloud
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
+www.beinke-aufzuege.de
 www.benshamcentre.co.uk
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -401,6 +408,7 @@ www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
 www.okhan.net
+www.osmb.net
 www.pointtohealth.com
 www.reifenquick.de
 www.saf-oil.ru
@@ -417,7 +425,6 @@ www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
 www.zhikey.com
-xeno-cheats.xyz
 xenon.studio
 xenonclient.com
 xshop.com.tr
