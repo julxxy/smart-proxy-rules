@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-14 06:47:07 (UTC)                      #
+# Last updated: 2026-10-14 18:47:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 424
+# Number of entries: 430
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -36,9 +36,9 @@ app.appzcvb.com
 areyouready.co.za
 argon-client.com
 atasapka.com.tr
+audicontadores.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
-beak.in
 beamtechmacros.com
 benzinclick.live
 beoauto.alexion.rs
@@ -64,8 +64,8 @@ cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
-cdn.file6.goodid.com
 celebratingseniors.net
+cepde.org
 chantcompass9.com
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -84,6 +84,7 @@ continentalgroup.net.in
 coolairesgroup.com
 coreprotector.org
 cpc188.day
+cpofficial.com
 crackedclients.com
 crystalpvp.ru
 cs.go.kg
@@ -91,18 +92,17 @@ csgroup.host
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
-dasdase13.icu
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
-delta-canvas.com
 devs.kantales.life
 dezcom.com
 dfd.zhzy999.net
 dinamikakargo.com
+disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
@@ -112,6 +112,7 @@ donutdupe.com
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -125,13 +126,13 @@ embedone.com
 en.taichuan.com
 epanpano.com
 escrowbank.co
+explorer.vg
 fable-shine.com
 fakers.co.jp
 familyaddons.com
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
-file.uhsea.com
 filerit.com
 filezilla.cc
 first-security-verden.de
@@ -149,9 +150,9 @@ gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
 getoutofthebackseat.com
+ghost-new-live.ink
 globalbank.us
 gloryhaven.org
-gobiotechpestcontrol.com
 grantexx.com
 greatwhite.me
 greenf.alexion.rs
@@ -166,7 +167,6 @@ hitstation.nl
 hobobot.net
 hotelhungry.com
 hseda.com
-htdentshop.com
 ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
@@ -180,6 +180,7 @@ ircftp.net
 isiore.com.co
 itco.pe
 itssprout.com
+javb.omsules.life
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
@@ -207,7 +208,6 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
-mandarin.net.au
 maple30.com
 marlowclient.com
 meteorclients.com
@@ -228,10 +228,12 @@ mysura.it
 n.vs108.com
 ncxps.com
 nd.tdpqnf.com
+nebula-client.com
 new-orleans.pl
 noithaticon.vn
 nova-client.com
 novagames.cc
+nusatoyota.co.id
 obearo.com
 odinclient.st
 ojang.pe.kr
@@ -279,6 +281,7 @@ rs74ed.s.gy
 s1w21.comen.store
 sablayan.seasonshotelmindoro.com
 safeifm.com
+sales.ifree.page
 samiksha.com.sg
 samul.elblag.pl
 scanbot.me
@@ -296,6 +299,7 @@ semencepourlavie.org
 sendit.sh
 seputartuban.com
 sg123.net
+shqdown.ggzuhao.com
 sigmaclient.net
 sk-comtel.com
 skyblock-addons.com
@@ -305,13 +309,13 @@ smartermail.host
 soft.110route.com
 software.security-analyze.ltd
 sp.negrrwe.info
+spaceware.cc
 spgint.com
 sqpengg.com
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
 stat.bestcompliance.net
-static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -363,6 +367,7 @@ vizyonuniversitesi.web.tr
 vrajras.com
 w.zhzy999.net
 wall.casajuanchos.com
+webcstore.pw
 website.mypetapp.co.za
 widexenmexico.com.mx
 wielixclient.com
@@ -385,7 +390,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
-www.eyqw474.com
+www.elitecheatsx.live
 www.first-security-verden.de
 www.gestroom.it
 www.hostingcloud.science
@@ -427,6 +432,7 @@ xenonclient.com
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
+yimmenu.live
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
