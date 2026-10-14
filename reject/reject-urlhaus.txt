@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-13 20:22:19 (UTC)                      #
+# Last updated: 2026-10-14 06:47:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 422
+# Number of entries: 424
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -15,9 +15,10 @@
 3.zhzy999.net3.zhzy999.net
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 4eclient.com
-4k4iard.tupek.store
 65512.cfd
+6sim.vip
 OSMB.net
+aafesorder.com
 acc.jiangsujiaxue.com
 acms.saleseos.com
 activegrp.co.za
@@ -27,6 +28,7 @@ admin.gestroom.it
 aftelecom.com.br
 ahsniper.org
 aidlifempowerment.com
+alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
@@ -36,9 +38,11 @@ argon-client.com
 atasapka.com.tr
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
+beamtechmacros.com
+benzinclick.live
 beoauto.alexion.rs
 blankeyeo.com
-blaze-x.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
@@ -62,10 +66,11 @@ catbaparadisehotel.com.vn
 cdaonline.com.ar
 cdn.file6.goodid.com
 celebratingseniors.net
-cepde.org
+chantcompass9.com
 chat-server.maverickpreviews.com
 checkfivem.com
 cheetoclient.com
+cheminees-philippe45.com
 chiroartist.com
 chuguadventures.co.tz
 cid.gov.so
@@ -79,32 +84,34 @@ continentalgroup.net.in
 coolairesgroup.com
 coreprotector.org
 cpc188.day
+crackedclients.com
 crystalpvp.ru
 cs.go.kg
+csgroup.host
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
+dasdase13.icu
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
+delta-canvas.com
+devs.kantales.life
 dezcom.com
 dfd.zhzy999.net
 dinamikakargo.com
-disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 donkeytourscroatia.com
 donutclients.st
 donutdupe.com
-donutdupe.skyblock-qol.com
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -123,8 +130,6 @@ fakers.co.jp
 familyaddons.com
 farschid.de
 fd.v2downf.shop
-feed-delta.com
-fil.immortales.life
 file.blackint3.com
 file.uhsea.com
 filerit.com
@@ -134,7 +139,6 @@ floppaclient.com
 floppaclient.org
 flyingmutts.com
 fmrio.com
-fotoschop.cl
 ftp.vietnam852.com
 fucktermedfir.st
 fukt.link
@@ -143,9 +147,11 @@ fz.tiansys.cn
 galerisenimutiara.com
 gboutros.howto.rocks
 geoxsecurity.ro
+gestroom.it
 getoutofthebackseat.com
 globalbank.us
 gloryhaven.org
+gobiotechpestcontrol.com
 grantexx.com
 greatwhite.me
 greenf.alexion.rs
@@ -159,13 +165,13 @@ hitman-pro.ru
 hitstation.nl
 hobobot.net
 hotelhungry.com
+hseda.com
 htdentshop.com
 ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 ikovrsps.com
-immortales.fun
 impectorinternational.com
 intelli-sys.co.zw
 internetlouisiana.com
@@ -225,17 +231,14 @@ nd.tdpqnf.com
 new-orleans.pl
 noithaticon.vn
 nova-client.com
-nusatoyota.co.id
+novagames.cc
 obearo.com
 odinclient.st
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
-oldisgoldgameis.com
 onfiltre.com.tr
-onlocity.com
 opsecmod.st
-origin.nemoclawcloud.com
 outpost.co.ke
 p3.zbjimg.com
 pay.aqiu6.com
@@ -244,10 +247,11 @@ pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
 polarclient.net
+polinex.org
 polinexclient.org
 porterneuman.mx
 postelnini.mk
-powershell-storage.vg
+preciosasjoyitas.com.mx
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 project0.cc
@@ -267,6 +271,7 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 reutilizemais.co.mz
 rheddh.com
+riderspin.com
 robertrowe.com
 romeopirlanta.com
 royalindiancurryclub.com
@@ -274,7 +279,6 @@ rs74ed.s.gy
 s1w21.comen.store
 sablayan.seasonshotelmindoro.com
 safeifm.com
-sales.ifree.page
 samiksha.com.sg
 samul.elblag.pl
 scanbot.me
@@ -289,6 +293,7 @@ security-analyze.ltd
 sedrezltd.best
 seismophonic.com
 semencepourlavie.org
+sendit.sh
 seputartuban.com
 sg123.net
 sigmaclient.net
@@ -298,13 +303,14 @@ skyblock-qol.com
 skynetwork.lat
 smartermail.host
 soft.110route.com
-somautomotivorj.com.br
+software.security-analyze.ltd
 sp.negrrwe.info
 spgint.com
 sqpengg.com
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
+stat.bestcompliance.net
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -317,13 +323,11 @@ support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tartaklegnica.pl
-taunahi.skyblock-qol.com
 taunahi.st
 tecunonline.com
 tehnomag.rs
@@ -356,20 +360,16 @@ veryboys.com
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
-voidgame.ink
 vrajras.com
 w.zhzy999.net
 wall.casajuanchos.com
-webcstore.pw
 website.mypetapp.co.za
-whisone.cc
 widexenmexico.com.mx
 wielixclient.com
 wielixclient.net
+willow-13.com
 windomstatetheater.com
 wittenhorst.eu
-wp.fujeigroup.com
-wsd.immortales.fun
 www-connect-secure-wellcfargo.sekolahkejarpaket.com
 www.2goelectricity.cloud
 www.ardguisser.com
@@ -405,6 +405,7 @@ www.ojang.pe.kr
 www.okhan.net
 www.osmb.net
 www.pointtohealth.com
+www.porvootransitioncare.com
 www.reifenquick.de
 www.saf-oil.ru
 www.sgeseducation.com
@@ -420,6 +421,7 @@ www.vuelaviajero.com
 www.website.mypetapp.co.za
 www.xn--on3b15m2lco2u.com
 www.zamilgroups.com
+www.zhikey.com
 xenon.studio
 xenonclient.com
 xn--yh4bx88a.com
