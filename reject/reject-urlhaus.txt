@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-16 06:29:16 (UTC)                      #
+# Last updated: 2026-10-16 17:46:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 445
+# Number of entries: 438
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -14,9 +14,9 @@
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
-3brosstore.com
 4eclient.com
 6sim.vip
+MAMABEARCOFFEE.COM
 acc.jiangsujiaxue.com
 acms.saleseos.com
 adcentral.com.mx
@@ -28,17 +28,19 @@ aidlifempowerment.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
+alpharettaagency.com
 alternativas.ru
 anthonyspizzeriainc.com
 app.appzcvb.com
-aquatitewaterproofing.com
+areyouready.co.za
 argon-client.com
 atasapka.com.tr
+audicontadores.com
+autoclinic.autos
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
 beoauto.alexion.rs
-bigs.bikershop.biz
 blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
@@ -52,7 +54,6 @@ bridgeroad.maverickpreviews.com
 brotherspizzapeoria.com
 bserail.com
 bumcoinc.site
-buruujtech.com
 bvmatqnam.com.vn
 c-f-u.com
 cambodiatouristservice.com
@@ -76,20 +77,16 @@ chat-server.maverickpreviews.com
 checkfivem.com
 cheetoclient.com
 chiroartist.com
-christinadudley.com
 chuguadventures.co.tz
 cid.gov.so
 clownguard.us
 clubdetiroelpicarcho.com
 cn.unionlever.com
-community.firm.in
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
-coreprotector.org
 cosmical2049.com
 cpc188.day
-cresvin.com
 crystalpvp.ru
 cs.go.kg
 csgroup.host
@@ -99,7 +96,6 @@ d.wanyouxi7.com
 damiancollier.com
 dasdase13.icu
 data.yhydl.com
-db.foodbook.pk
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
@@ -107,7 +103,6 @@ debugify.net
 delp-heizungsbau.de
 delta-canvas.com
 dezcom.com
-dfd.zhzy999.net
 dinamikakargo.com
 dir.sonikjp.org
 disk.accord1key.cn
@@ -121,24 +116,22 @@ donutdupe.com
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
-down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-dreamwatchevent.com
+dreambot.info
 dynga.pl
-easycryptos.org
-ebullientlife.in
+educacom.com.br
 electri.billregulator.com
 elisans.novayonetim.com
 elmejorlocal.com.co
-embedone.com
 en.taichuan.com
 epanpano.com
 escrowbank.co
+exec-roblox.info
 fable-shine.com
 fabrics.lahoreshoes.com
 fairsexsecutor.xyz
@@ -154,7 +147,6 @@ floppaclient.com
 flyingmutts.com
 fmrio.com
 forge-ridge.com
-foundationforwomenshealth.com
 ftp.vietnam852.com
 fucktermedfir.st
 fukt.link
@@ -164,10 +156,8 @@ gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
 getoutofthebackseat.com
-ggi.dietondemand.com
 ghost-new-live.ink
 globalbank.us
-gloryhaven.org
 greatwhite.me
 greenf.alexion.rs
 griffcar.com.br
@@ -176,18 +166,19 @@ grupomcperu.com
 gutando.com
 harmeetmotors.com
 hasalltalent.com
+haven-post.com
 helpdesk09-26.com
 hewadexchange.com
 hitman-pro.ru
 hitstation.nl
 hotelhungry.com
 hseda.com
+htdentshop.com
 ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
-innovantksa.com
 internetmissouri.com
 invmove.com
 ircftp.net
@@ -196,7 +187,6 @@ itco.pe
 itssprout.com
 java.omsules.life
 javb.omsules.life
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -207,7 +197,6 @@ kimyen.net
 konsor.ru
 krause-fahrzeuge.de
 kryptonclient-cracked.com
-lahoreshoes.com
 landonirwin.com
 lawfirm.paperbirdtech.com
 ld-cf.com
@@ -228,16 +217,18 @@ makemewin.club
 mandarin.net.au
 maple30.com
 marlowclient.com
+medica-me.com
+medlinelab.com
 melonandworld.top
 meteorclients.com
 meteorrejects.net
 metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
+misano.gestroom.it
 mitreart.com
 mkconstructions.net
 mnurlogistics.az
-mobiletoolapp.com
 mogimall.com
 mrsweaterltd.com
 muaklekcoop.com
@@ -255,6 +246,7 @@ noithaticon.vn
 nova-client.com
 obearo.com
 odinclient.st
+oim.doganltd.com.tr
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
@@ -263,18 +255,17 @@ onlocity.com
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-pawn-shop.trustzonecam.com
+palharesinformatica.com.br
+pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
 physicsbyfiziks.org
-plenia.pt
 plochcarsportsball.top
 polarclient.net
 polinexclient.org
 porterneuman.mx
-pos.nittosupport.ca
 postelnini.mk
 preciosasjoyitas.com.mx
 prestigeclient.st
@@ -286,6 +277,7 @@ qiniuyunxz.yxflzs.com
 quillchant14.com
 ramirex.ro
 raqmnh.com
+rathodsoftware.in
 razao.pt
 rcf.co.mz
 rdm.91yunma.cn
@@ -300,7 +292,6 @@ robertrowe.com
 royalindiancurryclub.com
 runelite.cc
 rxb.immortales.fun
-sablayan.seasonshotelmindoro.com
 safeifm.com
 sales.ifree.page
 samiksha.com.sg
@@ -316,7 +307,6 @@ sec.xiaoshabi.nl
 security-analyze.ltd
 seismophonic.com
 semencepourlavie.org
-sep.dailytechinsight.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
@@ -331,18 +321,19 @@ spaceware.cc
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steelstanleystaystrong.top
 streammobs.com
-studiogioeli.it
+sudariocontabilidade.com.br
 sugarfreedcup.co.za
-sultanaexecutive.com
 support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 tabak.hr
 talkandtypeapp.com
 tangentwaves.com
@@ -352,6 +343,7 @@ tartaklegnica.pl
 taunahi.st
 tecunonline.com
 tehnomag.rs
+tengfeidn.cn
 tenis-team-km.com
 test.peperoncinochepassione.it
 thehaider.com
@@ -359,6 +351,7 @@ theholidayroads.com
 thementordirectory.com
 theoremaoliveoil.com
 therapygeorgia.com
+thesalons.in
 thisisafalsepositive.st
 tiacreation.club
 tmcksa.com
@@ -368,6 +361,7 @@ totemstudios.xyz
 tpp.om-stock.com
 tr.zhzy999.net
 transparenciacanaa.com.br
+tribot.co.uk
 trtmyanmar.com
 twitch.tj
 twu-hwt.org
@@ -405,9 +399,9 @@ www.controliumbt.com
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
+www.duelvalenza.it
 www.elitecheatsx.live
 www.first-security-verden.de
-www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -429,7 +423,6 @@ www.reifenquick.de
 www.saf-oil.ru
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
-www.sivritepeinsaat.com
 www.ss-01.com
 www.starcountry.net
 www.tdejb.com
