@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-16 17:46:15 (UTC)                      #
+# Last updated: 2026-10-17 06:06:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 438
+# Number of entries: 421
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -16,10 +16,8 @@
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
 4eclient.com
 6sim.vip
-MAMABEARCOFFEE.COM
 acc.jiangsujiaxue.com
 acms.saleseos.com
-adcentral.com.mx
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
@@ -28,7 +26,6 @@ aidlifempowerment.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
-alpharettaagency.com
 alternativas.ru
 anthonyspizzeriainc.com
 app.appzcvb.com
@@ -36,7 +33,6 @@ areyouready.co.za
 argon-client.com
 atasapka.com.tr
 audicontadores.com
-autoclinic.autos
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 beak.in
@@ -62,14 +58,12 @@ cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
-cda.omsules.life
 cdaonline.com.ar
-cdd.omsules.life
-cde.omsules.life
+cde.monther.life
 cdn.file6.goodid.com
+cdn.monther.life
 cdt.omsules.life
 cdw.omsules.life
-cedih.com
 celebratingseniors.net
 cepde.org
 chantcompass9.com
@@ -79,14 +73,16 @@ cheetoclient.com
 chiroartist.com
 chuguadventures.co.tz
 cid.gov.so
+cloubflare.net
 clownguard.us
 clubdetiroelpicarcho.com
+cmp4.top
 cn.unionlever.com
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
-cosmical2049.com
 cpc188.day
+cpofficial.com
 crystalpvp.ru
 cs.go.kg
 csgroup.host
@@ -94,8 +90,8 @@ d-j-d.com
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
-dasdase13.icu
 data.yhydl.com
+db.foodbook.pk
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
@@ -103,6 +99,7 @@ debugify.net
 delp-heizungsbau.de
 delta-canvas.com
 dezcom.com
+dfd.zhzy999.net
 dinamikakargo.com
 dir.sonikjp.org
 disk.accord1key.cn
@@ -116,6 +113,7 @@ donutdupe.com
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
+down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
@@ -124,17 +122,14 @@ download.pdf00.cn
 download.pdf00.com
 dreambot.info
 dynga.pl
-educacom.com.br
 electri.billregulator.com
 elisans.novayonetim.com
-elmejorlocal.com.co
 en.taichuan.com
 epanpano.com
+epstexsecutor.com
 escrowbank.co
 exec-roblox.info
 fable-shine.com
-fabrics.lahoreshoes.com
-fairsexsecutor.xyz
 fakers.co.jp
 familyaddons.com
 farschid.de
@@ -146,17 +141,16 @@ first-security-verden.de
 floppaclient.com
 flyingmutts.com
 fmrio.com
-forge-ridge.com
 ftp.vietnam852.com
 fucktermedfir.st
 fukt.link
 fullstacknir.com
 fz.tiansys.cn
+galerisenimutiara.com
 gboutros.howto.rocks
 geoxsecurity.ro
-gestroom.it
 getoutofthebackseat.com
-ghost-new-live.ink
+ggi.dietondemand.com
 globalbank.us
 greatwhite.me
 greenf.alexion.rs
@@ -168,25 +162,24 @@ harmeetmotors.com
 hasalltalent.com
 haven-post.com
 helpdesk09-26.com
-hewadexchange.com
 hitman-pro.ru
 hitstation.nl
+horno-rafelet.es
 hotelhungry.com
 hseda.com
-htdentshop.com
 ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
+intelli-sys.co.zw
 internetmissouri.com
 invmove.com
 ircftp.net
 isiore.com.co
 itco.pe
 itssprout.com
-java.omsules.life
-javb.omsules.life
+jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -197,6 +190,7 @@ kimyen.net
 konsor.ru
 krause-fahrzeuge.de
 kryptonclient-cracked.com
+kst.omsules.life
 landonirwin.com
 lawfirm.paperbirdtech.com
 ld-cf.com
@@ -204,7 +198,6 @@ lindnerelektroanlagen.de
 livinginpurpose.co.za
 local-update.com
 lomejordesalamanca.es
-luizmatoso.com.br
 lumacrea.com
 luminexclient.com
 luminexclient.net
@@ -212,30 +205,27 @@ luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
-main.lahoreshoes.com
 makemewin.club
+malupieng.com.br
 mandarin.net.au
 maple30.com
 marlowclient.com
-medica-me.com
-medlinelab.com
 melonandworld.top
 meteorclients.com
 meteorrejects.net
 metrics.gocloudmaps.com
 mibd.org
 miriamgualda.com.br
-misano.gestroom.it
 mitreart.com
 mkconstructions.net
 mnurlogistics.az
 mogimall.com
 mrsweaterltd.com
+msgrouppolicy.vg
 muaklekcoop.com
 muledo.com
 multiplay.at
 munihuacho.gob.pe
-mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
@@ -243,25 +233,23 @@ nd.tdpqnf.com
 nebula-client.com
 new.omsules.life
 noithaticon.vn
+nova-75.com
 nova-client.com
+nusatoyota.co.id
 obearo.com
 odinclient.st
-oim.doganltd.com.tr
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
 onfiltre.com.tr
-onlocity.com
 opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
-palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pfatrivandrum.org
 phantom-client.com
 photolivebook.pro
-physicsbyfiziks.org
 plochcarsportsball.top
 polarclient.net
 polinexclient.org
@@ -276,13 +264,12 @@ pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 quillchant14.com
 ramirex.ro
-raqmnh.com
-rathodsoftware.in
 razao.pt
 rcf.co.mz
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
+redxcvfsdgth.info
 reifenquick.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -291,7 +278,6 @@ riderspin.com
 robertrowe.com
 royalindiancurryclub.com
 runelite.cc
-rxb.immortales.fun
 safeifm.com
 sales.ifree.page
 samiksha.com.sg
@@ -307,6 +293,7 @@ sec.xiaoshabi.nl
 security-analyze.ltd
 seismophonic.com
 semencepourlavie.org
+sep.dailytechinsight.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
@@ -316,8 +303,8 @@ skyblock-addons.com
 skyblock-qol.com
 smartermail.host
 soft.110route.com
-software.security-analyze.ltd
 spaceware.cc
+spgint.com
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
@@ -327,14 +314,12 @@ static.youdm.cn
 stdown.dinju.com
 steelstanleystaystrong.top
 streammobs.com
-sudariocontabilidade.com.br
 sugarfreedcup.co.za
 support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
-tabak.hr
 talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -351,7 +336,6 @@ theholidayroads.com
 thementordirectory.com
 theoremaoliveoil.com
 therapygeorgia.com
-thesalons.in
 thisisafalsepositive.st
 tiacreation.club
 tmcksa.com
@@ -364,8 +348,6 @@ transparenciacanaa.com.br
 tribot.co.uk
 trtmyanmar.com
 twitch.tj
-twu-hwt.org
-universami.ge
 up.sb
 upaicdn.xinmei365.com
 upchemicals.co.in
@@ -377,6 +359,7 @@ visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
+vtivision-fi.com
 w.zhzy999.net
 webcstore.pw
 website.mypetapp.co.za
@@ -400,8 +383,8 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.duelvalenza.it
-www.elitecheatsx.live
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -411,6 +394,7 @@ www.kenwillzltd.com
 www.khavar.com
 www.konsor.ru
 www.medises.co.kr
+www.msud148.com
 www.myvcart.com
 www.namuvpn.com
 www.newkey.co.kr
@@ -440,7 +424,6 @@ xenonclient.com
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
-yimmenu.live
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
