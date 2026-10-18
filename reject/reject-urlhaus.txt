@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-18 06:32:18 (UTC)                      #
+# Last updated: 2026-10-18 17:31:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 423
+# Number of entries: 430
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -15,6 +15,7 @@
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
 31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net
+3brosstore.com
 4eclient.com
 6sim.vip
 80a6jnaz.basickantoor1.nl
@@ -39,6 +40,7 @@ audicontadores.com
 autohaus-bender.de
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
+beak.in
 beoauto.alexion.rs
 blankeyeo.com
 blessdayservices.org
@@ -63,10 +65,11 @@ cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
 cdaonline.com.ar
 cde.monther.life
+cdk.monther.life
 cdn.file6.goodid.com
 cdn.monther.life
-cdn.wovplaying.help
 celebratingseniors.net
+cepde.org
 chantcompass9.com
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -145,6 +148,7 @@ floppaclient.com
 flyingmutts.com
 fmrio.com
 frame-kite.com
+frame97.com
 ftp.vietnam852.com
 fucktermedfir.st
 fukt.link
@@ -173,7 +177,6 @@ haven-post.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
-horno-rafelet.es
 hotelhungry.com
 hseda.com
 htdentshop.com
@@ -182,6 +185,7 @@ icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
+intelli-sys.co.zw
 invmove.com
 ircftp.net
 isiore.com.co
@@ -195,7 +199,6 @@ jlwz.cn
 kavacanada.ca
 khavar.com
 kimyen.net
-kis.marketing
 konsor.ru
 krause-fahrzeuge.de
 kryptonclient-cracked.com
@@ -217,6 +220,7 @@ m.meta-dm.com
 maidforyou1985.com
 makemewin.club
 malupieng.com.br
+mandarin.net.au
 maple30.com
 marlowclient.com
 meteorclients.com
@@ -229,7 +233,6 @@ mitreart.com
 mkconstructions.net
 mnurlogistics.az
 mogimall.com
-mothertouch.ac.zw
 muaklekcoop.com
 muledo.com
 multiplay.at
@@ -242,7 +245,6 @@ nd.tdpqnf.com
 noithaticon.vn
 nova-75.com
 nova-client.com
-nusatoyota.co.id
 obearo.com
 odinclient.st
 ojang.pe.kr
@@ -254,6 +256,7 @@ opsecmod.st
 outpost.co.ke
 p-i-s-e.fr
 p3.zbjimg.com
+palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pee-files.nl
@@ -304,6 +307,7 @@ security-analyze.ltd
 seismophonic.com
 semencepourlavie.org
 sep.dailytechinsight.com
+seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
 sigmaclient.net
@@ -316,6 +320,7 @@ spgint.com
 srsorvete.com.br
 stanarcservice.com
 star.zcnet.net
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -409,6 +414,7 @@ www.reifenquick.de
 www.saf-oil.ru
 www.sgeseducation.com
 www.silver-hubdachwohnwagen.de
+www.skmac811.com
 www.ss-01.com
 www.starcountry.net
 www.tdejb.com
@@ -426,6 +432,7 @@ xenonclient.com
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
+yokobd.com
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
