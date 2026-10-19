@@ -1,12 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-18 17:31:25 (UTC)                      #
+# Last updated: 2026-10-19 07:00:43 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 430
+# Number of entries: 427
 123.ywxww.net
 1717.1000uc.com
 198-macros.com
@@ -67,9 +67,8 @@ cdaonline.com.ar
 cde.monther.life
 cdk.monther.life
 cdn.file6.goodid.com
-cdn.monther.life
+cdn.wovplaying.help
 celebratingseniors.net
-cepde.org
 chantcompass9.com
 chat-server.maverickpreviews.com
 checkfivem.com
@@ -81,20 +80,17 @@ cl.ssouy.com
 cloubflare.net
 clownguard.us
 clubdetiroelpicarcho.com
-cmp4.top
 cn.unionlever.com
 compuserviceonline.com.br
 continentalgroup.net.in
 coolairesgroup.com
 cpc188.day
-cpxlt.cn
 crystalpvp.ru
 cs.go.kg
 d.14yaa.com
 d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
-db.foodbook.pk
 dcrun.co.uk
 dcwblida.dz
 deagroup-ks.com
@@ -128,11 +124,11 @@ dreambot.info
 dynga.pl
 electri.billregulator.com
 elisans.novayonetim.com
+embedone.com
 en.taichuan.com
 epanpano.com
 epstexsecutor.com
 escrowbank.co
-exec-roblox.info
 exo-api.tf
 fable-shine.com
 fakers.co.jp
@@ -160,7 +156,6 @@ gboutros.howto.rocks
 geoxsecurity.ro
 gestroom.it
 getoutofthebackseat.com
-ggi.dietondemand.com
 gitrm.sbs
 gitsl.xyz
 gitview.sbs
@@ -196,22 +191,22 @@ jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
+jumalputty.com
 kavacanada.ca
 khavar.com
 kimyen.net
 konsor.ru
 krause-fahrzeuge.de
 kryptonclient-cracked.com
-kst.omsules.life
 landonirwin.com
 lawfirm.paperbirdtech.com
+leafdraft18.com
 lindnerelektroanlagen.de
 livinginpurpose.co.za
 local-update.com
 lomejordesalamanca.es
 londonairportstransfer.co.uk
 luizmatoso.com.br
-lumacrea.com
 luminexclient.com
 luminexclient.net
 luminouspower.com.pk
@@ -237,12 +232,12 @@ muaklekcoop.com
 muledo.com
 multiplay.at
 munihuacho.gob.pe
-mx9x.com
 mysura.it
 n.vs108.com
 ncxps.com
 nd.tdpqnf.com
 noithaticon.vn
+northernvirginiaeyeassociates.com
 nova-75.com
 nova-client.com
 obearo.com
@@ -267,22 +262,24 @@ polarclient.net
 polinexclient.org
 porterneuman.mx
 postelnini.mk
+power-shell.cc
 prestigeclient.st
 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 project0.cc
+ps-ps.cc
 public.demo.securecloudsandbox.com
 pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 quillchant14.com
 rabbids.cc
 ramirex.ro
+ray-id-v3.com
 razao.pt
 rcf.co.mz
 rdm.91yunma.cn
 re-id-v3.com
 reauthenticator.com
 records.dennisign.se
-redxcvfsdgth.info
 reifenquick.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -291,6 +288,7 @@ rheddh.com
 riderspin.com
 robertrowe.com
 royalindiancurryclub.com
+runelight.net
 runelite.cc
 safeifm.com
 sales.ifree.page
@@ -303,10 +301,8 @@ scrroeder.com
 sec.dashabi.in
 sec.xiaojiji.nl
 sec.xiaoshabi.nl
-security-analyze.ltd
 seismophonic.com
 semencepourlavie.org
-sep.dailytechinsight.com
 seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
@@ -331,7 +327,6 @@ sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
 swiftfusion.tech
-talkandtypeapp.com
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
@@ -364,11 +359,11 @@ update.cg100iii.com
 uu.v2raynapps.com.cn
 veryboys.com
 viewgit.sbs
+vine-linen.com
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-vtivision-fi.com
 w.zhzy999.net
 website.mypetapp.co.za
 widexenmexico.com.mx
@@ -434,6 +429,8 @@ xshop.com.tr
 yakult-hk.com
 yokobd.com
 youtransfer.net
+zamatours.net
 zamilgroups.com
 zhigao5191.com
+zimzar.site
 zycdjz.com
