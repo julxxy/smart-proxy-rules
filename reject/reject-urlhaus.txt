@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-10-20 06:51:09 (UTC)                      #
+# Last updated: 2026-10-20 18:31:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-# Number of entries: 422
+# Number of entries: 429
+123.ywxww.net
 1717.1000uc.com
 198-macros.com
 198macros.org
@@ -26,11 +27,10 @@ aidlifempowerment.com
 alarmline.com.br
 alineeleuterio.com.br
 allendostmen.com
+altamoorgoods.com
 alternativas.ru
 anubisclient.co.uk
 api.recapcha.fun
-api.xyz-code.biz
-app.app-river.icu
 app.appzcvb.com
 areyouready.co.za
 argon-client.com
@@ -40,6 +40,7 @@ autohaus-bender.de
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 bankruptcyrhodeisland.com
+beak.in
 beoauto.alexion.rs
 betmagik.com
 bismarckchiropractor.com
@@ -69,13 +70,12 @@ cdk.monther.life
 cdn.file6.goodid.com
 cdn.wovplaying.help
 celebratingseniors.net
+cepde.org
 chantcompass9.com
 chat-server.maverickpreviews.com
-check.okx3.io
 checkfivem.com
 cheetoclient.com
 chuguadventures.co.tz
-cid.gov.so
 cl.ssouy.com
 cloubflare.net
 cloubflare.top
@@ -93,6 +93,7 @@ d.wanyouxi7.com
 damiancollier.com
 data.yhydl.com
 dcrun.co.uk
+dcwblida.dz
 deagroup-ks.com
 debugify.net
 delp-heizungsbau.de
@@ -105,17 +106,16 @@ disk.accord1key.cn
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
-do.opinionvip.club
 domainmob.com
 donkeytourscroatia.com
 donutbasefinder.com
+donutclients.top
 donutsmpclient.com
 down.fwqlt.com
 down.pcclear.com
 down.qqfarmer.com.cn
 download.caihong.com
 download.doumaibiji.cn
-download.foden.site
 download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
@@ -131,12 +131,14 @@ epstexsecutor.com
 escrowbank.co
 exo-api.tf
 fable-shine.com
+faceit.syncacc.pro
 fakers.co.jp
 familyaddons.com
 familyaddons.org
 farschid.de
 fd.v2downf.shop
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 floppaclient.com
@@ -145,6 +147,7 @@ fmrio.com
 frame-kite.com
 frame97.com
 ftp.vietnam852.com
+fucktermedfir.st
 fukt.link
 fullstacknir.com
 funnymap.net
@@ -170,15 +173,16 @@ haven-post.com
 helpdesk09-26.com
 hitman-pro.ru
 hitstation.nl
-horno-rafelet.es
+hobobot.net
 hotelhungry.com
 hseda.com
-htdentshop.com
 ibidasjohnnraplc.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 impectorinternational.com
+innovspora.co.zw
+intelli-sys.co.zw
 invmove.com
 ircftp.net
 isiore.com.co
@@ -237,6 +241,7 @@ nd.tdpqnf.com
 noithaticon.vn
 nova-75.com
 nova-client.com
+nusatoyota.co.id
 obearo.com
 odinclient.st
 ojang.pe.kr
@@ -247,7 +252,6 @@ opsecmod.st
 outpost.co.ke
 p3.zbjimg.com
 palharesinformatica.com.br
-pay.aqiu6.com
 pcupd.com
 pee-files.nl
 pfatrivandrum.org
@@ -278,6 +282,7 @@ records.dennisign.se
 reifenquick.de
 reservphotoinstay.one
 reservphotoinstaynow.shop
+reutilizemais.co.mz
 rheddh.com
 riderspin.com
 robertrowe.com
@@ -287,6 +292,7 @@ runelite.cc
 safeifm.com
 sales.ifree.page
 samiksha.com.sg
+samul.elblag.pl
 sbmods.top
 scanbot.me
 scoala1gherla.ro
@@ -321,6 +327,7 @@ support.clz.kr
 sushiandpoke.pt
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 swscripts.com
 tangentwaves.com
 tanscarattorneys.co.tz
@@ -335,7 +342,6 @@ test.peperoncinochepassione.it
 thehaider.com
 theholidayroads.com
 thementordirectory.com
-theoremaoliveoil.com
 thisisafalsepositive.st
 tiacreation.club
 tmcksa.com
@@ -424,6 +430,7 @@ xenonclient.com
 xn--yh4bx88a.com
 xshop.com.tr
 yakult-hk.com
+youreonlymassive.com
 youtransfer.net
 zamilgroups.com
 zhigao5191.com
