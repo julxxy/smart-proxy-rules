@@ -7,12 +7,11 @@
 | 规则                   |          域名数          |  估算内存  | 说明                      |
 |:-----------------------|:------------------------:|:----------:|---------------------------|
 | reject-threat          |         个人维护         |   <1 MB    | classical 格式，条数少    |
-| reject-malware         |           ~463           |   <1 MB    | URLhaus 实时恶意域名      |
 | reject-cn-ads-awavenue |           ~903           |   <1 MB    | AWAvenue 秋风，人工精选   |
 | reject-cn-ads-antiad   |         ~116,000         |   ~3 MB    | anti-AD，CN 广告主力      |
 | reject-1hosts-lite     |         ~198,000         |   ~6 MB    | 1Hosts Lite，国际追踪为主 |
 | reject-hagezi-pro      |         ~400,000         |   ~12 MB   | HaGeZi Pro，全球兜底      |
-| **六个合计**           | **~57 万（去重后估算）** | **~22 MB** |                           |
+| **五个合计**           | **~57 万（去重后估算）** | **~22 MB** |                           |
 
 > 💡 `Loyalsoldier/reject.txt`（`v2fly/category-ads-all`）已从所有方案中移除——其 CN 部分被 AWAvenue + anti-AD 全覆盖，国际部分被
 > HaGeZi Pro 全覆盖，属于纯冗余。
@@ -49,18 +48,16 @@ rules:
 
 ### 🟡 小内存路由器（128–512 MB）
 
-**推荐搭配（3 个，~13 MB）：**
+**推荐搭配（2 个，~13 MB）：**
 
 ```yaml
 rules:
-  - RULE-SET,reject-malware,REJECT           # URLhaus 实时恶意域名，<1 MB
   - RULE-SET,reject-cn-ads-awavenue,REJECT   # AWAvenue 秋风，<1 MB
   - RULE-SET,reject-hagezi-pro,REJECT        # HaGeZi Pro，~12 MB
 ```
 
 **取舍理由：**
 
-- ✅ `reject-malware`：仅 463 条，几乎不占内存，实时威胁价值高，必留
 - ✅ `reject-cn-ads-awavenue`：903 条精准无误杀，CN 广告命中率极高，必留
 - ✅ `reject-hagezi-pro`：40 万条全球兜底，是核心，必留
 - ❌ `reject-cn-ads-antiad`：11.6 万条占 ~3 MB，内存紧张时可舍——AWAvenue 补位 CN 精准广告，损失可控
@@ -70,7 +67,7 @@ rules:
 
 ### 🟢 标准方案（内存 ≥ 256 MB，推荐）
 
-**推荐搭配（5 个，~16 MB）：**
+**推荐搭配（4 个，~16 MB）：**
 
 ```yaml
 rule-providers:
@@ -81,15 +78,6 @@ rule-providers:
     behavior: classical
     url: "https://raw.githubusercontent.com/julxxy/smart-proxy-rules/main/reject/reject-threat.conf"
     path: ./ruleset/reject-threat.conf
-    interval: 86400
-
-  # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
-  reject-malware:
-    type: http
-    format: text
-    behavior: domain
-    url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
-    path: ./ruleset/reject-malware.yaml
     interval: 86400
 
   # 秋风广告规则 (AWAvenue Ads) — CN 精准层
@@ -121,7 +109,6 @@ rule-providers:
 
 rules:
   - RULE-SET,reject-threat,REJECT             # 个人维护威胁情报
-  - RULE-SET,reject-malware,REJECT            # 实时恶意域名（URLhaus）
   - RULE-SET,reject-cn-ads-awavenue,REJECT    # AWAvenue 秋风（CN 精准）
   - RULE-SET,reject-cn-ads-antiad,REJECT      # anti-AD（CN 主力）
   - RULE-SET,reject-hagezi-pro,REJECT         # HaGeZi Pro（全球兜底）
@@ -147,7 +134,6 @@ rules:
 ```yaml
 rules:
   - RULE-SET,reject-threat,REJECT
-  - RULE-SET,reject-malware,REJECT
   - RULE-SET,reject-cn-ads-awavenue,REJECT
   - RULE-SET,reject-cn-ads-antiad,REJECT
   - RULE-SET,reject-1hosts-lite,REJECT        # 1Hosts Lite（国际补充）
@@ -169,12 +155,12 @@ rules:
 
 ### 总结
 
-| 路由器内存 | 推荐组合                                         | 去重后域名数 | 估算内存 |
-|:-----------|:-------------------------------------------------|:------------:|:--------:|
-| ≤ 64 MB    | AWAvenue                                         |     ~903     |  <1 MB   |
-| 128–512 MB | AWAvenue + URLhaus + HaGeZi                      |    ~40 万    |  ~13 MB  |
-| ≥ 256 MB   | 威胁情报 + URLhaus + AWAvenue + anti-AD + HaGeZi |    ~52 万    |  ~16 MB  |
-| ≥ 1 GB     | 全部（含 1Hosts Lite）                           |    ~57 万    |  ~22 MB  |
+| 路由器内存 | 推荐组合                               | 去重后域名数 | 估算内存 |
+|:-----------|:---------------------------------------|:------------:|:--------:|
+| ≤ 64 MB    | AWAvenue                               |     ~903     |  <1 MB   |
+| 128–512 MB | AWAvenue + HaGeZi                      |    ~40 万    |  ~13 MB  |
+| ≥ 256 MB   | 威胁情报 + AWAvenue + anti-AD + HaGeZi |    ~52 万    |  ~16 MB  |
+| ≥ 1 GB     | 全部（含 1Hosts Lite）                 |    ~57 万    |  ~22 MB  |
 
 > ⚠️ 若使用标准方案后频繁遇到国内 App / 网站访问异常，建议先移除 **anti-AD**，仅保留 AWAvenue + HaGeZi Pro 观察效果——anti-AD
 > 误杀率在所有规则源中最高。

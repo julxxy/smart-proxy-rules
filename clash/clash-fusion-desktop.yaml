@@ -179,15 +179,6 @@ rule-providers:
     path: ./ruleset/reject-threat.conf
     interval: 86400
 
-  # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
-  reject-malware:
-    type: http
-    behavior: domain
-    format: text
-    url: "https://fastly.jsdelivr.net/gh/julxxy/smart-proxy-rules/reject/reject-urlhaus.txt"
-    path: ./ruleset/reject-malware.yaml
-    interval: 86400
-
   # 秋风广告规则 (AWAvenue Ads)
   reject-cn-ads-awavenue:
     type: http
@@ -288,7 +279,6 @@ rules:
   - RULE-SET,override-direct,DIRECT               # 误拦截修正 - 强制直连白名单
   - RULE-SET,override-proxy,Proxy                 # 误直连修正 - 强制走代理
   - RULE-SET,reject-threat,REJECT                 # 个人维护 - 威胁情报（诈骗、钓鱼、恶意软件等）
-  - RULE-SET,reject-malware,REJECT                # 实时恶意软件/钓鱼域名（abuse.ch URLhaus）
   - RULE-SET,reject-cn-ads-awavenue,REJECT        # 秋风广告规则 (AWAvenue Ads)
   - RULE-SET,reject-cn-ads-antiad,REJECT          # anti-AD (10万+）
   - RULE-SET,reject-hagezi-pro,REJECT             # 全球广告/追踪/隐私威胁（HaGeZi Pro，40万条）
