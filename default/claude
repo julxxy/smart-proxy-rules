@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,clau.de,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,claude.run,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
+DOMAIN-SUFFIX,claudemcpcontent.com,PROXY
 DOMAIN-SUFFIX,platform.claude.com,PROXY
 DOMAIN-SUFFIX,code.claude.com,PROXY
 DOMAIN-SUFFIX,docs.claude.com,PROXY
@@ -16,3 +17,4 @@ DOMAIN-SUFFIX,intercomcdn.com,PROXY
 DOMAIN-SUFFIX,statsig.com,PROXY
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 DOMAIN,anthropic.com.cdn.cloudflare.net,PROXY
+IP-CIDR,34.8.0.0/16,PROXY,no-resolve

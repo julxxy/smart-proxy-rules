@@ -36,6 +36,7 @@ payload:
   - 'DOMAIN-SUFFIX,claude.com,PROXY'
   - 'DOMAIN-SUFFIX,claude.run,PROXY'
   - 'DOMAIN-SUFFIX,claudeusercontent.com,PROXY'
+  - 'DOMAIN-SUFFIX,claudemcpcontent.com,PROXY'
   - 'DOMAIN-SUFFIX,platform.claude.com,PROXY'
   - 'DOMAIN-SUFFIX,code.claude.com,PROXY'
   - 'DOMAIN-SUFFIX,docs.claude.com,PROXY'
@@ -43,6 +44,7 @@ payload:
   - 'DOMAIN-SUFFIX,intercomcdn.com,PROXY'
   - 'DOMAIN-SUFFIX,statsig.com,PROXY'
   - 'DOMAIN,servd-anthropic-website.b-cdn.net,PROXY'
+  - 'DOMAIN,anthropic.com.cdn.cloudflare.net,PROXY'
 
   # Source: copilot-in-edge
   - 'PROCESS-NAME,msedge,DIRECT'
@@ -204,7 +206,9 @@ payload:
   - 'DOMAIN-SUFFIX,ct.sendgrid.net,PROXY'
   - 'DOMAIN-SUFFIX,jetbrains.com,PROXY'
   - 'DOMAIN-SUFFIX,onetrust.com,PROXY'
-  - 'DOMAIN-SUFFIX,website-files.com,PROXY;'
+  - 'DOMAIN-SUFFIX,website-files.com,PROXY'
+  - 'DOMAIN-SUFFIX,sift.com,PROXY'
+  - 'DOMAIN-SUFFIX,siftscience.com,PROXY'
 
   # Source: google-ai
   - 'DOMAIN,ai.google.dev'
